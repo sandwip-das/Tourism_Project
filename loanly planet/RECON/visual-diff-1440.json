@@ -1,0 +1,26 @@
+{
+  "original": {
+    "width": 1440,
+    "height": 900
+  },
+  "clone": {
+    "width": 1440,
+    "height": 900
+  },
+  "comparedCanvas": {
+    "width": 1440,
+    "height": 900
+  },
+  "threshold": 0.08,
+  "changedPixels": 6317,
+  "totalPixels": 1296000,
+  "diffPixelRatio": 0.0048742283950617285,
+  "meanAbsDiff": 0.005771729000319911,
+  "rmse": 0.030675201167529306,
+  "visualScore": 5,
+  "files": {
+    "original": "C:\\Users\\Sandwip\\AppData\\Roaming\\Open Design\\namespaces\\release-stable-win\\data\\projects\\b1dff701-a113-4be9-bb16-357c4effde92\\RECON\\screenshots\\original-1440.png",
+    "clone": "C:\\Users\\Sandwip\\AppData\\Roaming\\Open Design\\namespaces\\release-stable-win\\data\\projects\\b1dff701-a113-4be9-bb16-357c4effde92\\RECON\\screenshots\\clone-1440.png",
+    "diff": "C:\\Users\\Sandwip\\AppData\\Roaming\\Open Design\\namespaces\\release-stable-win\\data\\projects\\b1dff701-a113-4be9-bb16-357c4effde92\\RECON\\screenshots\\visual-diff-1440.png"
+  }
+}

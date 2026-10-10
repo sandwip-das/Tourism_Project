@@ -1,0 +1,938 @@
+[
+  {
+    "url": "https://www.lonelyplanet.com/",
+    "status": 200,
+    "type": "document",
+    "ct": "text/html"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/global.Bs89zo3x.css",
+    "status": 200,
+    "type": "stylesheet",
+    "ct": "text/css"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/landingPageSchema.VQL8-Zjb.css",
+    "status": 200,
+    "type": "stylesheet",
+    "ct": "text/css"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/layout.astro_astro_type_script_index_0_lang.qBQwlWeA.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/page.Cvc0OMbI.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://websdk.appsflyer.com/?st=banners&",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript"
+  },
+  {
+    "url": "https://js-agent.newrelic.com/nr-loader-spa-current.min.js",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript"
+  },
+  {
+    "url": "https://assets.staticlp.com/fonts/grotesk/ABCMonumentGroteskMono-Regular.woff2",
+    "status": 200,
+    "type": "font",
+    "ct": "binary/octet-stream"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/eventListeners.B1qWm9Ny.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/preload-helper.B3nfOi5I.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://assets.staticlp.com/fonts/arizona-flare/ABCArizonaFlare-Regular.woff2",
+    "status": 200,
+    "type": "font",
+    "ct": "binary/octet-stream"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/tagular.Dvx7rnp4.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/globalNav.astro_astro_type_script_index_0_lang.DVQmVTIp.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-P9V444",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=UTF-8"
+  },
+  {
+    "url": "https://assets.staticlp.com/fonts/grotesk/ABCMonumentGrotesk-Regular.woff2",
+    "status": 200,
+    "type": "font",
+    "ct": "binary/octet-stream"
+  },
+  {
+    "url": "https://assets.staticlp.com/fonts/grotesk/american-grotesk-compressed-black.woff2",
+    "status": 200,
+    "type": "font",
+    "ct": "binary/octet-stream"
+  },
+  {
+    "url": "https://assets.staticlp.com/fonts/grotesk/american-grotesk-bold.woff2",
+    "status": 200,
+    "type": "font",
+    "ct": "binary/octet-stream"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/index.9NOoacpU.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/client.BnXPp-SH.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/footerDropdown.4Cbv903j.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/layout.astro_astro_type_script_index_2_lang.DQ9BiV8k.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/classnames.4zwll4zS.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/rolldown-runtime.Dd_uD5pT.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/web.DF2tQe06.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/browser.CtL8iCJ3.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/social.BcJ9kx3Q.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/icons.BqdnCH8L.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/_withIcon.BO3zLoet.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_server-islands/ProfilePanel?e=407755F5168BCCEAAB796704G%2FWhdBhxGTz4p%2Ba6bmGH8611nqdKRMs%3D&p=EC43A10BE105A65EBB1176D3ts0BEBvKlhYlkQ5auZLAKlR0wE%2F7JHMwcs6cB0tQB7vpqEKruQ%3D%3D&s=",
+    "status": 200,
+    "type": "other",
+    "ct": "text/html"
+  },
+  {
+    "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript"
+  },
+  {
+    "url": "https://cdn.cookielaw.org/consent/7a50bfcb-16c5-4ea3-a5a7-ec0129526f1b/7a50bfcb-16c5-4ea3-a5a7-ec0129526f1b.json",
+    "status": 200,
+    "type": "xhr",
+    "ct": "application/json"
+  },
+  {
+    "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+    "status": 200,
+    "type": "xhr",
+    "ct": "application/json"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_server-islands/ArticlesLayout?e=72576CFCD0A9DCF0F7F85565sGJT113Qg1SH8TvtkAAs7eMaTF1BX3Y%3D&p=F74CA77DCD5DC8D31A717540v9QHWj11dxslM48B6HkXeCof5lUdBJxKrs35ZJVAxVb0kauvzci6OURt5AF1kBZHKmM1L67jPG7L%2F4CAiLW77sXLhnKFps8QSDQAyIVTOJSiOD8Y3y0rzDbd2J2%2FTW26uBgD3HRxmxWP9EIJJdDdl0Sl%2FGIiEZHUFFBCBhjoucztzBCTplEHMP7P0s%2BOv40GoiO6Y4YJWIo5NEkc67P5Q0L4tXRvZViuS5RGwWJQs%2F7Yi3Wxs9nrWvV3bSTStqh%2BhTQtCBjF3xI45cPFGLYQEKDGaNql1xWYKD77XRISD1em1yrPu%2BNA4j%2Bdi5mcvAoxVlIvkkvekP1iZH8lau5Y%2FnAUanpr9okjgeqfJdVH8q1v81PUu0OPb2RzSxBsqcsw6YSie2egROhM14hgBema4eEFI3Im3MGKuxWLjl5WJoPNYwJMVcCoryyg93UXUflP6RPX%2BvCk7SeE6hn7pcwybbUz0LQJmjOcMvTSIdzR1fhkZCxmfJeWRoPK7vqxxUXCs43zAPbHmRR9OlivK5kECVUkli6%2FHTxRf79W%2FCMOm13SWAOHCSjSDjB3%2F8F0AO4jhyJ5cxke%2Fo7ogtnqaGJD%2FRiR%2BWVlyDEUP8%2BF2h6WQkzQWiC6rtGrb%2Bl68zwiuBRn9KO%2BFRyeZnNH3kYMRlxigFh8kfAtNRXKD8F8iEHW%2BiLVIl9ROS5sCdH4o7IsxN5bga7w%2B1b29aJK%2FsIZmwbTGijcN6wmgCjTe%2BewAPs%3D&s=",
+    "status": 200,
+    "type": "other",
+    "ct": "text/html"
+  },
+  {
+    "url": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/otBannerSdk.js",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript"
+  },
+  {
+    "url": "https://cdn.cookielaw.org/consent/7a50bfcb-16c5-4ea3-a5a7-ec0129526f1b/019cb94d-4503-7a69-a6ca-3fe8ba636f72/en.json",
+    "status": 200,
+    "type": "fetch",
+    "ct": "application/json"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_server-islands/PlaceCarouselLayout?e=F13736AD22166C946D945077%2BdEspObRTDS0ep6sQktL3JRTkcSgmLc%3D&p=E25918577855D6D102B7464DSvATlNa1czvqcPnhx8LG1lT0UeJPtEGMc%2BIp3Ibr4jm%2BREKeEu2RL42wBc5lke7GW34w8Y7HEpzk8WUqscOOuDCJR6WEU9TFm2Vz1UjGuweatKxkoCCHvcku5oEQfPjxSp%2BmfoCMmivwGBdKpcw29pkBSFAZmtEYzbiLmGL4VBZWcwZ%2FLrEnupIF%2FMmn71YLAb6uoFiiHFF5ur9ioEJL35Gr7VdFAYVKgE8lC7Yn1mRBuXYoR1S0QfA%2FKouKV%2FSfgRL%2BM08myaAcmfMLIItDBKPR4rL%2FhbbPjJN1W2%2BFFGHvO3uiw8fz0IcgDocUMZdCUjLYSg%2BnGOxHTg1%2BskSKB3jIx6u%2FOt5mSio9HyQT48Uf3%2Bt56Do5xov4bPzUVew7ur0blQqkIWrfbQEiwM8a7sZKhLkjKnpBxolkw9gdeYcYdGX3jgjxGryJv9SL2mZoqI%2FSMq549VtjX6nwZbxU3Bs4aqf%2FMPtrlSvLGUlfKBiBOzHuZ759aaiXeCG1uafcD0Ftlp%2FdqC%2BpE7jCgkJ6TDpCei6vLr%2FTjwoe8N%2B8eyoBkxDyDlrwwL0%2Ffu0CjD8z8%2BgZJRsKFbFxclvQ9FLXUsvl7pzQE4cZZ%2FnfQnxOnk0LFoZuAKbmatKFSu01VwHb7jXjyAbnFVr3k3juDjVrU3Qi0RT%2BhibAyDeeO3lUrvG4%2FH%2BSBXwl&s=",
+    "status": 200,
+    "type": "other",
+    "ct": "text/html"
+  },
+  {
+    "url": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/v2/otPcPanel.json",
+    "status": 200,
+    "type": "fetch",
+    "ct": "application/json"
+  },
+  {
+    "url": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otCommonStyles.css",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/css"
+  },
+  {
+    "url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+    "status": 200,
+    "type": "fetch",
+    "ct": "image/svg+xml"
+  },
+  {
+    "url": "https://widget.getyourguide.com/dist/pa.umd.production.min.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+    "status": 200,
+    "type": "image",
+    "ct": "image/png"
+  },
+  {
+    "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+    "status": 200,
+    "type": "image",
+    "ct": "image/svg+xml"
+  },
+  {
+    "url": "https://cohesion.lonelyplanet.com/cohesion/cohesion-latest.min.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://widget.getyourguide.com/pw/latest/client-loader/widget.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://www.google-analytics.com/analytics.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://www.googletagservices.com/tag/js/gpt.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript; charset=UTF-8"
+  },
+  {
+    "url": "https://sb.scorecardresearch.com/internal-cs/default/beacon.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_server-islands/ArticlesLayout?e=5384E42902CC5B36708BBA51nLVm5lmu0zwGzeioox5%2B%2B8vyVfVap6U%3D&p=8B060A24DE79F22B848C55D7qaYzJstjgjdGDo0RYV4igmW4cgbyVQeY48%2Fi%2FAbi8VWHRy%2F0oI78hqC%2FWW0yzTgINsHzK652gXCBlD5tJCFlocTqUNwnhkoNuHEt%2BPknF6CNEIpnu%2FUPVLBaHItqXG1CLteAg%2B8bDkKcbKy6ipHtXGINiEdukYBoAjANv9HXhQHxOhoEmVlXWKUstFrSgp7QaRNMt99XPvuoBjR6yEU859D5QW0mC2w8FB7Z2MHyjZLABTPjbKyHuS50mmDn0K9zzFM%3D&s=",
+    "status": 200,
+    "type": "other",
+    "ct": "text/html"
+  },
+  {
+    "url": "https://secure.quantserve.com/quant.js",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript"
+  },
+  {
+    "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=111007994&t=pageview&_s=1&dl=https%3A%2F%2Fwww.lonelyplanet.com%2F&ul=en-us&dt=Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet&sr=800x600&vp=1425x900&_u=YEBAAEABAAAAACAAI~&jid=350840567&gjid=157303122&cid=1646243942.1791141991&tid=UA-11222786-2&_gid=1617728936.1791141991&_r=1&_slc=1&gtm=45He69u2n71P9V444v72557567za200zd72557567xf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117971173~118897920~118897930~120385422~120469145~120469153~121436581&z=1469934043",
+    "status": 200,
+    "type": "xhr",
+    "ct": "text/plain"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-0C082JLRD2&cx=c&gtm=4e69u2",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=UTF-8"
+  },
+  {
+    "url": "https://rules.quantcount.com/rules-p-jymSSN13mzc8U.js",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript"
+  },
+  {
+    "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202609300101/pubads_impl.js?cb=122881362",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript; charset=UTF-8"
+  },
+  {
+    "url": "https://cdn.cohesionapps.com/cohesion/xs1.html",
+    "status": 200,
+    "type": "document",
+    "ct": "text/html"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_7ioq9i5auh6ld4rdcg5lroja3t/-FJPG-C2050x1537%2C0%2C256-S828x621",
+    "status": 200,
+    "type": "image",
+    "ct": "image/jpeg"
+  },
+  {
+    "url": "https://www.google.com.bd/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-0C082JLRD2&cid=1646243942.1791141991&gtm=45je69u2v874484220z872557567za20gzb72557567zd72557567xf1&rcb=7&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153&z=1955599169",
+    "status": 200,
+    "type": "image",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://sb.scorecardresearch.com/b2?c1=2&c2=31824268&cs_it=b1&cv=4.14.0%2B2608070551&ns__t=1791141991570&ns_c=UTF-8&cs_cfg=1101110&cs_fpid=undefined&cs_fpit=c&cs_fpdm=*null&cs_fpdt=*null&cs_ucfr=&c7=https%3A%2F%2Fwww.lonelyplanet.com%2F&c8=Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet&c9=",
+    "status": 204,
+    "type": "image",
+    "ct": ""
+  },
+  {
+    "url": "https://sb.scorecardresearch.com/b2?c1=2&c2=31824268&cs_it=b1&cv=4.14.0%2B2608070551&ns__t=1791141991569&ns_c=UTF-8&cs_cfg=1101110&cs_fpid=undefined&cs_fpit=c&cs_fpdm=*null&cs_fpdt=*null&cs_ucfr=&c7=https%3A%2F%2Fwww.lonelyplanet.com%2F&c8=Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet&c9=",
+    "status": 204,
+    "type": "image",
+    "ct": ""
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_o683v8n8652o9dss1ic9nni56p/-FWEBP-C2050x1153%2C0%2C191-S1536x864",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_96a1gsfaj54ph9vrhp77bol01r/-FJPG-C1577x1182%2C0%2C433-S828x621",
+    "status": 200,
+    "type": "image",
+    "ct": "image/jpeg"
+  },
+  {
+    "url": "https://pixel.quantserve.com/cs?a=p-jymSSN13mzc8U&gdpr=0&sf2=1&__qcmcs=1",
+    "status": 200,
+    "type": "fetch",
+    "ct": "application/json"
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-0C082JLRD2&gtm=45je69u2v874484220z872557567za20gzb72557567zd72557567xf1&_p=1791141990189&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&ecid=332051786&_eu=AAAAAGAC&cid=1646243942.1791141991&ec_mode=a&frm=0&pscdl=noapi&rcb=7&sr=800x600&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.93%7CGoogle%2520Chrome%3B154.0.8037.93%7CNot%2520A(Brand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153&sid=1791141991&sct=1&seg=0&dl=https%3A%2F%2Fwww.lonelyplanet.com%2F&dt=Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet&en=page_view&_fv=1&_ss=1&tfd=1757",
+    "status": 204,
+    "type": "fetch",
+    "ct": "text/plain"
+  },
+  {
+    "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-0C082JLRD2&cid=1646243942.1791141991&gtm=45je69u2v874484220z872557567za20gzb72557567zd72557567xf1&rcb=7&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153",
+    "status": 204,
+    "type": "ping",
+    "ct": "text/plain"
+  },
+  {
+    "url": "https://cm.g.doubleclick.net/partnerpixels?url=https%3A%2F%2Fwww.lonelyplanet.com%2F",
+    "status": 200,
+    "type": "document",
+    "ct": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=4048410709105874&correlator=2984623205709197&eid=95404584%2C122880891%2C122881362&output=ldjh&gdfp_req=1&vrg=202609300101&ptt=17&impl=fifs&iu_parts=9885583%2CLonelyPlanet.com%2Chomepage%2Ctop&enc_prev_ius=%2F0%2F1%2F2%2F3&prev_iu_szs=970x250%7C970x90%7C728x90%7C1x1&ifi=1&dids=gpt-ad-934676464211&adfs=3001792611&sfv=1-0-45&sc=1&cookie_enabled=1&abxe=1&dt=1791141992076&lmt=1791141992&adxs=228&adys=4012&biw=1425&bih=900&scr_x=0&scr_y=0&btvi=1&ucis=1&oid=2&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&u_tz=360&dmc=16&bc=31&nvt=1&uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTU0LjAuODAzNy45MyIsbnVsbCwwLG51bGwsIjY0IixbWyJDaHJvbWl1bSIsIjE1NC4wLjgwMzcuOTMiXSxbIkdvb2dsZSBDaHJvbWUiLCIxNTQuMC44MDM3LjkzIl0sWyJOb3QgQShCcmFuZCIsIjk5LjAuMC4wIl1dLDBd&url=https%3A%2F%2Fwww.lonelyplanet.com%2F&vis=1&psz=1425x128&msz=1425x0&fws=0&ohw=0&dlt=1791141990140&idt=1716&prev_scp=chsn_ad_id%3Db18f646bea9848d38418d7abdc99579a%26url%3D%252Fhomepage%26slug%3Dhomepage%26destination%3DHomepage%26title%3Dhomepage%26type%3DLanding%26refresh%3D30%26refresh_limit%3D3&adks=4168990516&frm=20&cpu=3&eoidce=1&lis=1",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/plain; charset=UTF-8"
+  },
+  {
+    "url": "https://beam.lonelyplanet.com/v2/t?k=d2tfMWxnMVNMYzFnQXB4YTl4NzFJd1hEdHRsZ0Ro",
+    "status": 200,
+    "type": "ping",
+    "ct": ""
+  },
+  {
+    "url": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610010101/gpt",
+    "status": 200,
+    "type": "other",
+    "ct": "text/plain; charset=UTF-8"
+  },
+  {
+    "url": "https://pixel.quantserve.com/pixel;r=948004294;labels=%2C%2CLonely%20Planet.Title.Travel%20Guides%20%26%20Inspiration%20%7C%20Lonely%20Planet%2CLonely%20Planet.Title.Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet;source=gtm%2Cgtm;event=rule;rf=0;a=p-jymSSN13mzc8U;url=https%3A%2F%2Fwww.lonelyplanet.com%2F;ns=0;ce=1;qjs=1;qv=b414f28e-20260609162752;ref=;dst=0;et=1791141992164;tzo=-360;ogl=site_name.Lonely%20Planet%2Csite_name.Lonely%20Planet%2Ctype.article%2Cupdated_time.2026-10-04T19%3A18%3A05%252E326-06%3A00%2Cdescription.Love%20travel%3F%20Discover%252C%20plan%20and%20book%20your%20perfect%20trip%20with%20expert%20advice%252C%20trave%2Ctitle.Travel%20Guides%20%26%20Inspiration%20%7C%20Lonely%20Planet%2Cimage.https%3A%2F%2Fd2vbr83hnyiux1%252Ecloudfront%252Enet%2Fimage%2F975050285728%2Fimage_16b18q7j3l0nr1lg9%2Cimage%3Aalt.GettyImages-2162241980%252Ejpg%2Ctitle.Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet%2Curl.https%3A%2F%2Fwww%252Elonelyplanet%252Ecom%2F;d=lonelyplanet.com;uh=d03502c43d74a30b936740a9517dc4ea2b2ad7168caa0a774cefe793ce0b33e7;uht=2;fpan=1;fpa=P1-98c622b8-15e7-42c5-b99c-cccaa9b159e7;pbc=;_ses=92e2b6a7-6925-4b34-9429-5b675af63969;_seg=0;_ss=1;_gacid=1646243942.1791141991;_gasid=0C082JLRD2_1791141991;_gam=a;gdpr=0;mdl=",
+    "status": 200,
+    "type": "image",
+    "ct": "image/gif"
+  },
+  {
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAWCAMAAABuZ5WBAAAABlBMVEUAAAD+AciWmZzWAAAAAnRSTlMAApidrBQAAACESURBVCjPlVLRDgAhCIL//+l7uFsDUdvV2poKKQH8WbT9RnBuJUcD4gtTICfHg4cctvcMFF7JTTyYeBHJoV9GmgGjwYx70Vf11HKagPIQrLBTJIppfzY0kf/FbCL7QzjjOizLgK2+/gJVh9SWofViHTTsqwmr8xpeFJ9h8xn6wW4+0/IHrOYA5/DDFrYAAAAASUVORK5CYII=",
+    "status": 200,
+    "type": "image",
+    "ct": "image/png"
+  },
+  {
+    "url": "https://widget.getyourguide.com/gnikcart?q=eyJwYXJ0bmVyX2lkIjpudWxsLCJ1cmwiOiJ3d3cubG9uZWx5cGxhbmV0LmNvbS8ifQ%3D%3D",
+    "status": 200,
+    "type": "fetch",
+    "ct": "application/json"
+  },
+  {
+    "url": "https://pixel.rubiconproject.com/tap.php?v=4939&nid=1902&gdpr=0&put=Xs8VKQmWQCNFm04sCZZbLwmdEypFz0V6WpzGHSay",
+    "status": 200,
+    "type": "image",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://pixel.quantserve.com/pixel/p-jymSSN13mzc8U.gif?labels=_campaign.media.Advertiser%20ID.22600743.Campaign%20ID.161930463.Line%20Item%20ID.6951676503",
+    "status": 200,
+    "type": "image",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://image2.pubmatic.com/AdServer/Pug?gdpr=0&vcode=bz0yJnR5cGU9MSZjb2RlPTExMTMmdGw9NDMyMDA=&piggybackCookie=9sEeQqGYS0jtlUVHoZhQRKGTGEHtwU4R8pJdtZR3",
+    "status": 200,
+    "type": "image",
+    "ct": "image/gif; charset=utf-8"
+  },
+  {
+    "url": "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=4048410709105874&correlator=2984623205709197&eid=95404584%2C122880891%2C122881362&output=ldjh&gdfp_req=1&vrg=202609300101&ptt=17&impl=fifs&iu_parts=9885583%2CLonelyPlanet.com%2Chomepage%2Cbottom&enc_prev_ius=%2F0%2F1%2F2%2F3&prev_iu_szs=970x250%7C970x90%7C728x90%7C1x1&ifi=2&dids=gpt-ad-821264965525&adfs=3193022966&sfv=1-0-45&sc=1&cookie_enabled=1&abxe=1&dt=1791141992100&lmt=1791141992&adxs=228&adys=8212&biw=1425&bih=900&scr_x=0&scr_y=0&btvi=2&ucis=2&oid=2&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&u_tz=360&dmc=16&bc=31&nvt=1&uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTU0LjAuODAzNy45MyIsbnVsbCwwLG51bGwsIjY0IixbWyJDaHJvbWl1bSIsIjE1NC4wLjgwMzcuOTMiXSxbIkdvb2dsZSBDaHJvbWUiLCIxNTQuMC44MDM3LjkzIl0sWyJOb3QgQShCcmFuZCIsIjk5LjAuMC4wIl1dLDBd&url=https%3A%2F%2Fwww.lonelyplanet.com%2F&vis=1&psz=1425x128&msz=1425x0&fws=0&ohw=0&dlt=1791141990140&idt=1716&prev_scp=chsn_ad_id%3Db18f646bea9848d38418d7abdc99579a%26url%3D%252Fhomepage%26slug%3Dhomepage%26destination%3DHomepage%26title%3Dhomepage%26type%3DLanding%26refresh%3D30%26refresh_limit%3D3&adks=4031132028&frm=20&cpu=3&eoidce=1&lis=1",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/plain; charset=UTF-8"
+  },
+  {
+    "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjssLNYDsGZAZvk9KPzpTT49wO398KsARZYePoJROAPj4RFQfIViHJuUMsErQ47eOmS-juVOlU4QjKgOaydKYOz7zb083FfNhYLAiPuGhahyR3FupGeznJeZcR3nla2R3CpiPOcznw655Zh9-ToNQXO9TSp8GZFbNSC_5YUb_h_kiHtOR7tHI_g9MA28LwvmkcN1MKndbM4z8bp8W1l6uCe-Wl1dBeeFVWAwgQ1w5yKkyT7aQWF1DfBVDlC8wlZW8yjuuSzOixh5ZV0idbcC0OscmDj9QP9ZqR2S1gYXnjZDs8TU2gyaKtA_g3BdNLoyc4nhV7n3GYILLbykImVsd-0biCFoXAFReY-TJVlCi6KihmyX3XJiSBa_AvG-XAHwXNjlKuUhSjJ2W8xJr3JtJXDQTQo1HhZAZ8NqnYR3MJlJQSlQXN6tzkHmhVC-a21rMRFC4Dgs6Yw&sai=AMfl-YSq5CxqJ6lJi9GbeqyEOD3FtdzKW_VZyZ3AWh-jb1fzlA1NjfrdpZfSHhG88-_1evQGOhox0PU0fTEBt2Dx3YargXIjmgF7G8WuOVWxdqESsnPULklg6eRiQ8O-O5cPsHc2k9CvceuTbMK-VBb6ezvYJwejOl6GaBXU7Qaeje9T0HCc421bMe4a9_0KwVgmoVfotB1A9kG6T_R4_wunD2ES4ejdlITXP6xn388YbGGzalDwDtkxBOoP8w0FinXMUYJ-d-3nUtMQA1m51eATgGUheEvuOjKtMQiCzvwZoXMuYt43YhpMa_19awmadIL2NKlB57keue9f6iedi49ncN028cIq18O0FUNdp3oTWQG6sQXPs03kOG4Gc9AapDJ11krlZPlnrG3isC4&sig=Cg0ArKJSzFETdvkVo2m2EAE&uach_m=%5BUACH%5D&adurl=",
+    "status": 200,
+    "type": "fetch",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://ce2d4af9d06d3fd4d5428aa2fb884c3f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+    "status": 200,
+    "type": "document",
+    "ct": "text/html"
+  },
+  {
+    "url": "https://cm.g.doubleclick.net/pixel?gdpr=0&google_nid=B765081F39B1F7&google_push=&google_hm=7uOBPy3IA_OWVZGbv_fPqA&google_tc=",
+    "status": 200,
+    "type": "image",
+    "ct": "image/png"
+  },
+  {
+    "url": "https://tpc.googlesyndication.com/simgad/12542075406044380566",
+    "status": 200,
+    "type": "image",
+    "ct": "image/png"
+  },
+  {
+    "url": "https://tpc.googlesyndication.com/pagead/js/r20261001/r20110914/client/window_focus.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript; charset=UTF-8"
+  },
+  {
+    "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript; charset=ISO-8859-1"
+  },
+  {
+    "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=81&gdpr=0&external_user_id=OiAAOW15VTMhdFs8bXlOP21yBjohIFBqPnO2hBDE&C=1",
+    "status": 200,
+    "type": "image",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=colleague-executed&name=4",
+    "status": 204,
+    "type": "fetch",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=fle-fetch-start2",
+    "status": 204,
+    "type": "fetch",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=reach&proto=CAlgAWgD",
+    "status": 204,
+    "type": "fetch",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsvAHhJe_8PrjPvX6M7EJZuv0Gc1ELHKkb-o_akds0gL_E5NCvEShjZ1VkHNmGfXgUl6UyfxIMuO2Oo9kpDOHFaEaVA2W49KlAe3LbVQqQ9rCy1ElCwru-9RfGzGPbathqXRcUxhrSrC0htKBqWKn8y2P3eWnTy8eK9n0kgp_YcturlA6sCAfHjYk35byGDyQwIy8Ha2x2HFui1OIWWyPottKunJRuoQZFpCWJpvIrvMugbJdsovDZ7zOmNToAorX6Nmn-oq85c9yX5VZMo_A7ahO3JFx3LsDd-tRqu_W8-QfIAjV908CxIBS68PxacEnl2C-Xq5Fywk3lTmiLvGwXNodZGO_HUp7GeSi-wvaf1Vf5i7czANqqeRTA50zj4C3w6DdHS0doYeUZrdEcMQcNckNu1hZy6AB_tqdjRLYf9FYBUNGhGI88LvZg&sai=AMfl-YQ-Q_Wt8BEGDnwhUmpP-emUTBw9cPdi0BVPudzbezPc7-zhfepTbHDfH8Fomq2gfm7YQGkGMtDcCEoQxtGsv4hj42Y-a80xUffJqzAFpqT0QfgjJ6h90qOA01NvXUq8o4kACkDrvz17MPjiwD6AbY-QU3K1dw4qCqumoRCyvWK9j0wJ6z1Cpps7Q1iN-A724MvptKlqwHrhf2ycH1oEn6VgVanU2jTiiT4kdQ4_ZAKEvwHHccUKXlSPt9gaSkfto-l7pruHtDT5Ru_bb83cgquGhCXEOeXf4NUIRKMWqETNytbHS8XeRx_gfn4Ci5_TyWxIVV1xcZsxTi4DbjvYZryEwbyZI0B9URqk8a8kc2a_LxHVhDvyk03hkriRo2OWx9HlREvpnWm7dYM&sig=Cg0ArKJSzESDdlBTUFcmEAE&uach_m=%5BUACH%5D&vt=11&igpp=1&dett=3&adurl=",
+    "status": 200,
+    "type": "fetch",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_j2fuv68ee922h48ceakb16v868/-FWEBP-C971x971%2C0%2C11-S360x360",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://cdn.attn.tv/lonelyplanet/dtag.js",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_ilolvg31vp7an1n56cjk8k7i4o/-FWEBP-C1368x1368%2C341%2C0-S360x360",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_v12tuabe2t52560mvhrjp07o00/-FWEBP-C1367x1367%2C341%2C0-S360x360",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_ine07egs8p3330disamf0hq47l/-FWEBP-C1343x1343%2C353%2C0-S360x360",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_38jb79eevd31917a4u4sk69f6l/-FWEBP-C1304x1304%2C373%2C0-S360x360",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://cdn.attn.tv/tag/4-latest/unified-tag.js?v=4-latest_a2836cacd5",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_7e87i0kekt5qr3bkg59q145l04/-FWEBP-C1367x1367%2C341%2C0-S360x360",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pippio.com/api/sync?pid=5324&it=1&iv=da9c04dff3377399b737cb76885bdcbc7d8a38cdb43ef23197c08305915cf68d791426b5417dce21&_=2",
+    "status": 200,
+    "type": "image",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_jm0r06ajcd6afdte29dv2o0m7o/-FWEBP-C2050x1133%2C0%2C121-S1536x849",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://lonelyplanet.attn.tv/d?attn_vid=8f3db2ccd12146a7b37b23331f847d32",
+    "status": 200,
+    "type": "fetch",
+    "ct": "application/json"
+  },
+  {
+    "url": "https://events.attentivemobile.com/ct-ev",
+    "status": 200,
+    "type": "ping",
+    "ct": ""
+  },
+  {
+    "url": "https://cdn.attn.tv/growth-tag-assets/client-configs/eX5.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://js-agent.newrelic.com/nr-spa-1.323.0.min.js",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript"
+  },
+  {
+    "url": "https://ep1.adtrafficquality.google/getconfig/sodar?sv=200&tid=gpt&tv=m202609300101&st=env&sjk=4048410709105874",
+    "status": 200,
+    "type": "xhr",
+    "ct": "application/json; charset=UTF-8"
+  },
+  {
+    "url": "https://lonelyplanet.attn.tv/unrenderedCreative?v=2026.09.3&r=&id=8f3db2ccd12146a7b37b23331f847d32&pv=1&l=https%3A%2F%2Fwww.lonelyplanet.com%2F&w=1440&h=900&ss_ref=ORGANIC&ses=9343f32c87a14b4a8cec2fcc4112eb98&f=3",
+    "status": 204,
+    "type": "fetch",
+    "ct": ""
+  },
+  {
+    "url": "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html",
+    "status": 200,
+    "type": "document",
+    "ct": "text/html"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/api2/aframe",
+    "status": 200,
+    "type": "document",
+    "ct": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://bam.nr-data.net/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=3937&s=37cce1c40987ce1e&ref=https://www.lonelyplanet.com/&ptid=27e338df4d3b3623&af=err,spa,xhr,stn,ins&be=57&fe=3835&dc=708&fsh=1&perf=%7B%22timing%22:%7B%22of%22:1791141990055,%22n%22:0,%22f%22:1,%22dn%22:3,%22dne%22:5,%22c%22:5,%22s%22:17,%22ce%22:35,%22rq%22:36,%22rp%22:57,%22rpe%22:76,%22di%22:653,%22ds%22:763,%22de%22:765,%22dc%22:3885,%22l%22:3886,%22le%22:3892%7D,%22navigation%22:%7B%7D%7D&fp=272&fcp=272",
+    "status": 200,
+    "type": "xhr",
+    "ct": "application/json"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/images/favicon.ico",
+    "status": 200,
+    "type": "other",
+    "ct": "image/vnd.microsoft.icon"
+  },
+  {
+    "url": "https://bam.nr-data.net/jserrors/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=4539&s=37cce1c40987ce1e&ref=https://www.lonelyplanet.com/&ptid=27e338df4d3b3623",
+    "status": 200,
+    "type": "xhr",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://bam.nr-data.net/events/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=4542&s=37cce1c40987ce1e&ref=https://www.lonelyplanet.com/&ptid=27e338df4d3b3623",
+    "status": 200,
+    "type": "xhr",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://bam.nr-data.net/events/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=4536&s=37cce1c40987ce1e&ref=https://www.lonelyplanet.com/&ptid=27e338df4d3b3623",
+    "status": 200,
+    "type": "xhr",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://ep1.adtrafficquality.google/pagead/sodar?id=sodar2&v=255&t=2&li=gpt_m202609300101&jk=4048410709105874&bg=!sLOls9HNAAYawo1DOsI7AEcBe5WfOKEQvESzvpX7C9loSpBvowfYScatPkZ5FCXdQ7aPzXtrrY-eHhS4UxsjfKRhneVdsgJLhMbjg1uRdZ40LqrOkabcvAIAAAHOUgAAAAdoAQd-ADbYsuVBAEIW3eUPqTFRD6Jom4iaE034Ijp0xUumE_AVTvnQ6ZmariCeY8UDdQDNgRJqUAart3oKAKfHioYs_SpxpN2D8BbwZRl6yHPZg0twILEqF3Mvelmuzn60XEpSNLRfcqIo1exSUG47Uy3tcjYkG5xBPpTRfVSabtZ2W62ksuKtC0bakh3arsJdfhAxVhJ9NJStSGEiezQkPRCtNMRoYHb5HzAt3ICpad8CLZ6EPpyZi98YQrLH_phs03OzWmZy2mx436y233tTjZc7u0ob6dAMTDzyzAQNQqD504DbgZkCjKA6UzrCcab4AO7-pR-tNu6QJ4-RnYbrqd7xnA2gK7L5tZ7TOAfuuPtVN9ahjhetFSEhba7-92nRsXYzSp4UaOO9NlQMlCuXy5k8ubvnzCdAjmW_PWD3gnwI7FdaHlj9v4kQzC2WBcsBwozq4gTOhY8W1Tuu4a_6MgCuJkvOzKEBLTmBudS51ENJ9KKE29u7eQGwLrVwysFkkMTqwOazEwcAIQTj584fr64YIOo2OlWx6kCkZeXytng_6ZNVGJ9BQcH3cH7jGhjASI6RiN_ZL7kxElAJnO9g-6QwAtke1TpEVVZOqdOCmVAPewkN_FeE9Gt9vpEyaadMXk76gyH80JoV4tT8uVO3aNiP_jCGGKzhsRq5TWoU114cFLLbMyc7m655met0C_wc1S6imfPSZq_A-KVO3TIrVFHmRhuX4kj1avOiu8YhBXT_cS8WiZxbRjVKrN9I_LXPLV5LcemdfcNa3rdmqwe7nGCiAC52AGGJi_duYVvSue2DCE5Wng_JFIE7tlN_3OtI6kleFiBzlfyv5iSmeu2-XC3b4rUNZ36DYnfj1cyQ-q_R3589AykHSmHZP-Xs1hM5jgDf9BYuyOYG7a1cxbXUNAJKrzgESZGHEn92P3mS7lJE6GkQmscF9BT-LZEhXP2u0rqKRgubK8fpCWaNPEdeuAlkOv_xZ_SOn_Y6Ymc7c_vp5_4X9fMeo2SJmDHWiZ7LhAprLC1UorHInOX_63zIo2IZpjWEtAN6dUrSqj1y9z5YsJo2EjnYLBVqlm8ivBa-fPN_RG7APYy0PQdLwumyqS5zxJyZl6fn7j5en7dgUgraQAV0tTf7-5WqosY9YICd5iZDqVfHrpurIj21zSMS2JJipK4",
+    "status": 204,
+    "type": "image",
+    "ct": "image/"
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-0C082JLRD2&gtm=45je69u2v874484220z872557567za20gzb72557567zd72557567xf1&_p=1791141990189&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&ecid=332051786&_eu=AAAAAGQC&cid=1646243942.1791141991&frm=0&pscdl=noapi&rcb=7&sr=800x600&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.93%7CGoogle%2520Chrome%3B154.0.8037.93%7CNot%2520A(Brand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en-us&gaf=2&_s=2&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153&sid=1791141991&sct=1&seg=0&dl=https%3A%2F%2Fwww.lonelyplanet.com%2F&dt=Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet&en=page_load_time&epn.loading_time_sec=0&tfd=6781",
+    "status": 204,
+    "type": "fetch",
+    "ct": "text/plain"
+  },
+  {
+    "url": "https://bam.nr-data.net/jserrors/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=33949&s=37cce1c40987ce1e&ref=https://www.lonelyplanet.com/&ptid=27e338df4d3b3623",
+    "status": 200,
+    "type": "xhr",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://bam.nr-data.net/events/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=33951&s=37cce1c40987ce1e&ref=https://www.lonelyplanet.com/&ptid=27e338df4d3b3623",
+    "status": 200,
+    "type": "xhr",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://bam.nr-data.net/jserrors/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=63957&s=37cce1c40987ce1e&ref=https://www.lonelyplanet.com/&ptid=27e338df4d3b3623",
+    "status": 200,
+    "type": "xhr",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://bam.nr-data.net/jserrors/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=93966&s=37cce1c40987ce1e&ref=https://www.lonelyplanet.com/&ptid=27e338df4d3b3623",
+    "status": 200,
+    "type": "xhr",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://bam.nr-data.net/jserrors/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=123977&s=37cce1c40987ce1e&ref=https://www.lonelyplanet.com/&ptid=27e338df4d3b3623",
+    "status": 200,
+    "type": "xhr",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/abee2ed2-237a-40da-a8ab-289bd23fbb62/Hero_shu_Fn6Ymty/b858365a8f2fb920d02463258e519018.jpg?auto=format,compress&q=72&fit=crop&w=360&ar=1:1",
+    "status": 200,
+    "type": "image",
+    "ct": "image/avif"
+  },
+  {
+    "url": "https://ew-media-production.imgix.net/media/d5c14fd4-072e-43c6-9073-34edbf80b683/image/a53f7923-3dbe-479c-9ccf-f2bb2ed1d670/Resize_shutterst/959c590beb13cc161e52a20da2a91957.jpg?auto=format,compress&q=72&fit=crop&w=360&ar=1:1",
+    "status": 200,
+    "type": "image",
+    "ct": "image/avif"
+  },
+  {
+    "url": "https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/7ac72d42-fce8-4bc5-b0ae-e051207c27f8/Lake_Como_6/be64e093a8c66946a6d8a984ef292d74.jpeg?auto=format,compress&q=72&fit=crop&w=360&ar=1:1",
+    "status": 200,
+    "type": "image",
+    "ct": "image/avif"
+  },
+  {
+    "url": "https://ew-media-production.imgix.net/media/53fc1e50-1b09-44c9-8400-dba68bd3064e/image/fe4cb7db-e1fb-47e5-951a-69beaf366ed6/shutters_t1CaFAD/15f7c3858f6438cb50efdf52f2794852.jpg?auto=format,compress&q=72&fit=crop&w=360&ar=1:1",
+    "status": 200,
+    "type": "image",
+    "ct": "image/avif"
+  },
+  {
+    "url": "https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/961ade68-51ea-4614-915a-ec065bba24cf/shutterstockRF_1/9d47125b990a98589d961b92bfac4f08.jpg?auto=format,compress&q=72&fit=crop&w=360&ar=1:1",
+    "status": 200,
+    "type": "image",
+    "ct": "image/avif"
+  },
+  {
+    "url": "https://ew-media-production.imgix.net/media/034ea407-d4df-4258-9bce-6757e255e0c3/image/13d73e14-cdb6-40d6-85c0-20c1c9ca5833/Hero_Get_91oLA0p/2e14bf7252b34d60bad4428bb840d38e.jpg?auto=format,compress&q=72&fit=crop&w=360&ar=1:1",
+    "status": 200,
+    "type": "image",
+    "ct": "image/avif"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_07ehiim2l128fafa2vl1q3up7a/-FPNG-S320",
+    "status": 200,
+    "type": "image",
+    "ct": "image/png"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_juhqolcm7d46v80t6go2ajrq3k/-FPNG-S320",
+    "status": 200,
+    "type": "image",
+    "ct": "image/png"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_uq443932352d73flptbkihal31/-FPNG-S320",
+    "status": 200,
+    "type": "image",
+    "ct": "image/png"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_d9m8fq7hl151rcnc541h72d41b/-FPNG-S320",
+    "status": 200,
+    "type": "image",
+    "ct": "image/png"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_dkjcf8lq592tnelj72d54prj20/-FPNG-S320",
+    "status": 200,
+    "type": "image",
+    "ct": "image/png"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_qd9nb8qmfd3jd1amma6e52ud4c/-FPNG-S320",
+    "status": 200,
+    "type": "image",
+    "ct": "image/png"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_mc8rphpqj92g75q0je3segt00d/-FPNG-S320",
+    "status": 200,
+    "type": "image",
+    "ct": "image/png"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_svns6c783d09p23nj1c51m0f68/-FPNG-S320",
+    "status": 200,
+    "type": "image",
+    "ct": "image/png"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_4oodd645fd53h10bhne29ovm6a/-FPNG-S320",
+    "status": 200,
+    "type": "image",
+    "ct": "image/png"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_57elqnia655m5eq2pr4dv8o23o/-FJPG-C1824x1368%2C113%2C0-S828x621",
+    "status": 200,
+    "type": "image",
+    "ct": "image/jpeg"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_djo5jrsbb13f77l6nt7iodok1v/-FJPG-C1163x872%2C9%2C307-S828x621",
+    "status": 200,
+    "type": "image",
+    "ct": "image/jpeg"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/index.ChM8l_Ma.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/input.CgegAjpd.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_95l2jreump7jd72jb1a9nug75j/-FPNG-S320",
+    "status": 200,
+    "type": "image",
+    "ct": "image/png"
+  },
+  {
+    "url": "https://www.google.com.bd/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-0C082JLRD2&cid=1646243942.1791141991&gtm=45je69u2v874484220za20gzb72557567zd72557567xf1&rcb=7&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153&z=280693747",
+    "status": 200,
+    "type": "image",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_2ota2fffb95n77picluv9gmt2h/-FWEBP-C1333x1333%2C333%2C0-S750x750",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-0C082JLRD2&gtm=45je69u2v874484220za20gzb72557567zd72557567xf1&_p=1791141990189&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&ecid=332051786&_eu=AEAAAGQC&ae=a&cid=1646243942.1791141991&frm=0&pscdl=noapi&rcb=7&sr=800x600&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.93%7CGoogle%2520Chrome%3B154.0.8037.93%7CNot%2520A(Brand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en-us&gaf=2&_s=3&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153&sid=1791141991&sct=1&seg=0&dl=https%3A%2F%2Fwww.lonelyplanet.com%2F&dt=Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet&en=scroll&epn.percent_scrolled=90&tfd=152376",
+    "status": 204,
+    "type": "fetch",
+    "ct": "text/plain"
+  },
+  {
+    "url": "https://www.lonelyplanet.com/_astro/footerNewsletter.BBVaG7DD.js",
+    "status": 200,
+    "type": "script",
+    "ct": "text/javascript"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_dt52c4akrt5nd3uu3su41qgk05/-FWEBP-C1364x1364%2C0%2C343-S360x360",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_s95vr5r3hl72b6c4ae0rfqrj6u/-FWEBP-C1367x1367%2C341%2C0-S360x360",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_d704ig3t3p04l9tjh5rmlbl247/-FWEBP-C1367x1367%2C0%2C341-S360x360",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_o53vagpeu520d4t4jn8qgk0m3s/-FWEBP-C1367x1367%2C341%2C0-S360x360",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_9sjv8he53p33f55no19p6nti50/-FWEBP-C2050x1153%2C0%2C102-S1536x864",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_k055bmecpt6nvcmh63h3rejv4h/-FWEBP-C1367x1367%2C0%2C341-S360x360",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_s00k4jvhvh7r12ied9k4g2dt08/-FWEBP-C991x991%2C501%2C0-S360x360",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_16r1u5qe394ev3jo6035hqpd5m/-FWEBP-C2050x2050%2C0%2C0-S360x360",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_0loam3gqg90i52aue07sreck3h/-FWEBP-C1362x1362%2C575%2C0-S360x360",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_mkqg81g0jl59d6qvgl5s5lqk0i/-FWEBP-C1537x1537%2C0%2C256-S360x360",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_172de1i61t1hfat9v0vktm9l37/-FWEBP-C1366x1366%2C342%2C0-S360x360",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_7lgmho516562r1ho2alf3luo4q/-FWEBP-C1267x1267%2C0%2C95-S360x360",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_mu2nc6d27d5nj86b7d6lm38s4e/-FWEBP-C1294x1294%2C378%2C0-S360x360",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://bam.nr-data.net/events/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=153987&s=37cce1c40987ce1e&ref=https://www.lonelyplanet.com/&ptid=27e338df4d3b3623",
+    "status": 200,
+    "type": "xhr",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://bam.nr-data.net/jserrors/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=153985&s=37cce1c40987ce1e&ref=https://www.lonelyplanet.com/&ptid=27e338df4d3b3623",
+    "status": 200,
+    "type": "xhr",
+    "ct": "image/gif"
+  },
+  {
+    "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_t28ps3n1ot1lrehj5jdres6h73/-FPNG-S320",
+    "status": 200,
+    "type": "image",
+    "ct": "image/png"
+  }
+]

@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Noto+Sans+Bengali:wght@400;500;600;700;800&display=swap');
+@import "tailwindcss";
+
+@font-face {
+  font-family: "American Grotesk";
+  src: url("/fonts/assets.staticlp.com/american-grotesk-bold-3456e3713a.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "American Grotesk Compressed";
+  src: url("/fonts/assets.staticlp.com/american-grotesk-compressed-black-6cecc875c9.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ABC Monument Grotesk";
+  src: url("/fonts/assets.staticlp.com/ABCMonumentGrotesk-Regular-e19687c184.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ABC Monument Grotesk";
+  src: url("/fonts/assets.staticlp.com/ABCMonumentGrotesk-Medium-6b97e2b2d0.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ABC Monument Grotesk";
+  src: url("/fonts/assets.staticlp.com/ABCMonumentGrotesk-Bold-1bad7bdfae.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@theme {
+  --color-lp-blue: #0057D9;
+  --color-lp-navy: #002B49;
+  --color-lp-dark: #121212;
+  --color-lp-gray: #F4F5F7;
+  --color-lp-border: #E2E4E8;
+  --color-lp-text: #1D232C;
+  --color-lp-muted: #5B6575;
+  --color-lp-sand: #FFF8F0;
+  --color-lp-amber: #D97706;
+  --color-lp-emerald: #0D9488;
+}
+
+body {
+  background-color: #FFFFFF;
+  color: #1D232C;
+  font-family: 'Plus Jakarta Sans', 'Noto Sans Bengali', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.lp-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.lp-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(0, 43, 73, 0.12);
+}
+
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 43, 73, 0.65);
+  backdrop-filter: blur(6px);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  animation: fadeIn 0.15s ease-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}

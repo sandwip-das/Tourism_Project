@@ -1,0 +1,270 @@
+# Clone Audit
+
+- Project: C:\Users\Sandwip\AppData\Roaming\Open Design\namespaces\release-stable-win\data\projects\b1dff701-a113-4be9-bb16-357c4effde92
+- Scanned files: 18
+- Findings: 1250
+
+## Fidelity hard failures (fonts / images / colors)
+- None found
+
+## Tracking scripts / analytics pixels
+- .od-skills\web-clone-85e17309c6\SKILL.md:157 · Google Tag Manager · `googletagmanager`
+- assets\asset-manifest.json:1998 · Google Tag Manager · `googletagmanager`
+- assets\asset-manifest.json:1998 · Google Tag Manager · `GTM-P9V444`
+- assets\asset-manifest.json:2003 · Google Tag Manager · `googletagmanager`
+
+## Original-brand residue
+- index.html:1 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:1 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:1 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:1 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:1 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:1 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:1 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:1 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:1 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:1 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:1 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:1 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:1 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:1 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:1 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:1 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:9 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:9 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:9 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:9 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:11 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:13 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:13 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:13 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:13 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:13 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:13 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:17 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:17 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:17 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:17 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:19 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:19 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:19 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:19 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:19 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:19 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:19 · brand residue: Lonely Planet · `Lonely Planet`
+- index.html:24 · brand residue: Lonely Planet · `Lonely Planet`
+
+## Japanese-text residue
+- None found
+
+## TODO / placeholder content
+- .od-skills\web-clone-85e17309c6\references\deliverables.md:137 · TODO / placeholder content · `TODO`
+- .od-skills\web-clone-85e17309c6\references\design-dna.md:41 · TODO / placeholder content · `TODO`
+- .od-skills\web-clone-85e17309c6\SKILL.md:267 · TODO / placeholder content · `TODO`
+- .od-skills\web-clone-85e17309c6\SKILL.md:282 · TODO / placeholder content · `TODO`
+
+## External dependencies / outbound-link risk
+- .od-skills\web-clone-85e17309c6\references\design-dna.md:7 · external URL · `https://github.com/zanwei/design-dna`
+- .od-skills\web-clone-85e17309c6\references\effect-extraction.md:6 · external URL · `https://github.com/lixiaolin94/skills`
+- .od-skills\web-clone-85e17309c6\references\marbles-case.md:3 · external URL · `https://chiuhans111.github.io/marbles/`
+- .od-skills\web-clone-85e17309c6\references\static-mirror.md:38 · external URL · `https://use.typekit.net/`
+- .od-skills\web-clone-85e17309c6\references\static-mirror.md:49 · external URL · `https://use.typekit.net/`
+- .od-skills\web-clone-85e17309c6\references\static-mirror.md:51 · external URL · `https://use\.typekit\.net/`
+- .od-skills\web-clone-85e17309c6\SKILL.md:64 · external URL · `https://raw.githubusercontent.com/`
+- .od-skills\web-clone-85e17309c6\SKILL.md:173 · external URL · `http://127.0.0.1:`
+- .od-skills\web-clone-85e17309c6\SKILL.md:178 · external URL · `http://127.0.0.1:`
+- .od-skills\web-clone-85e17309c6\SKILL.md:185 · external URL · `http://127.0.0.1:`
+- assets\asset-manifest.json:2 · external URL · `https://www.lonelyplanet.com/`
+- assets\asset-manifest.json:10 · external URL · `https://assets.staticlp.com/fonts/grotesk/ABCMonumentGroteskMono-Regular.woff2`
+- assets\asset-manifest.json:18 · external URL · `https://assets.staticlp.com/fonts/arizona-flare/ABCArizonaFlare-Regular.woff2`
+- assets\asset-manifest.json:26 · external URL · `https://assets.staticlp.com/fonts/grotesk/ABCMonumentGrotesk-Regular.woff2`
+- assets\asset-manifest.json:34 · external URL · `https://assets.staticlp.com/fonts/grotesk/american-grotesk-compressed-black.woff2`
+- assets\asset-manifest.json:42 · external URL · `https://assets.staticlp.com/fonts/grotesk/american-grotesk-bold.woff2`
+- assets\asset-manifest.json:50 · external URL · `https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg`
+- assets\asset-manifest.json:58 · external URL · `https://cdn.cookielaw.org/logos/static/powered_by_logo.svg`
+- assets\asset-manifest.json:66 · external URL · `https://cdn.cookielaw.org/logos/static/ot_company_logo.png`
+- assets\asset-manifest.json:74 · external URL · `https://www.google.com.bd/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-0C082JLRD2&cid=592194730.1791141933&gtm=45je69u2v874484220za20ozb72557567zd72557567xf1&r`
+- assets\asset-manifest.json:82 · external URL · `https://sb.scorecardresearch.com/b2?c1=2&c2=31824268&cs_it=b1&cv=4.14.0%2B2608070551&ns__t=1791141932832&ns_c=UTF-8&cs_cfg=1101110&cs_fpid=undefined&cs_fpit=c&c`
+- assets\asset-manifest.json:90 · external URL · `https://sb.scorecardresearch.com/b2?c1=2&c2=31824268&cs_it=b1&cv=4.14.0%2B2608070551&ns__t=1791141932833&ns_c=UTF-8&cs_cfg=1101110&cs_fpid=undefined&cs_fpit=c&c`
+- assets\asset-manifest.json:98 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_jm0r06ajcd6afdte29dv2o0m7o/-FWEBP-C2050x1133%2C0%2C121-S3840x2123`
+- assets\asset-manifest.json:106 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_96a1gsfaj54ph9vrhp77bol01r/-FJPG-C1577x1182%2C0%2C433-S1200x900`
+- assets\asset-manifest.json:114 · external URL · `https://pixel.quantserve.com/pixel;r=220949217;labels=%2C%2CLonely%20Planet.Title.Travel%20Guides%20%26%20Inspiration%20%7C%20Lonely%20Planet%2CLonely%20Planet.`
+- assets\asset-manifest.json:122 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_7ioq9i5auh6ld4rdcg5lroja3t/-FJPG-C2050x1537%2C0%2C256-S1200x900`
+- assets\asset-manifest.json:130 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_o683v8n8652o9dss1ic9nni56p/-FWEBP-C2050x1153%2C0%2C191-S2560x1440`
+- assets\asset-manifest.json:138 · external URL · `https://pixel.rubiconproject.com/tap.php?v=4939&nid=1902&gdpr=0&put=lYycTcLVzRuO2pseldvSR5eOm02O1Z1HxduROyeZ`
+- assets\asset-manifest.json:146 · external URL · `https://image2.pubmatic.com/AdServer/Pug?gdpr=0&vcode=bz0yJnR5cGU9MSZjb2RlPTExMTMmdGw9NDMyMDA=&piggybackCookie=lPkWI8OgR3WPrxFwlK5YKZb7ESOPoBcpxK7ixyHJ`
+- assets\asset-manifest.json:154 · external URL · `https://cm.g.doubleclick.net/pixel?gdpr=0&google_nid=B765081F39B1F7&google_push=&google_hm=7SotpHxcYaJmrr_QzhRzhw&google_tc=`
+- assets\asset-manifest.json:170 · external URL · `https://pixel.quantserve.com/pixel/p-jymSSN13mzc8U.gif?labels=_campaign.media.Advertiser%20ID.22600743.Campaign%20ID.161930463.Line%20Item%20ID.6951676503`
+- assets\asset-manifest.json:178 · external URL · `https://dsum-sec.casalemedia.com/rum?cm_dsp_id=81&gdpr=0&external_user_id=fT2jkypk8sVma6TAfWrtmX8_pJNmZKKZLWpcaQQb&C=1`
+- assets\asset-manifest.json:186 · external URL · `https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsvk31p4l6CT0uKjrC8IDBCGHmtos40AlzwG2AlEyWBidsSXXKzUia9u9iT7-0pmgzGRs39Sgpt51kK9j8WMTUzUweDqIVuiGJosbgO4`
+- assets\asset-manifest.json:194 · external URL · `https://tpc.googlesyndication.com/simgad/12542075406044380566`
+- assets\asset-manifest.json:202 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_v12tuabe2t52560mvhrjp07o00/-FWEBP-C1367x1367%2C341%2C0-S720x720`
+- assets\asset-manifest.json:210 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_j2fuv68ee922h48ceakb16v868/-FWEBP-C971x971%2C0%2C11-S720x720`
+- assets\asset-manifest.json:218 · external URL · `https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=reach&proto=CAlgAWgD`
+- assets\asset-manifest.json:226 · external URL · `https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=fle-fetch-start2`
+- assets\asset-manifest.json:234 · external URL · `https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjstrczqUkAEJSlAOr_KETBeC5XJLxMF_XtuZTGBNu0djwPHCN5CEdJyuecvGyrIzqj7Wy7LRBI8bHpMUV6EqdratEMiUd8erxAb02lYB`
+- assets\asset-manifest.json:242 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_ilolvg31vp7an1n56cjk8k7i4o/-FWEBP-C1368x1368%2C341%2C0-S720x720`
+- assets\asset-manifest.json:250 · external URL · `https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=colleague-executed&name=4`
+- assets\asset-manifest.json:258 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_ine07egs8p3330disamf0hq47l/-FWEBP-C1343x1343%2C353%2C0-S720x720`
+- assets\asset-manifest.json:266 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_7e87i0kekt5qr3bkg59q145l04/-FWEBP-C1367x1367%2C341%2C0-S720x720`
+- assets\asset-manifest.json:274 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_38jb79eevd31917a4u4sk69f6l/-FWEBP-C1304x1304%2C373%2C0-S720x720`
+- assets\asset-manifest.json:282 · external URL · `https://pippio.com/api/sync?pid=5324&it=1&iv=f78df2ad0f74cc629fbe94f5bc614f1fcbcb61663f9129e62b6682a23b9c0e6f791426b5417dce21&_=2`
+- assets\asset-manifest.json:290 · external URL · `https://bam.nr-data.net/events/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=4070`
+- assets\asset-manifest.json:298 · external URL · `https://www.lonelyplanet.com/images/favicon.ico`
+- assets\asset-manifest.json:306 · external URL · `https://bam.nr-data.net/jserrors/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=40`
+- assets\asset-manifest.json:314 · external URL · `https://bam.nr-data.net/events/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=4065`
+- assets\asset-manifest.json:322 · external URL · `https://ep1.adtrafficquality.google/pagead/sodar?id=sodar2&v=255&t=2&li=gpt_m202609290101&jk=1963031044301951&bg=!CwilCGrNAAYawo1DOsI7AEcBe5WfODGT6InUa0GyKJ2_Ds`
+- assets\asset-manifest.json:330 · external URL · `https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/7ac72d42-fce8-4bc5-b0ae-e051207c27f8/Lake_Como_6/be64e093a8c66946a6d8a984`
+- assets\asset-manifest.json:338 · external URL · `https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/961ade68-51ea-4614-915a-ec065bba24cf/shutterstockRF_1/9d47125b990a98589d9`
+- assets\asset-manifest.json:346 · external URL · `https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/abee2ed2-237a-40da-a8ab-289bd23fbb62/Hero_shu_Fn6Ymty/b858365a8f2fb920d02`
+- assets\asset-manifest.json:354 · external URL · `https://ew-media-production.imgix.net/media/d5c14fd4-072e-43c6-9073-34edbf80b683/image/a53f7923-3dbe-479c-9ccf-f2bb2ed1d670/Resize_shutterst/959c590beb13cc161e5`
+- assets\asset-manifest.json:362 · external URL · `https://ew-media-production.imgix.net/media/034ea407-d4df-4258-9bce-6757e255e0c3/image/13d73e14-cdb6-40d6-85c0-20c1c9ca5833/Hero_Get_91oLA0p/2e14bf7252b34d60bad`
+- assets\asset-manifest.json:370 · external URL · `https://ew-media-production.imgix.net/media/53fc1e50-1b09-44c9-8400-dba68bd3064e/image/fe4cb7db-e1fb-47e5-951a-69beaf366ed6/shutters_t1CaFAD/15f7c3858f6438cb50e`
+- assets\asset-manifest.json:378 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_juhqolcm7d46v80t6go2ajrq3k/-FPNG-S320`
+- assets\asset-manifest.json:386 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_uq443932352d73flptbkihal31/-FPNG-S320`
+- assets\asset-manifest.json:394 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_d9m8fq7hl151rcnc541h72d41b/-FPNG-S320`
+- assets\asset-manifest.json:402 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_07ehiim2l128fafa2vl1q3up7a/-FPNG-S320`
+- assets\asset-manifest.json:410 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_dkjcf8lq592tnelj72d54prj20/-FPNG-S320`
+- assets\asset-manifest.json:418 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_qd9nb8qmfd3jd1amma6e52ud4c/-FPNG-S320`
+- assets\asset-manifest.json:426 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_mc8rphpqj92g75q0je3segt00d/-FPNG-S320`
+- assets\asset-manifest.json:434 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_svns6c783d09p23nj1c51m0f68/-FPNG-S320`
+- assets\asset-manifest.json:442 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_4oodd645fd53h10bhne29ovm6a/-FPNG-S320`
+- assets\asset-manifest.json:450 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_95l2jreump7jd72jb1a9nug75j/-FPNG-S320`
+- assets\asset-manifest.json:458 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_t28ps3n1ot1lrehj5jdres6h73/-FPNG-S320`
+- assets\asset-manifest.json:466 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_djo5jrsbb13f77l6nt7iodok1v/-FJPG-C1163x872%2C9%2C307-S1200x900`
+- assets\asset-manifest.json:474 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_57elqnia655m5eq2pr4dv8o23o/-FJPG-C1824x1368%2C113%2C0-S1200x900`
+- assets\asset-manifest.json:482 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_2ota2fffb95n77picluv9gmt2h/-FWEBP-C1333x1333%2C333%2C0-S1024x1024`
+- assets\asset-manifest.json:490 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_k055bmecpt6nvcmh63h3rejv4h/-FWEBP-C1367x1367%2C0%2C341-S720x720`
+- assets\asset-manifest.json:498 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_o53vagpeu520d4t4jn8qgk0m3s/-FWEBP-C1367x1367%2C341%2C0-S720x720`
+- assets\asset-manifest.json:506 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_7lgmho516562r1ho2alf3luo4q/-FWEBP-C1267x1267%2C0%2C95-S720x720`
+- assets\asset-manifest.json:514 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_172de1i61t1hfat9v0vktm9l37/-FWEBP-C1366x1366%2C342%2C0-S720x720`
+- assets\asset-manifest.json:522 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_16r1u5qe394ev3jo6035hqpd5m/-FWEBP-C2050x2050%2C0%2C0-S720x720`
+- assets\asset-manifest.json:530 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_s95vr5r3hl72b6c4ae0rfqrj6u/-FWEBP-C1367x1367%2C341%2C0-S720x720`
+- assets\asset-manifest.json:538 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_dt52c4akrt5nd3uu3su41qgk05/-FWEBP-C1364x1364%2C0%2C343-S720x720`
+- assets\asset-manifest.json:546 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_d704ig3t3p04l9tjh5rmlbl247/-FWEBP-C1367x1367%2C0%2C341-S720x720`
+- assets\asset-manifest.json:554 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_s00k4jvhvh7r12ied9k4g2dt08/-FWEBP-C991x991%2C501%2C0-S720x720`
+- assets\asset-manifest.json:562 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_mkqg81g0jl59d6qvgl5s5lqk0i/-FWEBP-C1537x1537%2C0%2C256-S720x720`
+- assets\asset-manifest.json:570 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_mu2nc6d27d5nj86b7d6lm38s4e/-FWEBP-C1294x1294%2C378%2C0-S720x720`
+- assets\asset-manifest.json:578 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_0loam3gqg90i52aue07sreck3h/-FWEBP-C1362x1362%2C575%2C0-S720x720`
+- assets\asset-manifest.json:586 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_9sjv8he53p33f55no19p6nti50/-FWEBP-C2050x1153%2C0%2C102-S2560x1440`
+- assets\asset-manifest.json:594 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_jm0r06ajcd6afdte29dv2o0m7o/-FWEBP-Ro:5,w:1536,h:849,n:default`
+- assets\asset-manifest.json:602 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_jm0r06ajcd6afdte29dv2o0m7o/-FWEBP-Ro:5`
+- assets\asset-manifest.json:610 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_v12tuabe2t52560mvhrjp07o00/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:618 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_v12tuabe2t52560mvhrjp07o00/-FWEBP-Ro:5`
+- assets\asset-manifest.json:626 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_38jb79eevd31917a4u4sk69f6l/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:634 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_38jb79eevd31917a4u4sk69f6l/-FWEBP-Ro:5`
+- assets\asset-manifest.json:642 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_j2fuv68ee922h48ceakb16v868/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:650 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_j2fuv68ee922h48ceakb16v868/-FWEBP-Ro:5`
+- assets\asset-manifest.json:658 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_ilolvg31vp7an1n56cjk8k7i4o/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:666 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_ilolvg31vp7an1n56cjk8k7i4o/-FWEBP-Ro:5`
+- assets\asset-manifest.json:674 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_ine07egs8p3330disamf0hq47l/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:682 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_ine07egs8p3330disamf0hq47l/-FWEBP-Ro:5`
+- assets\asset-manifest.json:690 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_7e87i0kekt5qr3bkg59q145l04/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:698 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_7e87i0kekt5qr3bkg59q145l04/-FWEBP-Ro:5`
+- assets\asset-manifest.json:706 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_3vah7sa86t5d99c238iavrpr10/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:714 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_3vah7sa86t5d99c238iavrpr10/-FWEBP-Ro:5`
+- assets\asset-manifest.json:722 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_kgahgb37it5bd554l4766eu65a/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:730 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_kgahgb37it5bd554l4766eu65a/-FWEBP-Ro:5`
+- assets\asset-manifest.json:738 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_5cdnf3lfch4m7b6g0uk14cit3f/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:746 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_5cdnf3lfch4m7b6g0uk14cit3f/-FWEBP-Ro:5`
+- assets\asset-manifest.json:754 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_h6inlt543t2f31kf0hlke1fn7i/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:762 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_h6inlt543t2f31kf0hlke1fn7i/-FWEBP-Ro:5`
+- assets\asset-manifest.json:770 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_2atgokqqj946l2kocd3feedd6i/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:778 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_2atgokqqj946l2kocd3feedd6i/-FWEBP-Ro:5`
+- assets\asset-manifest.json:786 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_d52n7bau692a7co05rsmf8ed0n/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:794 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_d52n7bau692a7co05rsmf8ed0n/-FWEBP-Ro:5`
+- assets\asset-manifest.json:802 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_o683v8n8652o9dss1ic9nni56p/-FWEBP-Ro:5,w:1536,h:864,n:default`
+- assets\asset-manifest.json:810 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_o683v8n8652o9dss1ic9nni56p/-FWEBP-Ro:5`
+- assets\asset-manifest.json:818 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_7ioq9i5auh6ld4rdcg5lroja3t/-FJPG-Ro:5,w:828,h:621,n:default`
+- assets\asset-manifest.json:826 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_7ioq9i5auh6ld4rdcg5lroja3t/-FJPG-Ro:5`
+- assets\asset-manifest.json:834 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_96a1gsfaj54ph9vrhp77bol01r/-FJPG-Ro:5,w:828,h:621,n:default`
+- assets\asset-manifest.json:842 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_96a1gsfaj54ph9vrhp77bol01r/-FJPG-Ro:5`
+- assets\asset-manifest.json:850 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_57elqnia655m5eq2pr4dv8o23o/-FJPG-Ro:5,w:828,h:621,n:default`
+- assets\asset-manifest.json:858 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_57elqnia655m5eq2pr4dv8o23o/-FJPG-Ro:5`
+- assets\asset-manifest.json:866 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_djo5jrsbb13f77l6nt7iodok1v/-FJPG-Ro:5,w:828,h:621,n:default`
+- assets\asset-manifest.json:874 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_djo5jrsbb13f77l6nt7iodok1v/-FJPG-Ro:5`
+- assets\asset-manifest.json:882 · external URL · `https://ew-media-production.imgix.net/media/53fc1e50-1b09-44c9-8400-dba68bd3064e/image/fe4cb7db-e1fb-47e5-951a-69beaf366ed6/shutters_t1CaFAD/15f7c3858f6438cb50e`
+- assets\asset-manifest.json:890 · external URL · `https://ew-media-production.imgix.net/media/53fc1e50-1b09-44c9-8400-dba68bd3064e/image/fe4cb7db-e1fb-47e5-951a-69beaf366ed6/shutters_t1CaFAD/15f7c3858f6438cb50e`
+- assets\asset-manifest.json:898 · external URL · `https://www.lonelyplanet.com/compress&q=72&fit=crop&w=360&ar=1:1`
+- assets\asset-manifest.json:905 · external URL · `https://www.lonelyplanet.com/compress&q=72&fit=crop&w=720&ar=1:1`
+- assets\asset-manifest.json:912 · external URL · `https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/abee2ed2-237a-40da-a8ab-289bd23fbb62/Hero_shu_Fn6Ymty/b858365a8f2fb920d02`
+- assets\asset-manifest.json:920 · external URL · `https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/abee2ed2-237a-40da-a8ab-289bd23fbb62/Hero_shu_Fn6Ymty/b858365a8f2fb920d02`
+- assets\asset-manifest.json:928 · external URL · `https://ew-media-production.imgix.net/media/034ea407-d4df-4258-9bce-6757e255e0c3/image/13d73e14-cdb6-40d6-85c0-20c1c9ca5833/Hero_Get_91oLA0p/2e14bf7252b34d60bad`
+- assets\asset-manifest.json:936 · external URL · `https://ew-media-production.imgix.net/media/034ea407-d4df-4258-9bce-6757e255e0c3/image/13d73e14-cdb6-40d6-85c0-20c1c9ca5833/Hero_Get_91oLA0p/2e14bf7252b34d60bad`
+- assets\asset-manifest.json:944 · external URL · `https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/7ac72d42-fce8-4bc5-b0ae-e051207c27f8/Lake_Como_6/be64e093a8c66946a6d8a984`
+- assets\asset-manifest.json:952 · external URL · `https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/7ac72d42-fce8-4bc5-b0ae-e051207c27f8/Lake_Como_6/be64e093a8c66946a6d8a984`
+- assets\asset-manifest.json:960 · external URL · `https://ew-media-production.imgix.net/media/d5c14fd4-072e-43c6-9073-34edbf80b683/image/a53f7923-3dbe-479c-9ccf-f2bb2ed1d670/Resize_shutterst/959c590beb13cc161e5`
+- assets\asset-manifest.json:968 · external URL · `https://ew-media-production.imgix.net/media/d5c14fd4-072e-43c6-9073-34edbf80b683/image/a53f7923-3dbe-479c-9ccf-f2bb2ed1d670/Resize_shutterst/959c590beb13cc161e5`
+- assets\asset-manifest.json:976 · external URL · `https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/961ade68-51ea-4614-915a-ec065bba24cf/shutterstockRF_1/9d47125b990a98589d9`
+- assets\asset-manifest.json:984 · external URL · `https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/961ade68-51ea-4614-915a-ec065bba24cf/shutterstockRF_1/9d47125b990a98589d9`
+- assets\asset-manifest.json:992 · external URL · `https://ew-media-production.imgix.net/media/9803f6b6-045a-4985-a1a2-ede82f3f9826/image/4272be35-9a37-4dfb-a5bd-eab7c8e15df3/shutters_00iAhzr/6ed20477f567d3febfd`
+- assets\asset-manifest.json:1000 · external URL · `https://ew-media-production.imgix.net/media/9803f6b6-045a-4985-a1a2-ede82f3f9826/image/4272be35-9a37-4dfb-a5bd-eab7c8e15df3/shutters_00iAhzr/6ed20477f567d3febfd`
+- assets\asset-manifest.json:1008 · external URL · `https://ew-media-production.imgix.net/media/d5c14fd4-072e-43c6-9073-34edbf80b683/image/dc5d66f7-cd63-4d71-bb89-2df3d593cf71/Fernando_RaZOl1j/2429eac8b5a9aff7f8f`
+- assets\asset-manifest.json:1016 · external URL · `https://ew-media-production.imgix.net/media/d5c14fd4-072e-43c6-9073-34edbf80b683/image/dc5d66f7-cd63-4d71-bb89-2df3d593cf71/Fernando_RaZOl1j/2429eac8b5a9aff7f8f`
+- assets\asset-manifest.json:1024 · external URL · `https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/991f591c-800b-4439-bd8b-7cc44190a961/hero/2e3431e4a67b1f15965efaf6385bddc`
+- assets\asset-manifest.json:1032 · external URL · `https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/991f591c-800b-4439-bd8b-7cc44190a961/hero/2e3431e4a67b1f15965efaf6385bddc`
+- assets\asset-manifest.json:1040 · external URL · `https://ew-media-production.imgix.net/media/859db824-ab45-4e07-b284-2215bd281800/image/cea5059b-f17a-457a-bc22-594cd93c48fa/Carousal_NAKsfdA/d0f3f5d5ec8d7308b2d`
+- assets\asset-manifest.json:1048 · external URL · `https://ew-media-production.imgix.net/media/859db824-ab45-4e07-b284-2215bd281800/image/cea5059b-f17a-457a-bc22-594cd93c48fa/Carousal_NAKsfdA/d0f3f5d5ec8d7308b2d`
+- assets\asset-manifest.json:1056 · external URL · `https://ew-media-production.imgix.net/media/9803f6b6-045a-4985-a1a2-ede82f3f9826/image/a54bce0a-48fd-4935-a6cb-5dd72dcbb1df/USA-Hawa_lsW3vY8/6d81e81b13727d3777b`
+- assets\asset-manifest.json:1064 · external URL · `https://ew-media-production.imgix.net/media/9803f6b6-045a-4985-a1a2-ede82f3f9826/image/a54bce0a-48fd-4935-a6cb-5dd72dcbb1df/USA-Hawa_lsW3vY8/6d81e81b13727d3777b`
+- assets\asset-manifest.json:1072 · external URL · `https://ew-media-production.imgix.net/media/58410cda-7b20-4579-9802-d45902b9db22/image/090b900c-0e2a-4cb3-8851-f3e143b37bdd/Hero_shu_EfZN2Zv/3cb6046afb529acc106`
+- assets\asset-manifest.json:1080 · external URL · `https://ew-media-production.imgix.net/media/58410cda-7b20-4579-9802-d45902b9db22/image/090b900c-0e2a-4cb3-8851-f3e143b37bdd/Hero_shu_EfZN2Zv/3cb6046afb529acc106`
+- assets\asset-manifest.json:1088 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_2ota2fffb95n77picluv9gmt2h/-FWEBP-Ro:5,w:750,h:750,n:default`
+- assets\asset-manifest.json:1096 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_2ota2fffb95n77picluv9gmt2h/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1104 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_9sjv8he53p33f55no19p6nti50/-FWEBP-Ro:5,w:1536,h:864,n:default`
+- assets\asset-manifest.json:1112 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_9sjv8he53p33f55no19p6nti50/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1120 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_s95vr5r3hl72b6c4ae0rfqrj6u/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1128 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_s95vr5r3hl72b6c4ae0rfqrj6u/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1136 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_172de1i61t1hfat9v0vktm9l37/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1144 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_172de1i61t1hfat9v0vktm9l37/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1152 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_d704ig3t3p04l9tjh5rmlbl247/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1160 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_d704ig3t3p04l9tjh5rmlbl247/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1168 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_dt52c4akrt5nd3uu3su41qgk05/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1176 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_dt52c4akrt5nd3uu3su41qgk05/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1184 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_k055bmecpt6nvcmh63h3rejv4h/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1192 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_k055bmecpt6nvcmh63h3rejv4h/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1200 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_o53vagpeu520d4t4jn8qgk0m3s/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1208 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_o53vagpeu520d4t4jn8qgk0m3s/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1216 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_g4jljnmue52uhamgp24h29rq2v/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1224 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_g4jljnmue52uhamgp24h29rq2v/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1232 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_fpq7b5pr8h1kl6a2b7199a683v/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1240 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_fpq7b5pr8h1kl6a2b7199a683v/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1248 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_4c32h88f7l25f7jomj80vqmb3d/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1256 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_4c32h88f7l25f7jomj80vqmb3d/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1264 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_qed18rmbi50258f6o3u2rkvj7m/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1272 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_qed18rmbi50258f6o3u2rkvj7m/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1280 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_mkqg81g0jl59d6qvgl5s5lqk0i/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1288 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_mkqg81g0jl59d6qvgl5s5lqk0i/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1296 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_mu2nc6d27d5nj86b7d6lm38s4e/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1304 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_mu2nc6d27d5nj86b7d6lm38s4e/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1312 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_s00k4jvhvh7r12ied9k4g2dt08/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1320 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_s00k4jvhvh7r12ied9k4g2dt08/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1328 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_16r1u5qe394ev3jo6035hqpd5m/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1336 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_16r1u5qe394ev3jo6035hqpd5m/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1344 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_0loam3gqg90i52aue07sreck3h/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1352 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_0loam3gqg90i52aue07sreck3h/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1360 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_7lgmho516562r1ho2alf3luo4q/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1368 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_7lgmho516562r1ho2alf3luo4q/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1376 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_n2mdfm8l3t7tb04enolkg2go5l/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1384 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_n2mdfm8l3t7tb04enolkg2go5l/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1392 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_sofk9bknlp4uvaig7ejv19ao7i/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1400 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_sofk9bknlp4uvaig7ejv19ao7i/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1408 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_1rsjvrkeo52cr4ko79lq3q1o47/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1416 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_1rsjvrkeo52cr4ko79lq3q1o47/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1424 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_os1fioj7g57r5a5em7bhcq093u/-FWEBP-Ro:5,w:360,h:360,n:default`
+- assets\asset-manifest.json:1432 · external URL · `https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_os1fioj7g57r5a5em7bhcq093u/-FWEBP-Ro:5`
+- assets\asset-manifest.json:1440 · external URL · `https://navi.cohesionapps.com/rum?m=eyJydW1fdmVyc2lvbiI6InYyIiwiY2xpZW50X3ZlcnNpb24iOiJ2My43OC4wIiwiY2xpZW50X3NyYyI6Imh0dHBzOi8vY29oZXNpb24ubG9uZWx5cGxhbmV0LmNv`
+- assets\asset-manifest.json:1448 · external URL · `https://assets.staticlp.com/fonts/grotesk/AmericanGroteskCompressed-Black.otf`
+- assets\asset-manifest.json:1456 · external URL · `https://assets.staticlp.com/fonts/grotesk/AmericanGrotesk-Bold.otf`
+- assets\asset-manifest.json:1464 · external URL · `https://assets.staticlp.com/fonts/grotesk/american-grotesk-bold-italic.woff2`
+- assets\asset-manifest.json:1471 · external URL · `https://assets.staticlp.com/fonts/grotesk/AmericanGrotesk-BoldItalic.otf`
+- assets\asset-manifest.json:1478 · external URL · `https://assets.staticlp.com/fonts/grotesk/ABCMonumentGrotesk-Regular.woff`
+- assets\asset-manifest.json:1486 · external URL · `https://assets.staticlp.com/fonts/grotesk/ABCMonumentGrotesk-RegularItalic.woff2`
+- assets\asset-manifest.json:1494 · external URL · `https://assets.staticlp.com/fonts/grotesk/ABCMonumentGrotesk-RegularItalic.woff`
+- assets\asset-manifest.json:1502 · external URL · `https://assets.staticlp.com/fonts/grotesk/ABCMonumentGrotesk-Medium.woff2`
+- assets\asset-manifest.json:1510 · external URL · `https://assets.staticlp.com/fonts/grotesk/ABCMonumentGrotesk-Medium.woff`
+- assets\asset-manifest.json:1518 · external URL · `https://assets.staticlp.com/fonts/grotesk/ABCMonumentGrotesk-MediumItalic.woff2`
+- 1003 more not expanded
+
+## Conclusion
+- Address the residue items above before declaring this deployable.

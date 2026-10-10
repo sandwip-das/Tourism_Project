@@ -1,0 +1,15 @@
+{
+  "label": "original",
+  "url": "https://www.lonelyplanet.com",
+  "capturedAt": "2026-10-04T19:46:25.588Z",
+  "maxPages": 8,
+  "maxDepth": 1,
+  "allowSubdomains": false,
+  "routes": [],
+  "skipped": [
+    {
+      "url": "https://www.lonelyplanet.com",
+      "reason": "CDP connection closed"
+    }
+  ]
+}

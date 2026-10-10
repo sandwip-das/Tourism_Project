@@ -1,0 +1,15 @@
+{
+  "label": "clone",
+  "url": "http://127.0.0.1:8123",
+  "capturedAt": "2026-10-04T19:50:46.673Z",
+  "maxPages": 8,
+  "maxDepth": 1,
+  "allowSubdomains": false,
+  "routes": [],
+  "skipped": [
+    {
+      "url": "http://127.0.0.1:8123",
+      "reason": "CDP connection closed"
+    }
+  ]
+}

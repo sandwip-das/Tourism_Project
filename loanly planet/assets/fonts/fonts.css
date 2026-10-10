@@ -1,0 +1,21 @@
+@font-face { font-family: "American Grotesk Compressed"; src: url("assets.staticlp.com/american-grotesk-compressed-black-6cecc875c9.woff2") format("woff2"), url("assets.staticlp.com/AmericanGroteskCompressed-Black-a9339aa73c.otf") format("opentype"); font-style: normal; font-stretch: 100%; font-weight: 900; font-display: swap; }
+
+@font-face { font-family: "American Grotesk"; src: url("assets.staticlp.com/american-grotesk-bold-3456e3713a.woff2") format("woff2"), url("assets.staticlp.com/AmericanGrotesk-Bold-bdb919b363.otf") format("opentype"); font-style: normal; font-stretch: 100%; font-weight: 700; font-display: swap; }
+
+@font-face { font-family: "American Grotesk"; src: url("assets.staticlp.com/american-grotesk-bold-3456e3713a.woff2") format("woff2"), url("assets.staticlp.com/AmericanGrotesk-Bold-bdb919b363.otf") format("opentype"); font-style: italic; font-stretch: 100%; font-weight: 700; font-display: swap; }
+
+@font-face { font-family: "ABC Monument Grotesk"; src: url("assets.staticlp.com/ABCMonumentGrotesk-Regular-e19687c184.woff2") format("woff2"), url("assets.staticlp.com/ABCMonumentGrotesk-Regular-0e97cdfb89.woff") format("woff"); font-style: normal; font-stretch: 100%; font-weight: 400; font-display: swap; }
+
+@font-face { font-family: "ABC Monument Grotesk"; src: url("assets.staticlp.com/ABCMonumentGrotesk-RegularItalic-32dba5845c.woff2") format("woff2"), url("assets.staticlp.com/ABCMonumentGrotesk-RegularItalic-ebc4490da4.woff") format("woff"); font-style: italic; font-stretch: 100%; font-weight: 400; font-display: swap; }
+
+@font-face { font-family: "ABC Monument Grotesk"; src: url("assets.staticlp.com/ABCMonumentGrotesk-Medium-6b97e2b2d0.woff2") format("woff2"), url("assets.staticlp.com/ABCMonumentGrotesk-Medium-8fc7eb77fd.woff") format("woff"); font-stretch: 100%; font-weight: 700; font-display: swap; }
+
+@font-face { font-family: "ABC Monument Grotesk"; src: url("assets.staticlp.com/ABCMonumentGrotesk-MediumItalic-e5a1bb9122.woff2") format("woff2"), url("assets.staticlp.com/ABCMonumentGrotesk-MediumItalic-3be52013b9.woff") format("woff"); font-style: italic; font-stretch: 100%; font-weight: 700; font-display: swap; }
+
+@font-face { font-family: "ABC Monument Grotesk"; src: url("assets.staticlp.com/ABCMonumentGrotesk-Bold-1bad7bdfae.woff2") format("woff2"), url("assets.staticlp.com/ABCMonumentGrotesk-Bold-f7518a80cb.woff") format("woff"); font-style: normal; font-stretch: 100%; font-weight: 900; font-display: swap; }
+
+@font-face { font-family: "ABC Monument Grotesk"; src: url("assets.staticlp.com/ABCMonumentGrotesk-BoldItalic-e5e7ea74e8.woff2") format("woff2"), url("assets.staticlp.com/ABCMonumentGrotesk-BoldItalic-bd29393b63.woff") format("woff"); font-style: italic; font-stretch: 100%; font-weight: 900; font-display: swap; }
+
+@font-face { font-family: "ABC Monument Grotesk Mono"; src: url("assets.staticlp.com/ABCMonumentGroteskMono-Regular-836ef630f4.woff2") format("woff2"), url("assets.staticlp.com/ABCMonumentGroteskMono-Regular-3e2db25f19.woff") format("woff"); font-display: swap; }
+
+@font-face { font-family: "ABC Arizona Flare"; src: url("assets.staticlp.com/ABCArizonaFlare-Regular-6e76afb360.woff2") format("woff2"), url("assets.staticlp.com/ABCArizonaFlare-Regular-9897e17cb2.woff") format("woff"); font-display: swap; }

@@ -1,0 +1,75 @@
+/* Clone interaction layer. The original relied on Astro island JS for the
+   mega-menu, carousels and newsletter; trackers and remote scripts are removed,
+   so this file restores the desktop nav layout and the panel behaviour. */
+
+/* Ad slots from the original page are intentionally emptied — hide the boxes. */
+[data-container-id^="gpt-ad"],
+[data-path*="LonelyPlanet.com/homepage"] {
+  display: none !important;
+}
+
+/* Keep the hero video/caption above the dimmed backdrop. */
+global-nav { display: block; position: relative; z-index: 50; }
+
+@media (min-width: 1200px) {
+  global-nav .nav-bar {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    height: 60px !important;
+    grid-template-columns: none !important;
+  }
+  global-nav .nav-menu[data-nav-wide] {
+    display: block !important;
+    flex: 1 1 auto;
+    width: auto !important;
+  }
+  /* Manual panel control replaces the vendored JS toggle. */
+  global-nav .nav-panel {
+    display: none !important;
+    position: absolute !important;
+    left: 0 !important;
+    right: 0 !important;
+    top: 60px !important;
+    background: var(--background-color-primary, #fff);
+    border-top: 1px solid oklch(89% 0.0042 91.45);
+    max-height: calc(100vh - 60px);
+    overflow-y: auto;
+    z-index: 55;
+  }
+  global-nav .nav-panel.is-open { display: block !important; }
+  global-nav .nav-primary-control[aria-expanded="true"] { background: oklch(89% 0.0042 91.45); color: var(--text-color-brand, #3a1fe6); }
+}
+
+/* Backdrop behind an open desktop panel. */
+.od-nav-backdrop {
+  position: fixed;
+  inset: 60px 0 0 0;
+  background: rgba(17, 22, 26, 0.28);
+  z-index: 40;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 160ms ease;
+}
+.od-nav-backdrop.is-open { opacity: 1; visibility: visible; }
+
+/* Carousels: the original used swiper-like buttons; wire native scroll. */
+.od-carousel-track { scroll-behavior: smooth; }
+.od-arrow[disabled] { opacity: 0.35; cursor: not-allowed; }
+
+/* Newsletter inline feedback */
+.od-newsletter-msg { font-family: var(--font-family-mono); font-size: 12px; letter-spacing: .04em; text-transform: uppercase; margin-top: 10px; display: none; }
+.od-newsletter-msg.is-error { color: oklch(45% .18 29); display: block; }
+.od-newsletter-msg.is-success { color: oklch(45% .09 127); display: block; }
+
+/* Keep the focus ring visible on interactive elements we touch. */
+global-nav .nav-primary-control:focus-visible,
+.od-arrow:focus-visible,
+.od-nav-toggle:focus-visible {
+  outline: 2px solid var(--text-color-brand, #3a1fe6);
+  outline-offset: -2px;
+}
+
+/* On small screens the vendored layout wraps; tidy it up a little. */
+@media (max-width: 1199px) {
+  global-nav .nav-panel { display: none !important; }
+}

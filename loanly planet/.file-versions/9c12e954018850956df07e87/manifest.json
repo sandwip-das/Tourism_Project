@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 2,
+  "fileName": "index-original.html",
+  "currentVersionId": "b22ee327-1836-47b6-a38c-94085b51cfee",
+  "entries": [
+    {
+      "id": "b22ee327-1836-47b6-a38c-94085b51cfee",
+      "fileName": "index-original.html",
+      "version": 1,
+      "label": "Version 1",
+      "createdAt": 1791143056585,
+      "source": "ai",
+      "prompt": "Website URL to clone: https://www.lonelyplanet.com/",
+      "size": 1841072,
+      "mime": "text/html; charset=utf-8",
+      "kind": "html",
+      "contentPath": "0001-b22ee327-1836-47b6-a38c-94085b51cfee.html",
+      "contentDigest": "e3d3e39c4291be5fdfa802107f9f6e453dc320bfc5d355aea94cfb5814bf8704",
+      "promptSource": "message"
+    }
+  ]
+}

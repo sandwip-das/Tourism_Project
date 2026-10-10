@@ -1,0 +1,2918 @@
+{
+  "label": "original",
+  "url": "https://www.lonelyplanet.com/",
+  "capturedAt": "2026-10-04T19:50:30.865Z",
+  "requestCount": 134,
+  "responseCount": 116,
+  "fixtureCount": 13,
+  "requests": [
+    {
+      "url": "https://www.lonelyplanet.com/",
+      "method": "GET",
+      "resourceType": "document",
+      "headers": {
+        "Upgrade-Insecure-Requests": "1",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/layout.astro_astro_type_script_index_0_lang.qBQwlWeA.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://js-agent.newrelic.com/nr-loader-spa-current.min.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/global.Bs89zo3x.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/landingPageSchema.VQL8-Zjb.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/page.Cvc0OMbI.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_server-islands/ArticlesLayout?e=E8653767617E28E8DBEB103EMuaoibEaKojecmDtizmjBZMxvwG%2Bqss%3D&p=C5B6FC9FB4FD5CC75795EC6DV1wCQDORbgpV07AOptSUpeY6UoMITfaW%2FOqjOYm9AJVZdYIw7Db%2BAE43d12uem7Aov2THG5D5286WyBSs2kkhJBRGugNjvnb53ZyPalnbrLxkcWJhwuAfnkc8VNB10kNhqesc%2BYszBcNJX51OeGHa9GMwZvoutD8DVmR1yDECSTzlIhsYX%2Fmd%2FXvNwKhhY1%2BWzja6rK2cHcbEZS%2FUkSb1jN%2B0yU1jaKMXMP84F3Og6d5rU3SWxvX2KWAnJyuR6QUBPs%3D&s=",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_server-islands/ArticlesLayout?e=F600F13901A99A865705E5C2s2f832dJCDpRChVtDnb0sTR9gxFXcl0%3D&p=8AF4DDFE814DDC209CD54813wrTxP9mR3V29FSoa1ux2W3h%2FQOhiIr3foEkIZd28%2F6793v2Eeavg%2FzIs2TrG664gYvx2f9LupINcMnfjhJwXUlsOBULdCcmxt%2BGbX8ugjFA6IIMYVJb6SdxWb4GnUkzzIWC%2FuW2S0t8Gff8F7udLQOjkbPNB1izAZ4i9kDgLnjsDcWWjO38g2eHca2LCTKpg8BjHfWsQCIXiDCsNzBIewl3Cjk3DThAAIX41k7%2BduAj5QujZ1%2F5FteARRYk%2Fw5gsyHGf2bDsx6ZIbs3tg0Q3wFcvUdTX2ZgNPtPWFhQ58gpH5n3JgkHnY37gjAu61YNwhJYl%2FVrnW6o5OmJMTL6x5R1ek66vdjDXGX4PWE52LPfof2X3tS1B2ux5YzWecivKfD%2Fg3WhAu%2BmlpRUNpEneL%2FeEzoW2wqDvyU8e2GY1RPDPuh71umXQd4RBlEa39XvnQVBqrd%2Bi8p8ApRiw%2BvSEEEg0cOhQc3O0XQ0FtZBa%2BDZBW%2FWXqA6H3fR2sR7TzZXvhgAOngvC%2BQXjISqgP17aYs544VYRUmMCKZFGdMDiSB8UEvLvUtbhn0jpRtf8RIypybNt98alWfO3MGnHusQ6marpeKZt03T1Y6jY2kIhOvtwtHb2aYE0eU%2B2Zt1kXEzDpLMduw0Hue05bH5u9S896rfpycodjChQB0Eyh3ZPNBRu5a%2BVXlS9qH5c%2B%2FPiN6j3sPlYqNrHJ7uj32cH%2FZXCFfSwnfg23iUvSZORHL0%3D&s=",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_server-islands/PlaceCarouselLayout?e=B292014566341162FE8D7ADFt653ZenwgLGnqTP63oTzzgCOjEuS%2FeI%3D&p=854D507D598C9E09C7BDFC63LhVcS7XqtEx5POiAoMGV%2F2tCZf9Y%2BVzKjxCenY0gFLL53Q04zzyLB1qpGnsItrCX0R4NKdz35nJeB2SyTKqLs3d6pOIva30ASRyHISRH8rb7eOuIRvY%2F72W%2BT8uQV%2F28czXjhl40YrxsVy3UOLkOE4xtoU%2Fu57CymxxSM8nkEEA953hmHW91vfpQodOyB8ZxSZq7GoxKtbg51C4SPL9wZNT7xfL0ge7CeXHZ4xosCNz08HtS62tIEsY6f4QsXClU2psqZUfn02s2Augsh%2BBSZwBaJriSF%2Bs7SEUfjYFtW2xV1MDmh%2Bz7r2fCx14LF4Gh2OcdbedSl0RxfQdPzVmi6CsO2I0LXCb7hXLEz%2F6ibBv4uQHepiiGfcm5U0rhoK5JGdvFb7Pf5NIsyJNoHz0Keh9eRgiPKr7gSDTZQH0b6bOcm%2B9GgjGBP53H%2Fze4ZCZ9LotELrYfbqpWATVV0vFNE9g%2FKopruWVuvyJMMMqaOfOZJ7IlelgPBZmTUwTqV94%2BaH%2FGcvV7zDbTSuzdV%2FQgS0Qss2rBpaqRzP3h9IlX7JxJ6xKAuPYIU8XIhebpBI0ceDk%2FQGuMerk6G9ouFe839tRjbkOTlZ2VJzcbpqQW4m4bf11zHhA6KILZwVKuh%2Fcau79Lp3418lyo6IRz5kADYYJkmqrsuIc%2BpQQwzkr27reCMUzLt%2BSW&s=",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_server-islands/ProfilePanel?e=20D54C196A3449A740B31E88F8zaZ%2FuIc9dx%2BbaS2O6iyDa%2FUIsK43o%3D&p=5E8E8855A0DE73C615A1C74EJhJJG2FJ3788RJdmKkpnOO3yL%2BNj%2BaxjgjhUGYEHA4gX6uzVgQ%3D%3D&s=",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-P9V444",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://websdk.appsflyer.com/?st=banners&",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://assets.staticlp.com/fonts/grotesk/ABCMonumentGroteskMono-Regular.woff2",
+      "method": "GET",
+      "resourceType": "font",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://assets.staticlp.com/fonts/arizona-flare/ABCArizonaFlare-Regular.woff2",
+      "method": "GET",
+      "resourceType": "font",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/eventListeners.B1qWm9Ny.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/_astro/layout.astro_astro_type_script_index_0_lang.qBQwlWeA.js",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/preload-helper.B3nfOi5I.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/_astro/page.Cvc0OMbI.js",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/globalNav.astro_astro_type_script_index_0_lang.DVQmVTIp.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_jm0r06ajcd6afdte29dv2o0m7o/-FWEBP-Ro:5,w:1536,h:849,n:default",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://assets.staticlp.com/fonts/grotesk/ABCMonumentGrotesk-Regular.woff2",
+      "method": "GET",
+      "resourceType": "font",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://assets.staticlp.com/fonts/grotesk/american-grotesk-compressed-black.woff2",
+      "method": "GET",
+      "resourceType": "font",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://assets.staticlp.com/fonts/grotesk/american-grotesk-bold.woff2",
+      "method": "GET",
+      "resourceType": "font",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_o683v8n8652o9dss1ic9nni56p/-FWEBP-Ro:5,w:1536,h:864,n:default",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_7ioq9i5auh6ld4rdcg5lroja3t/-FJPG-Ro:5,w:828,h:621,n:default",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_96a1gsfaj54ph9vrhp77bol01r/-FJPG-Ro:5,w:828,h:621,n:default",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/tagular.Dvx7rnp4.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/_astro/eventListeners.B1qWm9Ny.js",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/index.9NOoacpU.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/client.BnXPp-SH.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/footerDropdown.4Cbv903j.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://cohesion.lonelyplanet.com/cohesion/cohesion-latest.min.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/layout.astro_astro_type_script_index_2_lang.DQ9BiV8k.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/web.DF2tQe06.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/_astro/index.9NOoacpU.js",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/icons.BqdnCH8L.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/_astro/index.9NOoacpU.js",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/social.BcJ9kx3Q.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/_astro/index.9NOoacpU.js",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/rolldown-runtime.Dd_uD5pT.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/_astro/footerDropdown.4Cbv903j.js",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/classnames.4zwll4zS.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/_astro/footerDropdown.4Cbv903j.js",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/browser.CtL8iCJ3.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/_astro/layout.astro_astro_type_script_index_2_lang.DQ9BiV8k.js",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/_withIcon.BO3zLoet.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/_astro/social.BcJ9kx3Q.js",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://cdn.cookielaw.org/consent/7a50bfcb-16c5-4ea3-a5a7-ec0129526f1b/7a50bfcb-16c5-4ea3-a5a7-ec0129526f1b.json",
+      "method": "GET",
+      "resourceType": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+      "method": "GET",
+      "resourceType": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "accept": "application/json",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/otBannerSdk.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_v12tuabe2t52560mvhrjp07o00/-FWEBP-Ro:5,w:360,h:360,n:default",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_38jb79eevd31917a4u4sk69f6l/-FWEBP-Ro:5,w:360,h:360,n:default",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_j2fuv68ee922h48ceakb16v868/-FWEBP-Ro:5,w:360,h:360,n:default",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_ilolvg31vp7an1n56cjk8k7i4o/-FWEBP-Ro:5,w:360,h:360,n:default",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_ine07egs8p3330disamf0hq47l/-FWEBP-Ro:5,w:360,h:360,n:default",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_7e87i0kekt5qr3bkg59q145l04/-FWEBP-Ro:5,w:360,h:360,n:default",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://cdn.cookielaw.org/consent/7a50bfcb-16c5-4ea3-a5a7-ec0129526f1b/019cb94d-4503-7a69-a6ca-3fe8ba636f72/en.json",
+      "method": "GET",
+      "resourceType": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-0C082JLRD2&cx=c&gtm=4e69u2",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://secure.quantserve.com/quant.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.google-analytics.com/analytics.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://widget.getyourguide.com/dist/pa.umd.production.min.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://sb.scorecardresearch.com/cs/31824268/beacon.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://cdn.attn.tv/lonelyplanet/dtag.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.googletagservices.com/tag/js/gpt.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/v2/otPcPanel.json",
+      "method": "GET",
+      "resourceType": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otCommonStyles.css",
+      "method": "GET",
+      "resourceType": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+      "method": "GET",
+      "resourceType": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://widget.getyourguide.com/pw/latest/client-loader/widget.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://beam.lonelyplanet.com/v2/t?k=d2tfMWxnMVNMYzFnQXB4YTl4NzFJd1hEdHRsZ0Ro",
+      "method": "POST",
+      "resourceType": "ping",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "Content-Type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": "{\"event\":\"redventures.usertracking.v2.SessionStarted\",\"properties\":{\"sessionCount\":1,\"webContext\":{\"page\":{\"referrer\":\"\",\"title\":\"Travel Guides & Travel Inspiration - Lonely Planet\",\"url\":\"https://www.lonelyplanet.com/\"},\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36\",\"instanceId\":\"10984481-8d1d-4cf6-a7f7-97bbc56e7927\",\"anonymousId\":\"82751cdf-85f3-4e41-a779-4e3e4550dc73\",\"fromManual\":false,\"cookieConsent\":{\"essential\":true,\"performance\":true,\"preference\":true,\"targeting\":true,\"social\":true},\"cohesionConsent\":true,\"sessionId\":\"c08aa974-3445-4d21-9ac6-27bc29d52d9a\"}},\"anonymousId\":\"82751cdf-85f3-4e41-a779-4e3e4550dc73\",\"timestamp\":\"2026-10-04T19:50:21.254Z\",\"writeKey\":\"src_1lg1SLNP84Uk7Ocf2fMZGpo1k10\",\"sentAt\":\"2026-10-04T19:50:21.254Z\",\"messageId\":\"b78810d5-c4c9-4418-9f87-bd8900c1e1bb\"}"
+    },
+    {
+      "url": "https://beam.lonelyplanet.com/v2/t?k=d2tfMWxnMVNMYzFnQXB4YTl4NzFJd1hEdHRsZ0Ro",
+      "method": "POST",
+      "resourceType": "ping",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "Content-Type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": "{\"event\":\"redventures.usertracking.v3.ElementViewed\",\"properties\":{\"webElement\":{\"elementType\":\"MODULE\",\"location\":\"HERO\",\"name\":\"HERO\"},\"webContext\":{\"page\":{\"referrer\":\"\",\"title\":\"Travel Guides & Travel Inspiration - Lonely Planet\",\"url\":\"https://www.lonelyplanet.com/\"},\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36\",\"instanceId\":\"10984481-8d1d-4cf6-a7f7-97bbc56e7927\",\"anonymousId\":\"82751cdf-85f3-4e41-a779-4e3e4550dc73\",\"fromManual\":false,\"cookieConsent\":{\"essential\":true,\"performance\":true,\"preference\":true,\"targeting\":true,\"social\":true},\"cohesionConsent\":true,\"sessionId\":\"c08aa974-3445-4d21-9ac6-27bc29d52d9a\"}},\"anonymousId\":\"82751cdf-85f3-4e41-a779-4e3e4550dc73\",\"timestamp\":\"2026-10-04T19:50:21.263Z\",\"writeKey\":\"src_1lg1SLNP84Uk7Ocf2fMZGpo1k10\",\"sentAt\":\"2026-10-04T19:50:21.263Z\",\"messageId\":\"f027e513-912e-44ba-a3bf-d18e9241c2fb\"}"
+    },
+    {
+      "url": "https://beam.lonelyplanet.com/v2/t?k=d2tfMWxnMVNMYzFnQXB4YTl4NzFJd1hEdHRsZ0Ro",
+      "method": "POST",
+      "resourceType": "ping",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "Content-Type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": "{\"event\":\"redventures.usertracking.v2.PageViewed\",\"properties\":{\"pageName\":\"Travel Guides & Travel Inspiration - Lonely Planet\",\"newAnonymousId\":true,\"advertisementId\":\"1f802da51781424d9c149d22c7920045\",\"performance\":{\"connectEnd\":1791143419837,\"connectStart\":1791143419805,\"domContentLoadedEventEnd\":1791143420652,\"domContentLoadedEventStart\":1791143420649,\"domInteractive\":1791143420503,\"domainLookupEnd\":1791143419805,\"domainLookupStart\":1791143419805,\"fetchStart\":1791143419804,\"requestStart\":1791143419838,\"responseEnd\":1791143419876,\"responseStart\":1791143419857,\"secureConnectionStart\":1791143419817},\"webContext\":{\"page\":{\"referrer\":\"\",\"title\":\"Travel Guides & Travel Inspiration - Lonely Planet\",\"url\":\"https://www.lonelyplanet.com/\"},\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36\",\"instanceId\":\"10984481-8d1d-4cf6-a7f7-97bbc56e7927\",\"anonymousId\":\"82751cdf-85f3-4e41-a779-4e3e4550dc73\",\"fromManual\":false,\"cookieConsent\":{\"essential\":true,\"performance\":true,\"preference\":true,\"targeting\":true,\"social\":true},\"cohesionConsent\":true,\"sessionId\":\"c08aa974-3445-4d21-9ac6-27bc29d52d9a\"}},\"anonymousId\":\"82751cdf-85f3-4e41-a779-4e3e4550dc73\",\"timestamp\":\"2026-10-04T19:50:21.265Z\",\"writeKey\":\"src_1lg1SLNP84Uk7Ocf2fMZGpo1k10\",\"sentAt\":\"2026-10-04T19:50:21.265Z\",\"messageId\":\"1961ceaa-bc6e-4e95-94d9-435856d2f540\"}"
+    },
+    {
+      "url": "https://cdn.cohesionapps.com/cohesion/xs1.html",
+      "method": "GET",
+      "resourceType": "document",
+      "headers": {
+        "Referer": "https://www.lonelyplanet.com/",
+        "Upgrade-Insecure-Requests": "1",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=1807827985&t=pageview&_s=1&dl=https%3A%2F%2Fwww.lonelyplanet.com%2F&ul=en-us&dt=Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet&sr=800x600&vp=1425x900&_u=YEBAAEABAAAAACAAI~&jid=1212432958&gjid=1667782793&cid=691245377.1791143421&tid=UA-11222786-2&_gid=519183782.1791143421&_r=1&_slc=1&gtm=45He69u2n71P9V444v72557567za200zd72557567xf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117971173~118897920~118897930~120385422~120469145~120469153&z=1817919107",
+      "method": "POST",
+      "resourceType": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "Content-Type": "text/plain",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://rules.quantcount.com/rules-p-jymSSN13mzc8U.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://pixel.quantserve.com/cs?a=p-jymSSN13mzc8U&gdpr=0&sf2=1",
+      "method": "GET",
+      "resourceType": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://sb.scorecardresearch.com/internal-cs/default/beacon.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "Referer": "https://www.lonelyplanet.com/"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://widget.getyourguide.com/gnikcart?q=eyJwYXJ0bmVyX2lkIjpudWxsLCJ1cmwiOiJ3d3cubG9uZWx5cGxhbmV0LmNvbS8ifQ%3D%3D",
+      "method": "GET",
+      "resourceType": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202609300101/pubads_impl.js?cb=122881362",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://sb.scorecardresearch.com/b?c1=2&c2=31824268&cs_it=b1&cv=4.14.0%2B2608070551&ns__t=1791143421406&ns_c=UTF-8&cs_cfg=1101110&cs_fpid=undefined&cs_fpit=c&cs_fpdm=*null&cs_fpdt=*null&cs_ucfr=&c7=https%3A%2F%2Fwww.lonelyplanet.com%2F&c8=Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet&c9=",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://sb.scorecardresearch.com/b?c1=2&c2=31824268&cs_it=b1&cv=4.14.0%2B2608070551&ns__t=1791143421407&ns_c=UTF-8&cs_cfg=1101110&cs_fpid=undefined&cs_fpit=c&cs_fpdm=*null&cs_fpdt=*null&cs_ucfr=&c7=https%3A%2F%2Fwww.lonelyplanet.com%2F&c8=Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet&c9=",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://pixel.quantserve.com/cs?a=p-jymSSN13mzc8U&gdpr=0&sf2=1&__qcmcs=1",
+      "method": "GET",
+      "resourceType": "fetch",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "Referer": "https://www.lonelyplanet.com/"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-0C082JLRD2&gtm=45je69u2v874484220z872557567za20gzb72557567zd72557567xf1&_p=1791143419919&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&ecid=955643838&_eu=AAAAAGAC&cid=691245377.1791143421&ec_mode=a&frm=0&pscdl=noapi&rcb=14&sr=800x600&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.93%7CGoogle%2520Chrome%3B154.0.8037.93%7CNot%2520A(Brand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121280969&sid=1791143421&sct=1&seg=0&dl=https%3A%2F%2Fwww.lonelyplanet.com%2F&dt=Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet&en=page_view&_fv=1&_ss=1&tfd=1801",
+      "method": "POST",
+      "resourceType": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-0C082JLRD2&cid=691245377.1791143421&gtm=45je69u2v874484220z872557567za20gzb72557567zd72557567xf1&rcb=14&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121280969",
+      "method": "POST",
+      "resourceType": "ping",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.google.com.bd/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-0C082JLRD2&cid=691245377.1791143421&gtm=45je69u2v874484220z872557567za20gzb72557567zd72557567xf1&rcb=14&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121280969&z=575008312",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_96a1gsfaj54ph9vrhp77bol01r/-FJPG-C1577x1182%2C0%2C433-S828x621",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "Referer": "https://www.lonelyplanet.com/"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://sb.scorecardresearch.com/b2?c1=2&c2=31824268&cs_it=b1&cv=4.14.0%2B2608070551&ns__t=1791143421406&ns_c=UTF-8&cs_cfg=1101110&cs_fpid=undefined&cs_fpit=c&cs_fpdm=*null&cs_fpdt=*null&cs_ucfr=&c7=https%3A%2F%2Fwww.lonelyplanet.com%2F&c8=Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet&c9=",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "Referer": "https://www.lonelyplanet.com/"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://sb.scorecardresearch.com/b2?c1=2&c2=31824268&cs_it=b1&cv=4.14.0%2B2608070551&ns__t=1791143421407&ns_c=UTF-8&cs_cfg=1101110&cs_fpid=undefined&cs_fpit=c&cs_fpdm=*null&cs_fpdt=*null&cs_ucfr=&c7=https%3A%2F%2Fwww.lonelyplanet.com%2F&c8=Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet&c9=",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "Referer": "https://www.lonelyplanet.com/"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/partnerpixels?url=https%3A%2F%2Fwww.lonelyplanet.com%2F",
+      "method": "GET",
+      "resourceType": "document",
+      "headers": {
+        "Referer": "https://www.lonelyplanet.com/",
+        "Upgrade-Insecure-Requests": "1",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_jm0r06ajcd6afdte29dv2o0m7o/-FWEBP-C2050x1133%2C0%2C121-S1536x849",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "Referer": "https://www.lonelyplanet.com/"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=4284780975383913&correlator=3133881815420071&eid=122881290%2C122880890%2C122881362&output=ldjh&gdfp_req=1&vrg=202609300101&ptt=17&impl=fifs&iu_parts=9885583%2CLonelyPlanet.com%2Chomepage%2Ctop&enc_prev_ius=%2F0%2F1%2F2%2F3&prev_iu_szs=970x250%7C970x90%7C728x90%7C1x1&ifi=1&dids=gpt-ad-948833580775&adfs=2683255260&sfv=1-0-45&sc=1&cookie_enabled=1&abxe=1&dt=1791143421875&lmt=1791143421&adxs=228&adys=4012&biw=1425&bih=900&scr_x=0&scr_y=0&btvi=1&ucis=1&oid=2&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&u_tz=360&dmc=16&bc=31&nvt=1&uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTU0LjAuODAzNy45MyIsbnVsbCwwLG51bGwsIjY0IixbWyJDaHJvbWl1bSIsIjE1NC4wLjgwMzcuOTMiXSxbIkdvb2dsZSBDaHJvbWUiLCIxNTQuMC44MDM3LjkzIl0sWyJOb3QgQShCcmFuZCIsIjk5LjAuMC4wIl1dLDBd&url=https%3A%2F%2Fwww.lonelyplanet.com%2F&vis=1&psz=1425x128&msz=1425x0&fws=0&ohw=0&dlt=1791143419875&idt=1771&prev_scp=chsn_ad_id%3D1f802da51781424d9c149d22c7920045%26url%3D%252Fhomepage%26slug%3Dhomepage%26destination%3DHomepage%26title%3Dhomepage%26type%3DLanding%26refresh%3D30%26refresh_limit%3D3&adks=1443270233&frm=20&cpu=3&eoidce=1",
+      "method": "GET",
+      "resourceType": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=4284780975383913&correlator=3133881815420071&eid=122881290%2C122880890%2C122881362&output=ldjh&gdfp_req=1&vrg=202609300101&ptt=17&impl=fifs&iu_parts=9885583%2CLonelyPlanet.com%2Chomepage%2Cbottom&enc_prev_ius=%2F0%2F1%2F2%2F3&prev_iu_szs=970x250%7C970x90%7C728x90%7C1x1&ifi=2&dids=gpt-ad-567284426641&adfs=1585686237&sfv=1-0-45&sc=1&cookie_enabled=1&abxe=1&dt=1791143421901&lmt=1791143421&adxs=228&adys=8212&biw=1425&bih=900&scr_x=0&scr_y=0&btvi=2&ucis=2&oid=2&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&u_tz=360&dmc=16&bc=31&nvt=1&uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTU0LjAuODAzNy45MyIsbnVsbCwwLG51bGwsIjY0IixbWyJDaHJvbWl1bSIsIjE1NC4wLjgwMzcuOTMiXSxbIkdvb2dsZSBDaHJvbWUiLCIxNTQuMC44MDM3LjkzIl0sWyJOb3QgQShCcmFuZCIsIjk5LjAuMC4wIl1dLDBd&url=https%3A%2F%2Fwww.lonelyplanet.com%2F&vis=1&psz=1425x128&msz=1425x0&fws=0&ohw=0&dlt=1791143419875&idt=1771&prev_scp=chsn_ad_id%3D1f802da51781424d9c149d22c7920045%26url%3D%252Fhomepage%26slug%3Dhomepage%26destination%3DHomepage%26title%3Dhomepage%26type%3DLanding%26refresh%3D30%26refresh_limit%3D3&adks=1682430208&frm=20&cpu=3&eoidce=1",
+      "method": "GET",
+      "resourceType": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://4a99e08125ead867d8e9150fea3ef54e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "method": "GET",
+      "resourceType": "document",
+      "headers": {
+        "Referer": "https://www.lonelyplanet.com/",
+        "Upgrade-Insecure-Requests": "1",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://idsync.rlcdn.com/380609.gif?gdpr=0&partner_uid=uTOpLO42rHuiY6t77mbnLLpjr3yiMagp7mq3uZBF",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=81&gdpr=0&external_user_id=l39elMB6W8OML1zDwCoQlJQvWMSMfV-RwCY7mA0J",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://image2.pubmatic.com/AdServer/Pug?gdpr=0&vcode=bz0yJnR5cGU9MSZjb2RlPTExMTMmdGw9NDMyMDA=&piggybackCookie=19lM1YDcSYLMiU6CgIwC1dSJSoXM203QgIAef-55",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://pixel.rubiconproject.com/tap.php?v=4939&nid=1902&gdpr=0&put=ncBfzcrFWpqGkF2aypURzZ6QWZ2Gwl7Iypk9RkOM",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/pixel?gdpr=0&google_nid=B765081F39B1F7&google_push=&google_hm=VEPWvfNBWEcMU0vKli_6-w",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://pixel.quantserve.com/pixel;r=1996731516;labels=%2C%2CLonely%20Planet.Title.Travel%20Guides%20%26%20Inspiration%20%7C%20Lonely%20Planet%2CLonely%20Planet.Title.Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet;source=gtm%2Cgtm;event=rule;rf=0;a=p-jymSSN13mzc8U;url=https%3A%2F%2Fwww.lonelyplanet.com%2F;ns=0;ce=1;qjs=1;qv=b414f28e-20260609162752;ref=;dst=0;et=1791143421968;tzo=-360;ogl=site_name.Lonely%20Planet%2Csite_name.Lonely%20Planet%2Ctype.article%2Cupdated_time.2026-10-04T19%3A48%3A14%252E675-06%3A00%2Cdescription.Love%20travel%3F%20Discover%252C%20plan%20and%20book%20your%20perfect%20trip%20with%20expert%20advice%252C%20trave%2Ctitle.Travel%20Guides%20%26%20Inspiration%20%7C%20Lonely%20Planet%2Cimage.https%3A%2F%2Fd2vbr83hnyiux1%252Ecloudfront%252Enet%2Fimage%2F975050285728%2Fimage_16b18q7j3l0nr1lg9%2Cimage%3Aalt.GettyImages-2162241980%252Ejpg%2Ctitle.Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet%2Curl.https%3A%2F%2Fwww%252Elonelyplanet%252Ecom%2F;d=lonelyplanet.com;uh=d03502c43d74a30b936740a9517dc4ea2b2ad7168caa0a774cefe793ce0b33e7;uht=2;fpan=1;fpa=P1-d0c292de-f78a-4cdd-880f-a1a8aa494baf;pbc=;_ses=33d6a903-4331-4ef5-975a-8b0195bf3fc0;_seg=0;_ss=1;_gacid=691245377.1791143421;_gasid=0C082JLRD2_1791143421;_gam=a;gdpr=0;mdl=",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610010101/gpt",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_7ioq9i5auh6ld4rdcg5lroja3t/-FJPG-C2050x1537%2C0%2C256-S828x621",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "Referer": "https://www.lonelyplanet.com/"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsscda4M9IiTgEqzd905r_0wXmaDcK8D1fb6E7nZyedhGAfibuMm3xIuPk96v3hKJ7n-aJbIOwN8LT9Kn74EPYSerAenHSaaXDOoy6v9SjVi5zhBJQ1UzHyMnvPlr-CDcZq_AYziC0AYuWsUqVh2KTDATKsZXuvACTIeLL3J6BacMzZwuO0F_IscgH0jlrfLSyTAfTrV_vKWZBtUiclSXJ21hvKFYCUAATO7a-ohnXN7iOCv8AXmvbC1htN2qVysJcKZf6zb3xv9lWoolGRZnXmqLjSrbHdYvfeqpZMTCidipsQgR3dBiqid2rVjL6FWRv79XYCJm10w6eqKWtSq9RfVUfAHjhn0JhwvQN6I3wj7heGRCbB5qAkCkcV2j3iacgTQ3yJTkyBBk-mZIkerg_hH0TeWjfU_oFyP1r8_ozDv1w9RhVQWwK8RTFmhkRI_LQZmu-aGJg&sai=AMfl-YSzNrMjL5fW4sqW2OXKzHSSYmWNuZ7MoJzdxy1jXyeNibsvapallt0I474botUBtyWCe11mjbf6GOWk_CvoZzQt1KY_Lg0RqKYOeborsuJwoL1jRg7sbpy-3WcJPTID0nOEZ2ov0RY8Db2o1kmNZFs_CjqcNfXxr2ATTGeUQSpWmvloE9fAg5FHxmHxYPNBw3qX2uiDTM3GYCI-LZR_0IOcYcyG2jejCuEMKf0Smvn2ZND2Etq9RlpnbgfPSOwJcv1WQT_i42GXd7wK1Lt5Fn67Ta44ol7ox0fr7IK3DhFVvRyjkE_v7-mIZfb_RP9jqdzJSS-13AHJ6uVsuBYHIcKEAbmrtvc1u8yChVvgJ5nnV_gaNxuDU0W2xWC7OA8SXnLi33FfH8Yl65Y&sig=Cg0ArKJSzAaP-25Zuxf5EAE&uach_m=%5BUACH%5D&adurl=",
+      "method": "GET",
+      "resourceType": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261001/r20110914/client/window_focus.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://pixel.quantserve.com/pixel/p-jymSSN13mzc8U.gif?labels=_campaign.media.Advertiser%20ID.22600743.Campaign%20ID.161930463.Line%20Item%20ID.6951676503",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/simgad/12542075406044380566",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAWCAMAAABuZ5WBAAAABlBMVEUAAAD+AciWmZzWAAAAAnRSTlMAApidrBQAAACASURBVCjPlZPLEoBQCELh/3+6TQ894sytFtlVkcCkP5fbXc9DjgXpecdf/5NywUWOB/P9jbdSbbjHfPu3TipTI8iolHQZmIoaIkdUOiDmMtTDT6C7WSC01SiUTBW0qyAY7jN9wdwRk2u07hk9C0utoQg4b7jUwRtfuun8v3lplC6UhQDfNZmcNgAAAABJRU5ErkJggg==",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "Referer": ""
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://beam.lonelyplanet.com/v2/t?k=d2tfMWxnMVNMYzFnQXB4YTl4NzFJd1hEdHRsZ0Ro",
+      "method": "POST",
+      "resourceType": "ping",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "Content-Type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": "{\"event\":\"redventures.usertracking.v2.CrossSiteIdTracked\",\"properties\":{\"crossSiteId\":\"af8a25fc-9a5e-418d-8b7a-b207132a04cc\",\"webContext\":{\"page\":{\"referrer\":\"\",\"title\":\"Travel Guides & Travel Inspiration - Lonely Planet\",\"url\":\"https://www.lonelyplanet.com/\"},\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36\",\"instanceId\":\"10984481-8d1d-4cf6-a7f7-97bbc56e7927\",\"anonymousId\":\"82751cdf-85f3-4e41-a779-4e3e4550dc73\",\"fromManual\":false,\"cookieConsent\":{\"essential\":true,\"performance\":true,\"preference\":true,\"targeting\":true,\"social\":true},\"cohesionConsent\":true,\"sessionId\":\"c08aa974-3445-4d21-9ac6-27bc29d52d9a\",\"crossSiteId\":\"af8a25fc-9a5e-418d-8b7a-b207132a04cc\"}},\"anonymousId\":\"82751cdf-85f3-4e41-a779-4e3e4550dc73\",\"timestamp\":\"2026-10-04T19:50:22.117Z\",\"writeKey\":\"src_1lg1SLNP84Uk7Ocf2fMZGpo1k10\",\"sentAt\":\"2026-10-04T19:50:22.117Z\",\"messageId\":\"7af16c7b-cc62-4397-bebb-845c692d8d77\"}"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/pixel?gdpr=0&google_nid=B765081F39B1F7&google_push=&google_hm=VEPWvfNBWEcMU0vKli_6-w&google_tc=",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "Referer": "https://www.lonelyplanet.com/"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=81&gdpr=0&external_user_id=l39elMB6W8OML1zDwCoQlJQvWMSMfV-RwCY7mA0J&C=1",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "Referer": "https://www.lonelyplanet.com/"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_o683v8n8652o9dss1ic9nni56p/-FWEBP-C2050x1153%2C0%2C191-S1536x864",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "Referer": "https://www.lonelyplanet.com/"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=fle-fetch-start2",
+      "method": "GET",
+      "resourceType": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=colleague-executed&name=4",
+      "method": "GET",
+      "resourceType": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=reach&proto=CAlgAWgD",
+      "method": "GET",
+      "resourceType": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://idsync.rlcdn.com/1000.gif?memo=CMGdFxIzCi8IARCfOBoodVRPcExPNDJySHVpWTZ0NzdtYm5MTHBqcjN5aU1hZ3A3bXEzdVpCRhAAGg0I_tuK1gYSBQjoBxAAQgBKAA",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "Referer": "https://www.lonelyplanet.com/"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsu-JWfxN8XdnFzRYuOokPrEeyg-fwta5Yn3x3ZMrVG45gdoYGuuwkHmrYIDQ2QbZyWIU3ZAv9FLm-AsZOljLPHc1JtxBWOlFebRlPisZ8fwxMp3dwnejGw9-Zu91GqFMxBy0rPTTFa-zz0HP5mA5mKgoeoMrq2bBuWm9k6PaLBlzXBGzI3VOWlfdcYvzTtBZ_o-riAoiPArQ-NrV3oKgp_U9J4KwEXgRw67BrxicmEyJHPL4FGrLUAKU6o5Lk-Z3rQBJMmiDuLTbgaPrMODLJvsRtgV6H_as5q8-geqmD42m_2nTQMkE8CCibxyg94Umee4bps2mjhcnVL3wYBO24F3F3RltosYZ_ri4D-Q_Z-SNvGwzoz9DgHcHJ55bCODUuxN7Hzxf2AQMq6iJU3B0BCKf8k8_RNfWJaONnPqMfEc6EdffgASSp2WTA&sai=AMfl-YSU5-RVBxCiF5HmkEBgBCWsA1redWYZ8GbL7vBkTz-xb1Vq6xswjtwpweax8iLYgNJneI3r1BA0Jz0fnGi8pl3wc-dqQVikHbDYwMLHOGK5HA2d56ERmEDIUALe5DPwzpUVkavbh5bIrO0z8TqZuDfHKeWVDSwhkvscKGU33FqTTYuC0XaX-wmkfsiHg_aFQB8e1gnZ-UEWJ77TTq2dblloJy6lRXUjBoSHcuQ6ZuFJhBEW9KsALcmH0Z4AWTkoIBzGt6bAxLnm92vMdhx7-MwklFKshObai8JXr6gxD-6848ie0T8VHc25Q4Mul7Xvl4VvX-GdcVWIPTDZ1rt9kThaDe3wHhcxfIiYMv9Yu4V4oQy_pyayaR5hCb5W5ESKYP4J0Mit4li02ko&sig=Cg0ArKJSzAr2nMMuvdY0EAE&uach_m=%5BUACH%5D&vt=11&igpp=1&dett=3&adurl=",
+      "method": "GET",
+      "resourceType": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_7e87i0kekt5qr3bkg59q145l04/-FWEBP-C1367x1367%2C341%2C0-S360x360",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "Referer": "https://www.lonelyplanet.com/"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_v12tuabe2t52560mvhrjp07o00/-FWEBP-C1367x1367%2C341%2C0-S360x360",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "Referer": "https://www.lonelyplanet.com/"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://beam.lonelyplanet.com/v2/t?k=d2tfMWxnMVNMYzFnQXB4YTl4NzFJd1hEdHRsZ0Ro",
+      "method": "POST",
+      "resourceType": "ping",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "Content-Type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": "{\"event\":\"core.Identify.v1\",\"properties\":{\"anonymousId\":\"82751cdf-85f3-4e41-a779-4e3e4550dc73\",\"externalIds\":[{\"id\":\"af8a25fc-9a5e-418d-8b7a-b207132a04cc\",\"type\":\"cross_site_id\",\"collection\":\"users\",\"encoding\":\"none\"}],\"traits\":{},\"webContext\":{\"page\":{\"referrer\":\"\",\"title\":\"Travel Guides & Travel Inspiration - Lonely Planet\",\"url\":\"https://www.lonelyplanet.com/\"},\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36\",\"instanceId\":\"10984481-8d1d-4cf6-a7f7-97bbc56e7927\",\"anonymousId\":\"82751cdf-85f3-4e41-a779-4e3e4550dc73\",\"fromManual\":false,\"cookieConsent\":{\"essential\":true,\"performance\":true,\"preference\":true,\"targeting\":true,\"social\":true},\"cohesionConsent\":true,\"sessionId\":\"c08aa974-3445-4d21-9ac6-27bc29d52d9a\",\"crossSiteId\":\"af8a25fc-9a5e-418d-8b7a-b207132a04cc\"}},\"anonymousId\":\"82751cdf-85f3-4e41-a779-4e3e4550dc73\",\"timestamp\":\"2026-10-04T19:50:22.573Z\",\"writeKey\":\"src_1lg1SLNP84Uk7Ocf2fMZGpo1k10\",\"sentAt\":\"2026-10-04T19:50:22.573Z\",\"messageId\":\"523a183d-9a93-4a9d-96ad-98893706a9fb\"}"
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_38jb79eevd31917a4u4sk69f6l/-FWEBP-C1304x1304%2C373%2C0-S360x360",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "Referer": "https://www.lonelyplanet.com/"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://pippio.com/api/sync?pid=5324&it=1&iv=946b902d51b725c24ffd105a7cb93c2e6258a8d2a2550020deeb226d59319291791426b5417dce21&_=2",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "Referer": "https://www.lonelyplanet.com/"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_ine07egs8p3330disamf0hq47l/-FWEBP-C1343x1343%2C353%2C0-S360x360",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "Referer": "https://www.lonelyplanet.com/"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_j2fuv68ee922h48ceakb16v868/-FWEBP-C971x971%2C0%2C11-S360x360",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "Referer": "https://www.lonelyplanet.com/"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_ilolvg31vp7an1n56cjk8k7i4o/-FWEBP-C1368x1368%2C341%2C0-S360x360",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "Referer": "https://www.lonelyplanet.com/"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://cdn.attn.tv/tag/4-latest/unified-tag.js?v=4-latest_a2836cacd5",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://lonelyplanet.attn.tv/d?attn_vid=44daf9778ea247f29ad6931827e01795",
+      "method": "GET",
+      "resourceType": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://events.attentivemobile.com/ct-ev",
+      "method": "POST",
+      "resourceType": "ping",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": "d=%7B%22visitorId%22%3A%2244daf9778ea247f29ad6931827e01795%22%2C%22version%22%3A%222026.09.3_c3a6ff85e6d%22%2C%22attentiveDomain%22%3A%22lonelyplanet%22%2C%22sourceType%22%3A%22ct%22%2C%22locationHref%22%3A%22https%3A%2F%2Fwww.lonelyplanet.com%2F%22%2C%22referrer%22%3A%22%22%2C%22sessionId%22%3A%227ef8b8b803024ed2aa2b06210b96504e%22%2C%22eventType%22%3A%22PageView%22%2C%22identifiers%22%3A%7B%7D%2C%22eventMetadata%22%3A%7B%22eventType%22%3A%22PageView%22%7D%2C%22genericMetadata%22%3A%7B%7D%7D"
+    },
+    {
+      "url": "https://cdn.attn.tv/growth-tag-assets/client-configs/eX5.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://lonelyplanet.attn.tv/unrenderedCreative?v=2026.09.3&r=&id=44daf9778ea247f29ad6931827e01795&pv=1&l=https%3A%2F%2Fwww.lonelyplanet.com%2F&w=1440&h=900&ss_ref=ORGANIC&ses=7ef8b8b803024ed2aa2b06210b96504e&f=3",
+      "method": "POST",
+      "resourceType": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "Content-Type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": "{\"cookies\":{},\"utmParams\":{}}"
+    },
+    {
+      "url": "https://js-agent.newrelic.com/nr-spa-1.323.0.min.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "Origin": "https://www.lonelyplanet.com",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/getconfig/sodar?sv=200&tid=gpt&tv=m202609300101&st=env&sjk=4284780975383913",
+      "method": "GET",
+      "resourceType": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/images/favicon.ico",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://beam.lonelyplanet.com/v2/t?k=d2tfMWxnMVNMYzFnQXB4YTl4NzFJd1hEdHRsZ0Ro",
+      "method": "POST",
+      "resourceType": "ping",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "Content-Type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": "{\"event\":\"redventures.browser.v1alpha2.DomCompleted\",\"properties\":{\"performance\":{\"connectEnd\":1791143419837,\"connectStart\":1791143419805,\"domComplete\":1791143424532,\"domContentLoadedEventEnd\":1791143420652,\"domContentLoadedEventStart\":1791143420649,\"domInteractive\":1791143420503,\"domainLookupEnd\":1791143419805,\"domainLookupStart\":1791143419805,\"fetchStart\":1791143419804,\"loadEventEnd\":1791143424536,\"loadEventStart\":1791143424532,\"requestStart\":1791143419838,\"responseEnd\":1791143419876,\"responseStart\":1791143419857,\"secureConnectionStart\":1791143419817},\"webContext\":{\"page\":{\"referrer\":\"\",\"title\":\"Travel Guides & Travel Inspiration - Lonely Planet\",\"url\":\"https://www.lonelyplanet.com/\"},\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36\",\"instanceId\":\"10984481-8d1d-4cf6-a7f7-97bbc56e7927\",\"anonymousId\":\"82751cdf-85f3-4e41-a779-4e3e4550dc73\",\"fromManual\":false,\"cookieConsent\":{\"essential\":true,\"performance\":true,\"preference\":true,\"targeting\":true,\"social\":true},\"cohesionConsent\":true,\"sessionId\":\"c08aa974-3445-4d21-9ac6-27bc29d52d9a\",\"crossSiteId\":\"af8a25fc-9a5e-418d-8b7a-b207132a04cc\"}},\"anonymousId\":\"82751cdf-85f3-4e41-a779-4e3e4550dc73\",\"timestamp\":\"2026-10-04T19:50:24.553Z\",\"writeKey\":\"src_1lg1SLNP84Uk7Ocf2fMZGpo1k10\",\"sentAt\":\"2026-10-04T19:50:24.553Z\",\"messageId\":\"5604e749-92e9-42c3-9e20-21e1c7fdc414\"}"
+    },
+    {
+      "url": "https://bam.nr-data.net/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=4780&s=7d9a51a98ba8b39e&ref=https://www.lonelyplanet.com/&ptid=060c3850bb5ba7b7&af=err,spa,xhr,stn,ins&be=55&fe=4679&dc=795&fsh=1&perf=%7B%22timing%22:%7B%22of%22:1791143419802,%22n%22:0,%22f%22:2,%22dn%22:3,%22dne%22:3,%22c%22:3,%22s%22:14,%22ce%22:34,%22rq%22:36,%22rp%22:55,%22rpe%22:74,%22di%22:700,%22ds%22:847,%22de%22:850,%22dc%22:4729,%22l%22:4730,%22le%22:4734%7D,%22navigation%22:%7B%7D%7D&fp=272&fcp=272",
+      "method": "POST",
+      "resourceType": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "content-type": "text/plain",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": "{\"ja\":{\"application.version\":\"5247556\",\"environment\":\"prod\",\"webdriverDetected\":true,\"route\":\"/[...slug]\",\"browser.name\":\"Chrome\",\"browser.version\":\"Chrome 154.0.0.0\",\"browser.platform\":\"Windows NT 10.0; Win64; x64\",\"browser.engine\":\"AppleWebKit/537.36\",\"request.fullUrl\":\"https://www.lonelyplanet.com/\",\"request.path\":\"/\"}}"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html",
+      "method": "GET",
+      "resourceType": "document",
+      "headers": {
+        "Referer": "https://www.lonelyplanet.com/",
+        "Upgrade-Insecure-Requests": "1",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api2/aframe",
+      "method": "GET",
+      "resourceType": "document",
+      "headers": {
+        "Referer": "https://www.lonelyplanet.com/",
+        "Upgrade-Insecure-Requests": "1",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://bam.nr-data.net/events/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=5276&s=7d9a51a98ba8b39e&ref=https://www.lonelyplanet.com/&ptid=060c3850bb5ba7b7",
+      "method": "POST",
+      "resourceType": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "content-type": "text/plain",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": "bel.6;e,'fp,7k,f;5,'net-etype,'4g;6,'net-rtt,100.;6,'net-dlink,1.55;6,'cls,0.002450871208235013;7,'webdriverDetected;5,'application.version,'5247556;5,'environment,'prod;5,'route,'/[...slug];5,'browser.name,'Chrome;5,'browser.version,'Chrome 154.0.0.0;5,'browser.platform,'Windows NT 10.0\\; Win64\\; x64;5,'browser.engine,'AppleWebKit/537.36;5,'request.fullUrl,'https://www.lonelyplanet.com/;5,'request.path,'/;5,'pageUrl,m;e,'fcp,7k,i;6,'timeToFirstByte,55.299999999813735;6,'firstByteToFCP,216.70000000018626;5,'loadState,'loading;5,1,2;6,3,100.;6,4,1.55;6,5,0.002450871208235013;7,6;5,7,8;5,9,a;5,b,c;5,d,e;5,f,g;5,h,i;5,j,k;5,l,m;5,n,o;5,p,m;e,'load,3ni,f;5,1,2;6,3,100.;6,4,1.55;6,5,0.002450871208235013;7,6;5,7,8;5,9,a;5,b,c;5,d,e;5,f,g;5,h,i;5,j,k;5,l,m;5,n,o;5,p,m"
+    },
+    {
+      "url": "https://bam.nr-data.net/jserrors/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=5278&s=7d9a51a98ba8b39e&ref=https://www.lonelyplanet.com/&ptid=060c3850bb5ba7b7",
+      "method": "POST",
+      "resourceType": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "content-type": "text/plain",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": "{\"xhr\":[{\"params\":{\"method\":\"GET\",\"hostname\":\"cdn.cookielaw.org\",\"port\":\"443\",\"protocol\":\"https\",\"host\":\"cdn.cookielaw.org:443\",\"pathname\":\"/consent/7a50bfcb-16c5-4ea3-a5a7-ec0129526f1b/7a50bfcb-16c5-4ea3-a5a7-ec0129526f1b.json\",\"status\":200},\"metrics\":{\"count\":1,\"rxSize\":{\"t\":6604},\"duration\":{\"t\":43},\"cbTime\":{\"t\":2},\"time\":{\"t\":1067}}},{\"params\":{\"method\":\"GET\",\"hostname\":\"geolocation.onetrust.com\",\"port\":\"443\",\"protocol\":\"https\",\"host\":\"geolocation.onetrust.com:443\",\"pathname\":\"/cookieconsentpub/v1/geo/location\",\"status\":200},\"metrics\":{\"count\":1,\"rxSize\":{\"t\":74},\"duration\":{\"t\":39},\"cbTime\":{\"t\":2},\"time\":{\"t\":1111}}},{\"params\":{\"hostname\":\"cdn.cookielaw.org\",\"port\":\"443\",\"protocol\":\"https\",\"host\":\"cdn.cookielaw.org:443\",\"pathname\":\"/consent/7a50bfcb-16c5-4ea3-a5a7-ec0129526f1b/019cb94d-4503-7a69-a6ca-3fe8ba636f72/en.json\",\"method\":\"GET\",\"status\":200},\"metrics\":{\"count\":1,\"txSize\":{\"t\":0},\"rxSize\":{\"c\":1},\"duration\":{\"t\":18},\"time\":{\"t\":1249}}},{\"params\":{\"hostname\":\"cdn.cookielaw.org\",\"port\":\"443\",\"protocol\":\"https\",\"host\":\"cdn.cookielaw.org:443\",\"pathname\":\"/scripttemplates/202606.1.0/assets/v2/otPcPanel.json\",\"method\":\"GET\",\"status\":200},\"metrics\":{\"count\":1,\"txSize\":{\"t\":0},\"rxSize\":{\"t\":13820},\"duration\":{\"t\":16},\"time\":{\"t\":1329}}},{\"params\":{\"hostname\":\"cdn.cookielaw.org\",\"port\":\"443\",\"protocol\":\"https\",\"host\":\"cdn.cookielaw.org:443\",\"pathname\":\"/scripttemplates/202606.1.0/assets/otCommonStyles.css\",\"method\":\"GET\",\"status\":200},\"metrics\":{\"count\":1,\"txSize\":{\"t\":0},\"rxSize\":{\"c\":1},\"duration\":{\"t\":17},\"time\":{\"t\":1330}}},{\"params\":{\"hostname\":\"cdn.cookielaw.org\",\"port\":\"443\",\"protocol\":\"https\",\"host\":\"cdn.cookielaw.org:443\",\"pathname\":\"/logos/static/ot_guard_logo.svg\",\"method\":\"GET\",\"status\":200},\"metrics\":{\"count\":1,\"txSize\":{\"t\":0},\"rxSize\":{\"c\":1},\"duration\":{\"t\":38},\"time\":{\"t\":1368}}},{\"params\":{\"method\":\"POST\",\"hostname\":\"www.google-analytics.com\",\"port\":\"443\",\"protocol\":\"https\",\"host\":\"www.google-analytics.com:443\",\"pathname\":\"/j/collect\",\"status\":200},\"metrics\":{\"count\":1,\"rxSize\":{\"t\":3},\"duration\":{\"t\":82},\"cbTime\":{\"t\":0},\"time\":{\"t\":1517}}},{\"params\":{\"hostname\":\"pixel.quantserve.com\",\"port\":\"443\",\"protocol\":\"https\",\"host\":\"pixel.quantserve.com:443\",\"pathname\":\"/cs\",\"method\":\"GET\",\"status\":200},\"metrics\":{\"count\":1,\"txSize\":{\"t\":0},\"rxSize\":{\"t\":666},\"duration\":{\"t\":279},\"time\":{\"t\":1541}}},{\"params\":{\"hostname\":\"widget.getyourguide.com\",\"port\":\"443\",\"protocol\":\"https\",\"host\":\"widget.getyourguide.com:443\",\"pathname\":\"/gnikcart\",\"method\":\"GET\",\"status\":200},\"metrics\":{\"count\":1,\"txSize\":{\"t\":0},\"rxSize\":{\"c\":1},\"duration\":{\"t\":266},\"time\":{\"t\":1560}}},{\"params\":{\"hostname\":\"analytics.google.com\",\"port\":\"443\",\"protocol\":\"https\",\"host\":\"analytics.google.com:443\",\"pathname\":\"/g/collect\",\"method\":\"POST\",\"status\":0},\"metrics\":{\"count\":1,\"txSize\":{\"t\":0},\"rxSize\":{\"c\":1},\"duration\":{\"t\":342},\"time\":{\"t\":1802}}},{\"params\":{\"hostname\":\"securepubads.g.doubleclick.net\",\"port\":\"443\",\"protocol\":\"https\",\"host\":\"securepubads.g.doubleclick.net:443\",\"pathname\":\"/gampad/ads\",\"method\":\"GET\",\"status\":200},\"metrics\":{\"count\":2,\"txSize\":{\"t\":0,\"min\":0,\"max\":0,\"sos\":0,\"c\":2},\"rxSize\":{\"t\":25532,\"min\":384,\"max\":25148,\"sos\":632569360,\"c\":2},\"duration\":{\"t\":217,\"min\":93,\"max\":124,\"sos\":24025,\"c\":2},\"time\":{\"t\":4205,\"min\":2095,\"max\":2110,\"sos\":8841125,\"c\":2}}},{\"params\":{\"hostname\":\"lonelyplanet.attn.tv\",\"port\":\"443\",\"protocol\":\"https\",\"host\":\"lonelyplanet.attn.tv:443\",\"pathname\":\"/d\",\"method\":\"GET\",\"status\":200},\"metrics\":{\"count\":1,\"txSize\":{\"t\":0},\"rxSize\":{\"c\":1},\"duration\":{\"t\":355},\"time\":{\"t\":3978}}},{\"params\":{\"method\":\"GET\",\"hostname\":\"ep1.adtrafficquality.google\",\"port\":\"443\",\"protocol\":\"https\",\"host\":\"ep1.adtrafficquality.google:443\",\"pathname\":\"/getconfig/sodar\",\"status\":200},\"metrics\":{\"count\":1,\"rxSize\":{\"t\":18146},\"duration\":{\"t\":159},\"cbTime\":{\"t\":0},\"time\":{\"t\":4733}}},{\"params\":{\"hostname\":\"lonelyplanet.attn.tv\",\"port\":\"443\",\"protocol\":\"https\",\"host\":\"lonelyplanet.attn.tv:443\",\"pathname\":\"/unrenderedCreative\",\"method\":\"POST\",\"status\":204},\"metrics\":{\"count\":1,\"txSize\":{\"t\":29},\"rxSize\":{\"c\":1},\"duration\":{\"t\":297},\"time\":{\"t\":4729}}},{\"params\":{\"method\":\"POST\",\"hostname\":\"bam.nr-data.net\",\"port\":\"443\",\"protocol\":\"https\",\"host\":\"bam.nr-data.net:443\",\"pathname\":\"/1/NRBR-3f19a21d0e8423ac502\",\"status\":200},\"metrics\":{\"count\":1,\"txSize\":{\"t\":324},\"rxSize\":{\"t\":198},\"duration\":{\"t\":480},\"cbTime\":{\"t\":0},\"time\":{\"t\":4780}}}]}"
+    },
+    {
+      "url": "https://bam.nr-data.net/events/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=5281&s=7d9a51a98ba8b39e&ref=https://www.lonelyplanet.com/&ptid=060c3850bb5ba7b7",
+      "method": "POST",
+      "resourceType": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "content-type": "text/plain",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": "bel.7;1,q,,3ni,,,'initialPageLoad,'https://www.lonelyplanet.com/,,1,,,!!!!'16491585-54e7-4044-9718-c38c2d8a44d6,'1,7k,7k;5,'application.version,'5247556;5,'environment,'prod;7,'webdriverDetected;5,'route,'/[...slug];5,'browser.name,'Chrome;5,'browser.version,'Chrome 154.0.0.0;5,'browser.platform,'Windows NT 10.0\\; Win64\\; x64;5,'browser.engine,'AppleWebKit/537.36;5,'request.fullUrl,1;5,'request.path,'/;7,'isFirstOfSession;2,1,tn,17,,,'GET,5k,'cdn.cookielaw.org:443,'/consent/7a50bfcb-16c5-4ea3-a5a7-ec0129526f1b/7a50bfcb-16c5-4ea3-a5a7-ec0129526f1b.json,,53g,,'2,!!!;5,'ajaxRequest.id,'fd558a33-5f85-46aa-8842-7f287137c4c2;2,1,uv,13,,,'GET,5k,'geolocation.onetrust.com:443,'/cookieconsentpub/v1/geo/location,,22,,'3,!!!;5,'ajaxRequest.id,'707fb2c1-4db2-4026-96bc-fca3bce6088a;2,1,yp,i,,,'GET,5k,'cdn.cookielaw.org:443,'/consent/7a50bfcb-16c5-4ea3-a5a7-ec0129526f1b/019cb94d-4503-7a69-a6ca-3fe8ba636f72/en.json,,,1,'4,!!!;5,'ajaxRequest.id,'cbf9593b-d78d-4181-9120-936e614a57d3;2,1,10x,g,,,'GET,5k,'cdn.cookielaw.org:443,'/scripttemplates/202606.1.0/assets/v2/otPcPanel.json,,anw,1,'5,!!!;5,'ajaxRequest.id,'6e9ac434-7d5a-4eab-bc11-c5880089c28d;2,1,10y,h,,,'GET,5k,'cdn.cookielaw.org:443,'/scripttemplates/202606.1.0/assets/otCommonStyles.css,,,1,'6,!!!;5,'ajaxRequest.id,'be05232a-613c-4fcf-8e85-2fd1f882b5f9;2,1,120,12,,,'GET,5k,'cdn.cookielaw.org:443,'/logos/static/ot_guard_logo.svg,,,1,'7,!!!;5,'ajaxRequest.id,'7c4c4105-3812-4922-a1a6-4907a5ff158c;2,1,165,2a,,,'POST,5k,'www.google-analytics.com:443,'/j/collect,,3,,'8,!!!;5,'ajaxRequest.id,'84b2d0cd-e8f0-4560-b4bc-fdcb9d33c902;2,1,16t,7r,,,'GET,5k,'pixel.quantserve.com:443,'/cs,,ii,1,'9,!!!;5,'ajaxRequest.id,'512433c5-7969-44ad-a004-1dbd8caa2766;2,1,17c,7e,,,'GET,5k,'widget.getyourguide.com:443,'/gnikcart,,,1,'10,!!!;5,'ajaxRequest.id,'eecba3f7-0634-4325-987a-23b8f7e7f833;2,1,1e2,9i,,,'POST,,'analytics.google.com:443,'/g/collect,,,1,'11,!!!;5,'ajaxRequest.id,'086b800f-6a97-4dcc-97e4-3abce03edcd1;2,1,1mm,2l,,,'GET,5k,'securepubads.g.doubleclick.net:443,'/gampad/ads,,ao,1,'12,!!!;5,'ajaxRequest.id,'8c820a65-f911-4943-afb7-4b7dfabfa99d;2,1,1m7,3g,,,'GET,5k,'securepubads.g.doubleclick.net:443,'/gampad/ads,,jek,1,'13,!!!;5,'ajaxRequest.id,'08901e74-8330-4141-9cfe-9bbefa0b26e5;2,1,32i,9v,,,'GET,5k,'lonelyplanet.attn.tv:443,'/d,,,1,'14,!!!;5,'ajaxRequest.id,'661474ef-cca5-46ff-9f1c-c3b5568ebe82;2,1,3nh,4f,,,'GET,5k,'ep1.adtrafficquality.google:443,'/getconfig/sodar,,e02,,'15,!!!;5,'ajaxRequest.id,'88189c90-e079-461c-9120-6d8a1726d042;2,1,3nd,89,,,'POST,5o,'lonelyplanet.attn.tv:443,'/unrenderedCreative,t,,1,'16,!!!;5,'ajaxRequest.id,'c5f8abc2-e5d1-4bad-9585-b5535a184540;b,!!!!2,1,,,b,k,2,j,j,!he,43,3,2zr,1,4"
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-0C082JLRD2&gtm=45je69u2v874484220z872557567za20gzb72557567zd72557567xf1&_p=1791143419919&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&ecid=955643838&_eu=AAAAAGQC&cid=691245377.1791143421&frm=0&pscdl=noapi&rcb=14&sr=800x600&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.93%7CGoogle%2520Chrome%3B154.0.8037.93%7CNot%2520A(Brand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en-us&gaf=2&_s=2&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121280969&sid=1791143421&sct=1&seg=0&dl=https%3A%2F%2Fwww.lonelyplanet.com%2F&dt=Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet&en=page_load_time&epn.loading_time_sec=0&tfd=6826",
+      "method": "POST",
+      "resourceType": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/pagead/sodar?id=sodar2&v=255&t=2&li=gpt_m202609300101&jk=4284780975383913&bg=!qaqlqsjNAAYawo1DOsI7AEcBe5WfOMuX0PepEL8w6133Nph0aGwDkPDzSsPcHikgQgBba_h6rXDRcbkHV_rn1WxHGveh8TpzcSEcr45BhlqehFt1g_Tb1QIAAAKEUgAAAAxoAQd-ADZME7ol21-DfUQO1zNdHMp4WuBey3x6LVvpnLeAIRTrR7qYmSp4OTKAEJ8bEQgH2PCJdwrKHh-ZApqZmnWTnorUh0FsJygkEGOCXUyF7hnOQ1vyEPxVI9GAZYqCZEldCN0NTj8RJcM33wJLxSBdFnifKfdEOO2Oz0GOtRtfa40s9a3SRtfRioSQgR9hYhWTdLcPaeImazfq2ZOlJ0y6I801dO0aOZOZg7DoS2zh5F6rT0-BvqVDFA3ENz_1hbqlc_2EzFLnxuRdCZ_Rr232a0bHv9LY0RP6q9jq6sGrLgxtMHeVJiCYkxsjQwG-_yiTLZMri2HiIn_va4abPioaSgZQGD_QWSwprUDOr-lAiAQtGIK1DF001SsTVdyhPGajyCQM-MBfMOnhn3VKOl3iwrthrfz3wYALFnSShGbF1HW94St3jAbLSfwJhlY6BRS7trdWd7w-wfsTeMYfWI8ZAZaT3mPdn4ecuTL6lZTw-3aypRk62i262KjzO6SIJaygzZEcbJAeXtcOe6LWxHp2hXJlpKL9p4izynNQGv72KJQIBsHCXU18Iq2Q2yZBJHu2nHWBRbtyFa7FtZiYOKlq-dlDOK6gZ8B1Zj-pCy6rCOwU_uAR_4_yS_E8p2cafhsRnT7LV7EUvARpi1Oi4wvYvZOLaKpnHYqskvsjrniGuQuPyUL2u5VjdGT-B2dVd7slQlCUqNaCvEQKBDm7xDCcUwF_8DaiwOAiUAjSUD0QJ6DtXOEE01zv-v5k-HW4X8lzCgY-nbtSELsnanDQ3DeXtxeBXzJio0PUctZDjBzLWZ3J_nZ8JKmn_jJwOHP8U5C_sy6oW56sZTk3I-E3VWXXPnEfBdLE8RzJy0GUKhozT32XWOBr_obdZh-VOKrbJ5Sszev9k-UKR6RxEJUEvVvN3Eam1zJWohVJKnc9gzZ7yax3eUbsugye3847QAscXWjqqKpAwhA",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Referer": "https://www.lonelyplanet.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": ""
+    }
+  ],
+  "responses": [
+    {
+      "url": "https://www.lonelyplanet.com/",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "document",
+      "contentType": "text/html",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/global.Bs89zo3x.css",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "contentType": "text/css",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/landingPageSchema.VQL8-Zjb.css",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "contentType": "text/css",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/layout.astro_astro_type_script_index_0_lang.qBQwlWeA.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/page.Cvc0OMbI.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://js-agent.newrelic.com/nr-loader-spa-current.min.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://websdk.appsflyer.com/?st=banners&",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://assets.staticlp.com/fonts/grotesk/ABCMonumentGroteskMono-Regular.woff2",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "font",
+      "contentType": "binary/octet-stream",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://assets.staticlp.com/fonts/arizona-flare/ABCArizonaFlare-Regular.woff2",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "font",
+      "contentType": "binary/octet-stream",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/eventListeners.B1qWm9Ny.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/preload-helper.B3nfOi5I.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/globalNav.astro_astro_type_script_index_0_lang.DVQmVTIp.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-P9V444",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "application/javascript; charset=UTF-8",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://assets.staticlp.com/fonts/grotesk/ABCMonumentGrotesk-Regular.woff2",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "font",
+      "contentType": "binary/octet-stream",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://assets.staticlp.com/fonts/grotesk/american-grotesk-bold.woff2",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "font",
+      "contentType": "binary/octet-stream",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://assets.staticlp.com/fonts/grotesk/american-grotesk-compressed-black.woff2",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "font",
+      "contentType": "binary/octet-stream",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_server-islands/PlaceCarouselLayout?e=B292014566341162FE8D7ADFt653ZenwgLGnqTP63oTzzgCOjEuS%2FeI%3D&p=854D507D598C9E09C7BDFC63LhVcS7XqtEx5POiAoMGV%2F2tCZf9Y%2BVzKjxCenY0gFLL53Q04zzyLB1qpGnsItrCX0R4NKdz35nJeB2SyTKqLs3d6pOIva30ASRyHISRH8rb7eOuIRvY%2F72W%2BT8uQV%2F28czXjhl40YrxsVy3UOLkOE4xtoU%2Fu57CymxxSM8nkEEA953hmHW91vfpQodOyB8ZxSZq7GoxKtbg51C4SPL9wZNT7xfL0ge7CeXHZ4xosCNz08HtS62tIEsY6f4QsXClU2psqZUfn02s2Augsh%2BBSZwBaJriSF%2Bs7SEUfjYFtW2xV1MDmh%2Bz7r2fCx14LF4Gh2OcdbedSl0RxfQdPzVmi6CsO2I0LXCb7hXLEz%2F6ibBv4uQHepiiGfcm5U0rhoK5JGdvFb7Pf5NIsyJNoHz0Keh9eRgiPKr7gSDTZQH0b6bOcm%2B9GgjGBP53H%2Fze4ZCZ9LotELrYfbqpWATVV0vFNE9g%2FKopruWVuvyJMMMqaOfOZJ7IlelgPBZmTUwTqV94%2BaH%2FGcvV7zDbTSuzdV%2FQgS0Qss2rBpaqRzP3h9IlX7JxJ6xKAuPYIU8XIhebpBI0ceDk%2FQGuMerk6G9ouFe839tRjbkOTlZ2VJzcbpqQW4m4bf11zHhA6KILZwVKuh%2Fcau79Lp3418lyo6IRz5kADYYJkmqrsuIc%2BpQQwzkr27reCMUzLt%2BSW&s=",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "other",
+      "contentType": "text/html",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/tagular.Dvx7rnp4.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/index.9NOoacpU.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/client.BnXPp-SH.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/footerDropdown.4Cbv903j.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/layout.astro_astro_type_script_index_2_lang.DQ9BiV8k.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/web.DF2tQe06.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/classnames.4zwll4zS.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/social.BcJ9kx3Q.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/rolldown-runtime.Dd_uD5pT.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/browser.CtL8iCJ3.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/icons.BqdnCH8L.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_astro/_withIcon.BO3zLoet.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_server-islands/ProfilePanel?e=20D54C196A3449A740B31E88F8zaZ%2FuIc9dx%2BbaS2O6iyDa%2FUIsK43o%3D&p=5E8E8855A0DE73C615A1C74EJhJJG2FJ3788RJdmKkpnOO3yL%2BNj%2BaxjgjhUGYEHA4gX6uzVgQ%3D%3D&s=",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "other",
+      "contentType": "text/html",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_server-islands/ArticlesLayout?e=F600F13901A99A865705E5C2s2f832dJCDpRChVtDnb0sTR9gxFXcl0%3D&p=8AF4DDFE814DDC209CD54813wrTxP9mR3V29FSoa1ux2W3h%2FQOhiIr3foEkIZd28%2F6793v2Eeavg%2FzIs2TrG664gYvx2f9LupINcMnfjhJwXUlsOBULdCcmxt%2BGbX8ugjFA6IIMYVJb6SdxWb4GnUkzzIWC%2FuW2S0t8Gff8F7udLQOjkbPNB1izAZ4i9kDgLnjsDcWWjO38g2eHca2LCTKpg8BjHfWsQCIXiDCsNzBIewl3Cjk3DThAAIX41k7%2BduAj5QujZ1%2F5FteARRYk%2Fw5gsyHGf2bDsx6ZIbs3tg0Q3wFcvUdTX2ZgNPtPWFhQ58gpH5n3JgkHnY37gjAu61YNwhJYl%2FVrnW6o5OmJMTL6x5R1ek66vdjDXGX4PWE52LPfof2X3tS1B2ux5YzWecivKfD%2Fg3WhAu%2BmlpRUNpEneL%2FeEzoW2wqDvyU8e2GY1RPDPuh71umXQd4RBlEa39XvnQVBqrd%2Bi8p8ApRiw%2BvSEEEg0cOhQc3O0XQ0FtZBa%2BDZBW%2FWXqA6H3fR2sR7TzZXvhgAOngvC%2BQXjISqgP17aYs544VYRUmMCKZFGdMDiSB8UEvLvUtbhn0jpRtf8RIypybNt98alWfO3MGnHusQ6marpeKZt03T1Y6jY2kIhOvtwtHb2aYE0eU%2B2Zt1kXEzDpLMduw0Hue05bH5u9S896rfpycodjChQB0Eyh3ZPNBRu5a%2BVXlS9qH5c%2B%2FPiN6j3sPlYqNrHJ7uj32cH%2FZXCFfSwnfg23iUvSZORHL0%3D&s=",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "other",
+      "contentType": "text/html",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://cdn.cookielaw.org/consent/7a50bfcb-16c5-4ea3-a5a7-ec0129526f1b/7a50bfcb-16c5-4ea3-a5a7-ec0129526f1b.json",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "xhr",
+      "contentType": "application/json",
+      "fixture": "fixtures\\consent-7a50bfcb-16c5-4ea3-a5a7-ec0129526f1b-7a50bfcb-16c5-4ea3-a5a7-ec0129526f1-0097848e84.json",
+      "error": "",
+      "bytes": 6604
+    },
+    {
+      "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "xhr",
+      "contentType": "application/json",
+      "fixture": "fixtures\\cookieconsentpub-v1-geo-location-f9aaad7f20.json",
+      "error": "",
+      "bytes": 74
+    },
+    {
+      "url": "https://www.lonelyplanet.com/_server-islands/ArticlesLayout?e=E8653767617E28E8DBEB103EMuaoibEaKojecmDtizmjBZMxvwG%2Bqss%3D&p=C5B6FC9FB4FD5CC75795EC6DV1wCQDORbgpV07AOptSUpeY6UoMITfaW%2FOqjOYm9AJVZdYIw7Db%2BAE43d12uem7Aov2THG5D5286WyBSs2kkhJBRGugNjvnb53ZyPalnbrLxkcWJhwuAfnkc8VNB10kNhqesc%2BYszBcNJX51OeGHa9GMwZvoutD8DVmR1yDECSTzlIhsYX%2Fmd%2FXvNwKhhY1%2BWzja6rK2cHcbEZS%2FUkSb1jN%2B0yU1jaKMXMP84F3Og6d5rU3SWxvX2KWAnJyuR6QUBPs%3D&s=",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "other",
+      "contentType": "text/html",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/otBannerSdk.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://cdn.cookielaw.org/consent/7a50bfcb-16c5-4ea3-a5a7-ec0129526f1b/019cb94d-4503-7a69-a6ca-3fe8ba636f72/en.json",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "fetch",
+      "contentType": "application/json",
+      "fixture": "fixtures\\consent-7a50bfcb-16c5-4ea3-a5a7-ec0129526f1b-019cb94d-4503-7a69-a6ca-3fe8ba636f7-6d04cc7bf0.json",
+      "error": "",
+      "bytes": 290382
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/v2/otPcPanel.json",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "fetch",
+      "contentType": "application/json",
+      "fixture": "fixtures\\scripttemplates-202606.1.0-assets-v2-otPcPanel.json-824b50dd66.json",
+      "error": "",
+      "bytes": 71300
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otCommonStyles.css",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "fetch",
+      "contentType": "text/css",
+      "fixture": "fixtures\\scripttemplates-202606.1.0-assets-otCommonStyles.css-3bf1cab741.txt",
+      "error": "",
+      "bytes": 27866
+    },
+    {
+      "url": "https://widget.getyourguide.com/dist/pa.umd.production.min.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "fetch",
+      "contentType": "image/svg+xml",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://cohesion.lonelyplanet.com/cohesion/cohesion-latest.min.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/svg+xml",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/png",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.google-analytics.com/analytics.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://secure.quantserve.com/quant.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://widget.getyourguide.com/pw/latest/client-loader/widget.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.googletagservices.com/tag/js/gpt.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript; charset=UTF-8",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://sb.scorecardresearch.com/internal-cs/default/beacon.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-0C082JLRD2&cx=c&gtm=4e69u2",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "application/javascript; charset=UTF-8",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://rules.quantcount.com/rules-p-jymSSN13mzc8U.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=1807827985&t=pageview&_s=1&dl=https%3A%2F%2Fwww.lonelyplanet.com%2F&ul=en-us&dt=Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet&sr=800x600&vp=1425x900&_u=YEBAAEABAAAAACAAI~&jid=1212432958&gjid=1667782793&cid=691245377.1791143421&tid=UA-11222786-2&_gid=519183782.1791143421&_r=1&_slc=1&gtm=45He69u2n71P9V444v72557567za200zd72557567xf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117971173~118897920~118897930~120385422~120469145~120469153&z=1817919107",
+      "status": 200,
+      "ok": true,
+      "method": "POST",
+      "resourceType": "xhr",
+      "contentType": "text/plain",
+      "fixture": "fixtures\\j-collect-9a27a05864.txt",
+      "error": "",
+      "bytes": 3
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202609300101/pubads_impl.js?cb=122881362",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript; charset=UTF-8",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://cdn.cohesionapps.com/cohesion/xs1.html",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "document",
+      "contentType": "text/html",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_96a1gsfaj54ph9vrhp77bol01r/-FJPG-C1577x1182%2C0%2C433-S828x621",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/jpeg",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.google.com.bd/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-0C082JLRD2&cid=691245377.1791143421&gtm=45je69u2v874484220z872557567za20gzb72557567zd72557567xf1&rcb=14&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121280969&z=575008312",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/gif",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://sb.scorecardresearch.com/b2?c1=2&c2=31824268&cs_it=b1&cv=4.14.0%2B2608070551&ns__t=1791143421407&ns_c=UTF-8&cs_cfg=1101110&cs_fpid=undefined&cs_fpit=c&cs_fpdm=*null&cs_fpdt=*null&cs_ucfr=&c7=https%3A%2F%2Fwww.lonelyplanet.com%2F&c8=Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet&c9=",
+      "status": 204,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://sb.scorecardresearch.com/b2?c1=2&c2=31824268&cs_it=b1&cv=4.14.0%2B2608070551&ns__t=1791143421406&ns_c=UTF-8&cs_cfg=1101110&cs_fpid=undefined&cs_fpit=c&cs_fpdm=*null&cs_fpdt=*null&cs_ucfr=&c7=https%3A%2F%2Fwww.lonelyplanet.com%2F&c8=Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet&c9=",
+      "status": 204,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_jm0r06ajcd6afdte29dv2o0m7o/-FWEBP-C2050x1133%2C0%2C121-S1536x849",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/webp",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://pixel.quantserve.com/cs?a=p-jymSSN13mzc8U&gdpr=0&sf2=1&__qcmcs=1",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "fetch",
+      "contentType": "application/json",
+      "fixture": "fixtures\\cs-d7fcfe8fec.json",
+      "error": "",
+      "bytes": 666
+    },
+    {
+      "url": "https://widget.getyourguide.com/gnikcart?q=eyJwYXJ0bmVyX2lkIjpudWxsLCJ1cmwiOiJ3d3cubG9uZWx5cGxhbmV0LmNvbS8ifQ%3D%3D",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "fetch",
+      "contentType": "application/json",
+      "fixture": "fixtures\\gnikcart-3f919c686d.json",
+      "error": "",
+      "bytes": 61
+    },
+    {
+      "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-0C082JLRD2&cid=691245377.1791143421&gtm=45je69u2v874484220z872557567za20gzb72557567zd72557567xf1&rcb=14&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121280969",
+      "status": 204,
+      "ok": true,
+      "method": "POST",
+      "resourceType": "ping",
+      "contentType": "text/plain",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-0C082JLRD2&gtm=45je69u2v874484220z872557567za20gzb72557567zd72557567xf1&_p=1791143419919&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&ecid=955643838&_eu=AAAAAGAC&cid=691245377.1791143421&ec_mode=a&frm=0&pscdl=noapi&rcb=14&sr=800x600&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.93%7CGoogle%2520Chrome%3B154.0.8037.93%7CNot%2520A(Brand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121280969&sid=1791143421&sct=1&seg=0&dl=https%3A%2F%2Fwww.lonelyplanet.com%2F&dt=Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet&en=page_view&_fv=1&_ss=1&tfd=1801",
+      "status": 204,
+      "ok": true,
+      "method": "POST",
+      "resourceType": "fetch",
+      "contentType": "text/plain",
+      "fixture": "",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/partnerpixels?url=https%3A%2F%2Fwww.lonelyplanet.com%2F",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "document",
+      "contentType": "text/html; charset=UTF-8",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://pixel.quantserve.com/pixel;r=1996731516;labels=%2C%2CLonely%20Planet.Title.Travel%20Guides%20%26%20Inspiration%20%7C%20Lonely%20Planet%2CLonely%20Planet.Title.Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet;source=gtm%2Cgtm;event=rule;rf=0;a=p-jymSSN13mzc8U;url=https%3A%2F%2Fwww.lonelyplanet.com%2F;ns=0;ce=1;qjs=1;qv=b414f28e-20260609162752;ref=;dst=0;et=1791143421968;tzo=-360;ogl=site_name.Lonely%20Planet%2Csite_name.Lonely%20Planet%2Ctype.article%2Cupdated_time.2026-10-04T19%3A48%3A14%252E675-06%3A00%2Cdescription.Love%20travel%3F%20Discover%252C%20plan%20and%20book%20your%20perfect%20trip%20with%20expert%20advice%252C%20trave%2Ctitle.Travel%20Guides%20%26%20Inspiration%20%7C%20Lonely%20Planet%2Cimage.https%3A%2F%2Fd2vbr83hnyiux1%252Ecloudfront%252Enet%2Fimage%2F975050285728%2Fimage_16b18q7j3l0nr1lg9%2Cimage%3Aalt.GettyImages-2162241980%252Ejpg%2Ctitle.Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet%2Curl.https%3A%2F%2Fwww%252Elonelyplanet%252Ecom%2F;d=lonelyplanet.com;uh=d03502c43d74a30b936740a9517dc4ea2b2ad7168caa0a774cefe793ce0b33e7;uht=2;fpan=1;fpa=P1-d0c292de-f78a-4cdd-880f-a1a8aa494baf;pbc=;_ses=33d6a903-4331-4ef5-975a-8b0195bf3fc0;_seg=0;_ss=1;_gacid=691245377.1791143421;_gasid=0C082JLRD2_1791143421;_gam=a;gdpr=0;mdl=",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/gif",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_7ioq9i5auh6ld4rdcg5lroja3t/-FJPG-C2050x1537%2C0%2C256-S828x621",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/jpeg",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAWCAMAAABuZ5WBAAAABlBMVEUAAAD+AciWmZzWAAAAAnRSTlMAApidrBQAAACASURBVCjPlZPLEoBQCELh/3+6TQ894sytFtlVkcCkP5fbXc9DjgXpecdf/5NywUWOB/P9jbdSbbjHfPu3TipTI8iolHQZmIoaIkdUOiDmMtTDT6C7WSC01SiUTBW0qyAY7jN9wdwRk2u07hk9C0utoQg4b7jUwRtfuun8v3lplC6UhQDfNZmcNgAAAABJRU5ErkJggg==",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/png",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=4284780975383913&correlator=3133881815420071&eid=122881290%2C122880890%2C122881362&output=ldjh&gdfp_req=1&vrg=202609300101&ptt=17&impl=fifs&iu_parts=9885583%2CLonelyPlanet.com%2Chomepage%2Cbottom&enc_prev_ius=%2F0%2F1%2F2%2F3&prev_iu_szs=970x250%7C970x90%7C728x90%7C1x1&ifi=2&dids=gpt-ad-567284426641&adfs=1585686237&sfv=1-0-45&sc=1&cookie_enabled=1&abxe=1&dt=1791143421901&lmt=1791143421&adxs=228&adys=8212&biw=1425&bih=900&scr_x=0&scr_y=0&btvi=2&ucis=2&oid=2&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&u_tz=360&dmc=16&bc=31&nvt=1&uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTU0LjAuODAzNy45MyIsbnVsbCwwLG51bGwsIjY0IixbWyJDaHJvbWl1bSIsIjE1NC4wLjgwMzcuOTMiXSxbIkdvb2dsZSBDaHJvbWUiLCIxNTQuMC44MDM3LjkzIl0sWyJOb3QgQShCcmFuZCIsIjk5LjAuMC4wIl1dLDBd&url=https%3A%2F%2Fwww.lonelyplanet.com%2F&vis=1&psz=1425x128&msz=1425x0&fws=0&ohw=0&dlt=1791143419875&idt=1771&prev_scp=chsn_ad_id%3D1f802da51781424d9c149d22c7920045%26url%3D%252Fhomepage%26slug%3Dhomepage%26destination%3DHomepage%26title%3Dhomepage%26type%3DLanding%26refresh%3D30%26refresh_limit%3D3&adks=1682430208&frm=20&cpu=3&eoidce=1",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "fetch",
+      "contentType": "text/plain; charset=UTF-8",
+      "fixture": "fixtures\\gampad-ads-a8a9467c63.txt",
+      "error": "",
+      "bytes": 872
+    },
+    {
+      "url": "https://beam.lonelyplanet.com/v2/t?k=d2tfMWxnMVNMYzFnQXB4YTl4NzFJd1hEdHRsZ0Ro",
+      "status": 200,
+      "ok": true,
+      "method": "POST",
+      "resourceType": "ping",
+      "contentType": "",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://beam.lonelyplanet.com/v2/t?k=d2tfMWxnMVNMYzFnQXB4YTl4NzFJd1hEdHRsZ0Ro",
+      "status": 200,
+      "ok": true,
+      "method": "POST",
+      "resourceType": "ping",
+      "contentType": "",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610010101/gpt",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "other",
+      "contentType": "text/plain; charset=UTF-8",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://beam.lonelyplanet.com/v2/t?k=d2tfMWxnMVNMYzFnQXB4YTl4NzFJd1hEdHRsZ0Ro",
+      "status": 200,
+      "ok": true,
+      "method": "POST",
+      "resourceType": "ping",
+      "contentType": "",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=4284780975383913&correlator=3133881815420071&eid=122881290%2C122880890%2C122881362&output=ldjh&gdfp_req=1&vrg=202609300101&ptt=17&impl=fifs&iu_parts=9885583%2CLonelyPlanet.com%2Chomepage%2Ctop&enc_prev_ius=%2F0%2F1%2F2%2F3&prev_iu_szs=970x250%7C970x90%7C728x90%7C1x1&ifi=1&dids=gpt-ad-948833580775&adfs=2683255260&sfv=1-0-45&sc=1&cookie_enabled=1&abxe=1&dt=1791143421875&lmt=1791143421&adxs=228&adys=4012&biw=1425&bih=900&scr_x=0&scr_y=0&btvi=1&ucis=1&oid=2&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&u_tz=360&dmc=16&bc=31&nvt=1&uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTU0LjAuODAzNy45MyIsbnVsbCwwLG51bGwsIjY0IixbWyJDaHJvbWl1bSIsIjE1NC4wLjgwMzcuOTMiXSxbIkdvb2dsZSBDaHJvbWUiLCIxNTQuMC44MDM3LjkzIl0sWyJOb3QgQShCcmFuZCIsIjk5LjAuMC4wIl1dLDBd&url=https%3A%2F%2Fwww.lonelyplanet.com%2F&vis=1&psz=1425x128&msz=1425x0&fws=0&ohw=0&dlt=1791143419875&idt=1771&prev_scp=chsn_ad_id%3D1f802da51781424d9c149d22c7920045%26url%3D%252Fhomepage%26slug%3Dhomepage%26destination%3DHomepage%26title%3Dhomepage%26type%3DLanding%26refresh%3D30%26refresh_limit%3D3&adks=1443270233&frm=20&cpu=3&eoidce=1",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "fetch",
+      "contentType": "text/plain; charset=UTF-8",
+      "fixture": "fixtures\\gampad-ads-81dad2dd1f.txt",
+      "error": "",
+      "bytes": 68199
+    },
+    {
+      "url": "https://4a99e08125ead867d8e9150fea3ef54e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "document",
+      "contentType": "text/html",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://pixel.quantserve.com/pixel/p-jymSSN13mzc8U.gif?labels=_campaign.media.Advertiser%20ID.22600743.Campaign%20ID.161930463.Line%20Item%20ID.6951676503",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/gif",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsscda4M9IiTgEqzd905r_0wXmaDcK8D1fb6E7nZyedhGAfibuMm3xIuPk96v3hKJ7n-aJbIOwN8LT9Kn74EPYSerAenHSaaXDOoy6v9SjVi5zhBJQ1UzHyMnvPlr-CDcZq_AYziC0AYuWsUqVh2KTDATKsZXuvACTIeLL3J6BacMzZwuO0F_IscgH0jlrfLSyTAfTrV_vKWZBtUiclSXJ21hvKFYCUAATO7a-ohnXN7iOCv8AXmvbC1htN2qVysJcKZf6zb3xv9lWoolGRZnXmqLjSrbHdYvfeqpZMTCidipsQgR3dBiqid2rVjL6FWRv79XYCJm10w6eqKWtSq9RfVUfAHjhn0JhwvQN6I3wj7heGRCbB5qAkCkcV2j3iacgTQ3yJTkyBBk-mZIkerg_hH0TeWjfU_oFyP1r8_ozDv1w9RhVQWwK8RTFmhkRI_LQZmu-aGJg&sai=AMfl-YSzNrMjL5fW4sqW2OXKzHSSYmWNuZ7MoJzdxy1jXyeNibsvapallt0I474botUBtyWCe11mjbf6GOWk_CvoZzQt1KY_Lg0RqKYOeborsuJwoL1jRg7sbpy-3WcJPTID0nOEZ2ov0RY8Db2o1kmNZFs_CjqcNfXxr2ATTGeUQSpWmvloE9fAg5FHxmHxYPNBw3qX2uiDTM3GYCI-LZR_0IOcYcyG2jejCuEMKf0Smvn2ZND2Etq9RlpnbgfPSOwJcv1WQT_i42GXd7wK1Lt5Fn67Ta44ol7ox0fr7IK3DhFVvRyjkE_v7-mIZfb_RP9jqdzJSS-13AHJ6uVsuBYHIcKEAbmrtvc1u8yChVvgJ5nnV_gaNxuDU0W2xWC7OA8SXnLi33FfH8Yl65Y&sig=Cg0ArKJSzAaP-25Zuxf5EAE&uach_m=%5BUACH%5D&adurl=",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "fetch",
+      "contentType": "image/gif",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://pixel.rubiconproject.com/tap.php?v=4939&nid=1902&gdpr=0&put=ncBfzcrFWpqGkF2aypURzZ6QWZ2Gwl7Iypk9RkOM",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/gif",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_o683v8n8652o9dss1ic9nni56p/-FWEBP-C2050x1153%2C0%2C191-S1536x864",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/webp",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/simgad/12542075406044380566",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/png",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261001/r20110914/client/window_focus.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript; charset=UTF-8",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript; charset=ISO-8859-1",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=81&gdpr=0&external_user_id=l39elMB6W8OML1zDwCoQlJQvWMSMfV-RwCY7mA0J&C=1",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/gif",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/pixel?gdpr=0&google_nid=B765081F39B1F7&google_push=&google_hm=VEPWvfNBWEcMU0vKli_6-w&google_tc=",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/png",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://image2.pubmatic.com/AdServer/Pug?gdpr=0&vcode=bz0yJnR5cGU9MSZjb2RlPTExMTMmdGw9NDMyMDA=&piggybackCookie=19lM1YDcSYLMiU6CgIwC1dSJSoXM203QgIAef-55",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/gif; charset=utf-8",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=fle-fetch-start2",
+      "status": 204,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "fetch",
+      "contentType": "image/gif",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=colleague-executed&name=4",
+      "status": 204,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "fetch",
+      "contentType": "image/gif",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=reach&proto=CAlgAWgD",
+      "status": 204,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "fetch",
+      "contentType": "image/gif",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsu-JWfxN8XdnFzRYuOokPrEeyg-fwta5Yn3x3ZMrVG45gdoYGuuwkHmrYIDQ2QbZyWIU3ZAv9FLm-AsZOljLPHc1JtxBWOlFebRlPisZ8fwxMp3dwnejGw9-Zu91GqFMxBy0rPTTFa-zz0HP5mA5mKgoeoMrq2bBuWm9k6PaLBlzXBGzI3VOWlfdcYvzTtBZ_o-riAoiPArQ-NrV3oKgp_U9J4KwEXgRw67BrxicmEyJHPL4FGrLUAKU6o5Lk-Z3rQBJMmiDuLTbgaPrMODLJvsRtgV6H_as5q8-geqmD42m_2nTQMkE8CCibxyg94Umee4bps2mjhcnVL3wYBO24F3F3RltosYZ_ri4D-Q_Z-SNvGwzoz9DgHcHJ55bCODUuxN7Hzxf2AQMq6iJU3B0BCKf8k8_RNfWJaONnPqMfEc6EdffgASSp2WTA&sai=AMfl-YSU5-RVBxCiF5HmkEBgBCWsA1redWYZ8GbL7vBkTz-xb1Vq6xswjtwpweax8iLYgNJneI3r1BA0Jz0fnGi8pl3wc-dqQVikHbDYwMLHOGK5HA2d56ERmEDIUALe5DPwzpUVkavbh5bIrO0z8TqZuDfHKeWVDSwhkvscKGU33FqTTYuC0XaX-wmkfsiHg_aFQB8e1gnZ-UEWJ77TTq2dblloJy6lRXUjBoSHcuQ6ZuFJhBEW9KsALcmH0Z4AWTkoIBzGt6bAxLnm92vMdhx7-MwklFKshObai8JXr6gxD-6848ie0T8VHc25Q4Mul7Xvl4VvX-GdcVWIPTDZ1rt9kThaDe3wHhcxfIiYMv9Yu4V4oQy_pyayaR5hCb5W5ESKYP4J0Mit4li02ko&sig=Cg0ArKJSzAr2nMMuvdY0EAE&uach_m=%5BUACH%5D&vt=11&igpp=1&dett=3&adurl=",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "fetch",
+      "contentType": "image/gif",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_7e87i0kekt5qr3bkg59q145l04/-FWEBP-C1367x1367%2C341%2C0-S360x360",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/webp",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_v12tuabe2t52560mvhrjp07o00/-FWEBP-C1367x1367%2C341%2C0-S360x360",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/webp",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_38jb79eevd31917a4u4sk69f6l/-FWEBP-C1304x1304%2C373%2C0-S360x360",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/webp",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_ine07egs8p3330disamf0hq47l/-FWEBP-C1343x1343%2C353%2C0-S360x360",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/webp",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://beam.lonelyplanet.com/v2/t?k=d2tfMWxnMVNMYzFnQXB4YTl4NzFJd1hEdHRsZ0Ro",
+      "status": 200,
+      "ok": true,
+      "method": "POST",
+      "resourceType": "ping",
+      "contentType": "",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_j2fuv68ee922h48ceakb16v868/-FWEBP-C971x971%2C0%2C11-S360x360",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/webp",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_ilolvg31vp7an1n56cjk8k7i4o/-FWEBP-C1368x1368%2C341%2C0-S360x360",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/webp",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://pippio.com/api/sync?pid=5324&it=1&iv=946b902d51b725c24ffd105a7cb93c2e6258a8d2a2550020deeb226d59319291791426b5417dce21&_=2",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/gif",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://beam.lonelyplanet.com/v2/t?k=d2tfMWxnMVNMYzFnQXB4YTl4NzFJd1hEdHRsZ0Ro",
+      "status": 200,
+      "ok": true,
+      "method": "POST",
+      "resourceType": "ping",
+      "contentType": "",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://cdn.attn.tv/lonelyplanet/dtag.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "application/javascript; charset=utf-8",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://cdn.attn.tv/tag/4-latest/unified-tag.js?v=4-latest_a2836cacd5",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "application/javascript; charset=utf-8",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://events.attentivemobile.com/ct-ev",
+      "status": 200,
+      "ok": true,
+      "method": "POST",
+      "resourceType": "ping",
+      "contentType": "",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://lonelyplanet.attn.tv/d?attn_vid=44daf9778ea247f29ad6931827e01795",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "fetch",
+      "contentType": "application/json",
+      "fixture": "fixtures\\d-b133a99923.json",
+      "error": "",
+      "bytes": 5
+    },
+    {
+      "url": "https://cdn.attn.tv/growth-tag-assets/client-configs/eX5.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://js-agent.newrelic.com/nr-spa-1.323.0.min.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/getconfig/sodar?sv=200&tid=gpt&tv=m202609300101&st=env&sjk=4284780975383913",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "xhr",
+      "contentType": "application/json; charset=UTF-8",
+      "fixture": "fixtures\\getconfig-sodar-42ba8df6c7.json",
+      "error": "",
+      "bytes": 18146
+    },
+    {
+      "url": "https://lonelyplanet.attn.tv/unrenderedCreative?v=2026.09.3&r=&id=44daf9778ea247f29ad6931827e01795&pv=1&l=https%3A%2F%2Fwww.lonelyplanet.com%2F&w=1440&h=900&ss_ref=ORGANIC&ses=7ef8b8b803024ed2aa2b06210b96504e&f=3",
+      "status": 204,
+      "ok": true,
+      "method": "POST",
+      "resourceType": "fetch",
+      "contentType": "",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "document",
+      "contentType": "text/html",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api2/aframe",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "document",
+      "contentType": "text/html; charset=utf-8",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://bam.nr-data.net/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=4780&s=7d9a51a98ba8b39e&ref=https://www.lonelyplanet.com/&ptid=060c3850bb5ba7b7&af=err,spa,xhr,stn,ins&be=55&fe=4679&dc=795&fsh=1&perf=%7B%22timing%22:%7B%22of%22:1791143419802,%22n%22:0,%22f%22:2,%22dn%22:3,%22dne%22:3,%22c%22:3,%22s%22:14,%22ce%22:34,%22rq%22:36,%22rp%22:55,%22rpe%22:74,%22di%22:700,%22ds%22:847,%22de%22:850,%22dc%22:4729,%22l%22:4730,%22le%22:4734%7D,%22navigation%22:%7B%7D%7D&fp=272&fcp=272",
+      "status": 200,
+      "ok": true,
+      "method": "POST",
+      "resourceType": "xhr",
+      "contentType": "application/json",
+      "fixture": "fixtures\\1-NRBR-3f19a21d0e8423ac502-20e769f894.json",
+      "error": "",
+      "bytes": 198
+    },
+    {
+      "url": "https://beam.lonelyplanet.com/v2/t?k=d2tfMWxnMVNMYzFnQXB4YTl4NzFJd1hEdHRsZ0Ro",
+      "status": 200,
+      "ok": true,
+      "method": "POST",
+      "resourceType": "ping",
+      "contentType": "",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://www.lonelyplanet.com/images/favicon.ico",
+      "status": 200,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "other",
+      "contentType": "image/vnd.microsoft.icon",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://bam.nr-data.net/events/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=5281&s=7d9a51a98ba8b39e&ref=https://www.lonelyplanet.com/&ptid=060c3850bb5ba7b7",
+      "status": 200,
+      "ok": true,
+      "method": "POST",
+      "resourceType": "xhr",
+      "contentType": "image/gif",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://bam.nr-data.net/events/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=5276&s=7d9a51a98ba8b39e&ref=https://www.lonelyplanet.com/&ptid=060c3850bb5ba7b7",
+      "status": 200,
+      "ok": true,
+      "method": "POST",
+      "resourceType": "xhr",
+      "contentType": "image/gif",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://bam.nr-data.net/jserrors/1/NRBR-3f19a21d0e8423ac502?a=772351413&sa=1&v=1.323.0&t=Unnamed%20Transaction&ct=http://custom.transaction/%5B...slug%5D&rst=5278&s=7d9a51a98ba8b39e&ref=https://www.lonelyplanet.com/&ptid=060c3850bb5ba7b7",
+      "status": 200,
+      "ok": true,
+      "method": "POST",
+      "resourceType": "xhr",
+      "contentType": "image/gif",
+      "fixture": "",
+      "error": ""
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-0C082JLRD2&gtm=45je69u2v874484220z872557567za20gzb72557567zd72557567xf1&_p=1791143419919&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&ecid=955643838&_eu=AAAAAGQC&cid=691245377.1791143421&frm=0&pscdl=noapi&rcb=14&sr=800x600&uaa=x86&uab=64&uafvl=Chromium%3B154.0.8037.93%7CGoogle%2520Chrome%3B154.0.8037.93%7CNot%2520A(Brand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en-us&gaf=2&_s=2&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121280969&sid=1791143421&sct=1&seg=0&dl=https%3A%2F%2Fwww.lonelyplanet.com%2F&dt=Travel%20Guides%20%26%20Travel%20Inspiration%20-%20Lonely%20Planet&en=page_load_time&epn.loading_time_sec=0&tfd=6826",
+      "status": 204,
+      "ok": true,
+      "method": "POST",
+      "resourceType": "fetch",
+      "contentType": "text/plain",
+      "fixture": "",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/pagead/sodar?id=sodar2&v=255&t=2&li=gpt_m202609300101&jk=4284780975383913&bg=!qaqlqsjNAAYawo1DOsI7AEcBe5WfOMuX0PepEL8w6133Nph0aGwDkPDzSsPcHikgQgBba_h6rXDRcbkHV_rn1WxHGveh8TpzcSEcr45BhlqehFt1g_Tb1QIAAAKEUgAAAAxoAQd-ADZME7ol21-DfUQO1zNdHMp4WuBey3x6LVvpnLeAIRTrR7qYmSp4OTKAEJ8bEQgH2PCJdwrKHh-ZApqZmnWTnorUh0FsJygkEGOCXUyF7hnOQ1vyEPxVI9GAZYqCZEldCN0NTj8RJcM33wJLxSBdFnifKfdEOO2Oz0GOtRtfa40s9a3SRtfRioSQgR9hYhWTdLcPaeImazfq2ZOlJ0y6I801dO0aOZOZg7DoS2zh5F6rT0-BvqVDFA3ENz_1hbqlc_2EzFLnxuRdCZ_Rr232a0bHv9LY0RP6q9jq6sGrLgxtMHeVJiCYkxsjQwG-_yiTLZMri2HiIn_va4abPioaSgZQGD_QWSwprUDOr-lAiAQtGIK1DF001SsTVdyhPGajyCQM-MBfMOnhn3VKOl3iwrthrfz3wYALFnSShGbF1HW94St3jAbLSfwJhlY6BRS7trdWd7w-wfsTeMYfWI8ZAZaT3mPdn4ecuTL6lZTw-3aypRk62i262KjzO6SIJaygzZEcbJAeXtcOe6LWxHp2hXJlpKL9p4izynNQGv72KJQIBsHCXU18Iq2Q2yZBJHu2nHWBRbtyFa7FtZiYOKlq-dlDOK6gZ8B1Zj-pCy6rCOwU_uAR_4_yS_E8p2cafhsRnT7LV7EUvARpi1Oi4wvYvZOLaKpnHYqskvsjrniGuQuPyUL2u5VjdGT-B2dVd7slQlCUqNaCvEQKBDm7xDCcUwF_8DaiwOAiUAjSUD0QJ6DtXOEE01zv-v5k-HW4X8lzCgY-nbtSELsnanDQ3DeXtxeBXzJio0PUctZDjBzLWZ3J_nZ8JKmn_jJwOHP8U5C_sy6oW56sZTk3I-E3VWXXPnEfBdLE8RzJy0GUKhozT32XWOBr_obdZh-VOKrbJ5Sszev9k-UKR6RxEJUEvVvN3Eam1zJWohVJKnc9gzZ7yax3eUbsugye3847QAscXWjqqKpAwhA",
+      "status": 204,
+      "ok": true,
+      "method": "GET",
+      "resourceType": "image",
+      "contentType": "image/",
+      "fixture": "",
+      "error": ""
+    }
+  ]
+}
