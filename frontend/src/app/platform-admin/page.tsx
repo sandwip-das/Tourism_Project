@@ -1617,7 +1617,7 @@ export default function PlatformAdminPage() {
                 <div className="mt-6 space-y-6">
                   <div className="flex items-center justify-between pb-2">
                     <span className="text-xs font-black uppercase tracking-wider text-[#0057D9]">
-                      4 Action Matrix Cards (Lonely Planet Exploration Matrix)
+                      4 Action Matrix Cards (SANDVIORA Interactive Discovery Matrix)
                     </span>
                     <span className="text-xs text-gray-500">
                       Changes save individually to SQLite database

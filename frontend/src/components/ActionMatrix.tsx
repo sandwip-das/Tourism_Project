@@ -68,7 +68,7 @@ export default function ActionMatrix({ cards, lang, onBookTourClick }: ActionMat
     <section id="block-promotions" className="py-14 sm:py-20 bg-[#F4F5F7] border-b border-gray-200">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
-        {/* Monospace Divider Header Bar (Lonely Planet signature) */}
+        {/* Monospace Divider Header Bar (SANDVIORA signature) */}
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-8 sm:mb-12">
           <p className="text-xs sm:text-sm font-mono tracking-widest uppercase text-[#1D232C] whitespace-nowrap">
             {lang === 'en' ? 'YOUR TRAVEL BEGINS HERE.' : 'আপনার ভ্রমণ এখান থেকেই শুরু।'}

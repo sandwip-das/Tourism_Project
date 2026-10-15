@@ -1,6 +1,6 @@
 # SANDVIORA TOURISM LTD. — Travel Discovery & Governance Platform
 
-A high-performance, editorial-first travel platform for Bangladesh, built following the **SANDVIORA Master Project Plan**. The application consolidates destination discovery, curated tour packages, instant reservations, and administrative governance into a single cohesive portal (similar to Lonely Planet), backed by a central RESTful API designed for future multi-portal distribution.
+A high-performance, editorial-first travel platform for Bangladesh, built following the **SANDVIORA Master Project Plan**. The application consolidates destination discovery, curated tour packages, instant reservations, and administrative governance into a single cohesive portal, backed by a central RESTful API designed for future multi-portal distribution.
 
 ---
 
@@ -10,7 +10,7 @@ A high-performance, editorial-first travel platform for Bangladesh, built follow
    - Every headline, tagline, navigation menu item, feature badge, section title, and footer address is dynamically served from Django DRF endpoints.
    - Bilingual support: Seamless toggle between **English** and **বাংলা**.
 
-2. **Consolidated Travel Experience (Lonely Planet Style)**:
+2. **Consolidated Travel Discovery & Booking Experience**:
    - **Handpicked Destinations**: Sajek Valley, Cox's Bazar, Sundarbans, Sreemangal, Bandarban, and Tanguar Haor with geo-division filtering, ratings, climate guides, and duration specs.
    - **Curated All-Inclusive Expeditions**: Pricing in BDT, discounts, max group sizes, difficulty levels, and full day-by-day itineraries.
    - **Interactive Reservation Engine**: Real-time traveler multiplier, instant booking reference generation (`SND-XXXXXXXX`), and automated downloadable PDF booking vouchers.
@@ -36,7 +36,7 @@ A high-performance, editorial-first travel platform for Bangladesh, built follow
 | **Backend Framework** | Django 6.x + DRF | RESTful endpoints, ORM, SQLite (dev) |
 | **PDF Generation** | ReportLab 5.0 | Corporate watermarks, tables, branding headers |
 | **Frontend Framework** | Next.js 16 (App Router) + Turbopack | React 19, TypeScript |
-| **Styling** | Build-time Tailwind CSS v4 + PostCSS | Zero CDN, fully tree-shaken, ultra-lightweight, Lonely Planet design system |
+| **Styling** | Build-time Tailwind CSS v4 + PostCSS | Zero CDN, fully tree-shaken, ultra-lightweight, SANDVIORA editorial design system |
 | **Icons** | Lucide React | Lightweight vector travel iconography |
 
 ---
@@ -77,7 +77,7 @@ Tourism_Project/
     │   ├── components/
     │   │   ├── Navbar.tsx            # Dynamic CMS navigation & language switcher
     │   │   ├── Hero.tsx              # Dynamic hero, search, and category pills
-    │   │   ├── Destinations.tsx      # Lonely Planet style cards & guide modals
+    │   │   ├── Destinations.tsx      # SANDVIORA editorial cards & guide modals
     │   │   ├── Tours.tsx             # Expedition cards, pricing in BDT
     │   │   ├── AdminPortal.tsx       # Live KPI dashboard & 1-click PDF download deck
     │   │   ├── BookingModal.tsx      # Real-time booking form & instant voucher

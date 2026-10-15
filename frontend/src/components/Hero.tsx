@@ -35,7 +35,7 @@ export default function Hero({
 
   return (
     <div className="relative w-full">
-      {/* Lonely Planet Full-Bleed Hero Section */}
+      {/* Full-Bleed Hero Section */}
       <section className="relative w-full overflow-hidden flex flex-col justify-end min-h-[560px] sm:min-h-[680px] lg:min-h-[820px] bg-[#121212]">
         {/* Full Bleed Background Image */}
         <div className="absolute inset-0 z-0 h-full w-full" aria-hidden="true">
@@ -68,7 +68,7 @@ export default function Hero({
               {headline}
             </h1>
 
-            {/* Floating Sage Green Editorial Card (Lonely Planet Signature bg-[#D2DEC4] / -rotate-1) */}
+            {/* Floating Sage Green Editorial Card (SANDVIORA Signature bg-[#D2DEC4] / -rotate-1) */}
             <div className="bg-[#D2DEC4] text-[#1D232C] p-6 sm:p-7 sm:-rotate-1 shadow-xl max-w-xl border border-[#b8c9a6]">
               <p className="text-sm sm:text-base font-normal leading-relaxed text-[#1D232C] mb-5">
                 {subheadline}

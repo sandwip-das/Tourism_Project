@@ -50,7 +50,7 @@ SANDVIORA TOURISM LTD. is a Bangladesh-centric tourism information, destination 
 | Phase | Scope |
 |---|---|
 | **Phase 0** | Requirements, design system, ERD, CMS section catalogue, wireframes |
-| **Phase 1** | Consolidated Public discovery & travel portal (Lonely Planet style), CMS, geography, destinations, editorial content, search, SEO, media, unified single application |
+| **Phase 1** | Consolidated Public discovery & travel portal (SANDVIORA editorial style), CMS, geography, destinations, editorial content, search, SEO, media, unified single application |
 | **Phase 2** | User accounts, wishlist, saved trips, itinerary planner, newsletter, feedback |
 | **Phase 3** | Verified provider directory, packages, services, availability, booking, payment, affiliate, PDF reporting in admin panels |
 | **Phase 4** | *(Deferred for later)* Multi-portal publishing, multi-domain distribution, CRM, AI-assisted discovery |
@@ -58,7 +58,7 @@ SANDVIORA TOURISM LTD. is a Bangladesh-centric tourism information, destination 
 ### 1.4 Key Goals
 
 1. Reliable, bilingual (BN/EN) tourism information database for Bangladesh
-2. Mobile-first, visually rich editorial travel UI — CMS-controlled without code changes (Lonely Planet-style consolidated travel experience)
+2. Mobile-first, visually rich editorial travel UI — CMS-controlled without code changes (SANDVIORA consolidated travel experience)
 3. Centralized RESTful API architecture designed to power the initial consolidated application and seamlessly distribute to future multi-portal channels
 4. Comprehensive PDF Reporting System within all Admin Panels for operational, booking, financial, and engagement activities
 5. Fast, accurate search and filter across destinations, experiences, and tours

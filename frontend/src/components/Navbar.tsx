@@ -117,11 +117,11 @@ export default function Navbar({
 
   return (
     <header className="sticky top-0 z-50 w-full bg-white border-b border-gray-200 transition-all duration-200">
-      {/* Lonely Planet style clean navbar with NO clunky top banner bar */}
+      {/* Clean navbar with NO clunky top banner bar */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-18">
           
-          {/* Brand Logo - clean Lonely Planet style with right border delimiter */}
+          {/* Brand Logo with right border delimiter */}
           <div className="flex items-center">
             <Link href="/" className="flex items-center gap-2.5 pr-6 sm:border-r sm:border-gray-200 group">
               <div className="w-9 h-9 rounded-full bg-[#0057D9] flex items-center justify-center text-white transition-colors">
@@ -140,7 +140,7 @@ export default function Navbar({
             {/* Desktop Navigation Links - Refined normal/medium font weights */}
             <nav className="hidden lg:flex items-center pl-6 gap-1 text-[13px] tracking-wider uppercase font-medium text-gray-700">
               
-              {/* Destinations with Lonely Planet Style Hover Flyout */}
+              {/* Destinations with Hover Flyout */}
               <div 
                 className="relative"
                 onMouseEnter={() => setDestinationsMenuOpen(true)}

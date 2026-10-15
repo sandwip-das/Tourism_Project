@@ -1529,9 +1529,9 @@ accessibility defects; search and content freshness validated.
 
 ------------------------------------------------------------------------
 
-# 18. ZIP reference audit এবং tourism-specific implementation amendments
+# 18. Reference audit এবং tourism-specific implementation amendments
 
-এই অধ্যায়টি ব্যবহারকারীর `loanly planet.zip` ফাইলের local notes, clone report, HTML capture, CSS/JS interaction layer এবং আগের tourism proposal-কে একত্র করে। ZIP-টি Lonely Planet homepage-এর একটি static/local capture; এটি সম্পূর্ণ source repository বা reusable licensed template নয়। ZIP report-এ homepage capture-এর 100 sections, 945 links, 121 image elements এবং 200 buttons-এর মতো high-density page structure নথিভুক্ত আছে। Local interaction layer বিশেষভাবে desktop mega-menu, overlay/backdrop, horizontal carousel arrows, newsletter validation এবং search-input focus আচরণ যোগ করেছে। এগুলো reference থেকে পর্যবেক্ষণ করা interaction patterns—আপনার প্রজেক্টে একই কনটেন্ট বা exact code কপি করার নির্দেশ নয়।
+এই অধ্যায়টি ব্যবহারকারীর রেফারেন্স ফাইলের local notes, clone report, HTML capture, CSS/JS interaction layer এবং আগের tourism proposal-কে একত্র করে। এটি সম্পূর্ণ source repository বা reusable licensed template নয়। রেফারেন্স রিপোর্টে 100 sections, 945 links, 121 image elements এবং 200 buttons-এর মতো high-density page structure নথিভুক্ত আছে। Local interaction layer বিশেষভাবে desktop mega-menu, overlay/backdrop, horizontal carousel arrows, newsletter validation এবং search-input focus আচরণ যোগ করেছে। এগুলো reference থেকে পর্যবেক্ষণ করা interaction patterns—আপনার প্রজেক্টে একই কনটেন্ট বা exact code কপি করার নির্দেশ নয়।
 
 ## 18.1 Reference থেকে গ্রহণযোগ্য design behaviour
 
@@ -1546,10 +1546,10 @@ accessibility defects; search and content freshness validated.
 
 ## 18.2 Reference-এর visual fidelity বনাম স্বাধীন brand identity
 
-- Lonely Planet-এর logo, proprietary font files, images, text, icon set, exact copy, CSS class structure বা original compiled JS production-এ ব্যবহার করা যাবে না, যদি না আলাদা বৈধ license থাকে। ZIP-এর `NOTES.md`-ও source assets-কে proprietary এবং local study only বলে চিহ্নিত করে।
+- কোনো এক্সটার্নাল ব্র্যান্ডের logo, proprietary font files, images, text, icon set, exact copy, CSS class structure বা original compiled JS production-এ ব্যবহার করা যাবে না। নিজস্ব ব্র্যান্ডের স্বতন্ত্র আইডেন্টিটি রক্ষা করতে হবে।
 - নতুন brand-এর জন্য নিজস্ব typography pairing, color tokens, icon rules, component radius, shadows, grid, motion curves ও image treatment নির্ধারণ করতে হবে।
 - User নিজস্ব ছবি upload করবেন। প্রতিটি asset-এর alt text, caption/credit, usage rights, focal point, orientation এবং responsive crop variant CMS-এ নিয়ন্ত্রণযোগ্য হবে।
-- “Lonely Planet-এর মতো” বলতে editorial quality, navigation clarity, image-led discovery এবং interaction patterns বোঝাবে—pixel-for-pixel clone নয়।
+- “আন্তর্জাতিক এডিটোরিয়াল স্ট্যান্ডার্ড” বলতে editorial quality, navigation clarity, image-led discovery এবং interaction patterns বোঝাবে—pixel-for-pixel clone নয়।
 
 ## 18.3 Tourism homepage-এর CMS-driven section registry
 
@@ -1837,7 +1837,7 @@ Use shared typed table/form components, but do not make one generic form capable
 
 ---
 
-## 18.10 Acceptance checklist for the Lonely Planet-inspired tourism UI
+## 18.10 Acceptance checklist for the SANDVIORA tourism UI
 
 - [ ] Desktop homepage reproduces the desired editorial rhythm without copied text, imagery, brand assets or proprietary fonts.
 - [ ] Mobile at 390 px, tablet at 768 px and desktop at 1440 px have designed—not merely shrunk—layouts.
@@ -1854,13 +1854,13 @@ Use shared typed table/form components, but do not make one generic form capable
 
 # 19. Final recommendation
 
-Build SANDVIORA TOURISM LTD. first as a **tourism-first, CMS-first destination information and discovery platform** with a normalized relational database, explicit permission boundaries, fast search and a premium editorial UI inspired by interaction patterns observed in the supplied Lonely Planet reference ZIP. Use PostgreSQL as the intended production database; SQLite may be used for a local prototype, but should not be assumed to support production booking concurrency and operational needs without a separate assessment.
+Build SANDVIORA TOURISM LTD. first as a **tourism-first, CMS-first destination information and discovery platform** with a normalized relational database, explicit permission boundaries, fast search and a premium editorial UI. Use PostgreSQL as the intended production database; SQLite may be used for a local prototype, but should not be assumed to support production booking concurrency and operational needs without a separate assessment.
 
 The first release should deliver verified Bangladesh geography and destinations, bilingual CMS, homepage/page builder, destination/article/guide/itinerary pages, accessible navigation and carousels, fast search/filter, SEO, media pipeline, editorial review, audit trail, backup/restore and responsive accessible UI. Add user accounts and saved trips after the public discovery experience is stable.
 
 Only then add provider inventory, booking, tourism payment/refund, affiliate/commission and multi-portal capabilities. These transactions are tourism product features, not a general-purpose accounting/ERP system. HRIS, payroll and internal accounting are explicitly excluded and should be designed as a separate project.
 
-The supplied ZIP is a local capture of a proprietary reference, not an open-source template. Recreate the design principles and interaction behavior with original branding, original design tokens, licensed or user-owned images, and independently authored text. Do not deploy copied Lonely Planet text, photos, fonts, logo or proprietary assets.
+The supplied reference archive is a local capture for technical reference only. Recreate the design principles and interaction behavior with original SANDVIORA branding, original design tokens, licensed or user-owned images, and independently authored text. Do not deploy copied external text, photos, fonts, logo or proprietary assets.
 
 ---
 

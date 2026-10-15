@@ -189,7 +189,7 @@ export default function Home() {
         onExploreClick={scrollToDestinations}
       />
 
-      {/* 3. Lonely Planet Best in Travel 2026 Editorial Callout Banner (Dynamically managed) */}
+      {/* 3. Best in Travel 2026 Editorial Callout Banner (Dynamically managed) */}
       <BestInTravelBanner
         banner={campaignBanner}
         lang={lang}
@@ -322,7 +322,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 12. Authentic Lonely Planet Royal Blue Newsletter Section */}
+      {/* 12. SANDVIORA Royal Blue Newsletter Section */}
       <section id="NL-HOMEPAGE-section" className="bg-[#0057D9] text-white py-16 sm:py-20 px-4 sm:px-6 lg:px-8 border-b border-blue-800">
         <div className="max-w-3xl mx-auto text-center">
           <h2 

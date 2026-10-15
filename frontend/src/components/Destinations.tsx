@@ -66,7 +66,7 @@ export default function Destinations({
           </a>
         </div>
 
-        {/* Lonely Planet Editorial Layout: 1 Featured Spotlight + Grid */}
+        {/* Editorial Layout: 1 Featured Spotlight + Grid */}
         {spotlightDest && (
           <div
             onClick={() => setActiveModalDest(spotlightDest)}

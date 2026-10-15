@@ -48,7 +48,7 @@ export default function SpotlightBanners({ spotlights, lang, onBookTourClick }: 
     <section className="py-16 sm:py-24 bg-white border-b border-gray-200">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-20">
         
-        {/* 1. TRENDING DESTINATION (Authentic Lonely Planet Split Layout) */}
+        {/* 1. TRENDING DESTINATION (SANDVIORA Split Layout) */}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-16 items-center">
           <div className="lg:col-span-7 relative">
             <div className="relative aspect-[4/3] w-full lg:[rotate:-1deg] overflow-hidden shadow-lg border border-gray-200">
@@ -89,7 +89,7 @@ export default function SpotlightBanners({ spotlights, lang, onBookTourClick }: 
           </div>
         </div>
 
-        {/* 2. PARTNER SPOTLIGHT (Authentic Lonely Planet Immersion Banner) */}
+        {/* 2. PARTNER SPOTLIGHT (SANDVIORA Immersion Banner) */}
         <div className="relative min-h-[460px] sm:min-h-[540px] flex items-end overflow-hidden shadow-lg border border-gray-200">
           <img
             src={partner.image_url}
